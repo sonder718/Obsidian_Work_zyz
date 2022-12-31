@@ -1,0 +1,16 @@
+{
+  "pinned": [
+    "graph:open",
+    "global-search:open",
+    "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-on-current",
+    "obsidian-spaced-repetition:srs-review-flashcards-in-note",
+    "obsidian-spaced-repetition:srs-review-flashcards",
+    "obsidian-spaced-repetition:srs-note-review-open-note",
+    "note-refactor-obsidian:app:extract-selection-first-line",
+    "obsidian-markmind:Toggle to markdown or mindmap",
+    "obsidian-mind-map:app:markmap-preview",
+    "hotkeysplus-obsidian:toggle-bullet-number",
+    "obsidian-linter:lint-file",
+    "Enhanced-editing:zhe-lines"
+  ]
+}

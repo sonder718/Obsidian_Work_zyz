@@ -1,0 +1,15 @@
+- ![](attachments/Pasted%20image%2020221123154053.png)
+- ![](attachments/Pasted%20image%2020221123154539.png)
+- **HTTP请求状态行**
+	- 请求行由请求`Method`, `URL` 字段和`HTTP Version`三部分构成, 总的来说请求行就是定义了本次请求的请求方式, 请求的地址, 以及所遵循的HTTP协议版本
+	- ![](attachments/Pasted%20image%2020221123154208.png)
+	- **Method**
+		- _`GET`： 请求**获取**Request-URI所标识的资源_
+		-  `POST`： 在Request-URI所标识的资源后**增加**新的数据 
+			- [[POST与GET的区别]]
+		- _`HEAD`： 请求获取由Request-URI所标识的资源的**响应消息报头**_ 
+		- `PUT`： 请求服务器**存储或修改**一个资源，并用Request-URI作为其标识
+		-  _`DELETE`： 请求服务器**删除**Request-URI所标识的资源_ 
+- HTTP**请求头**/**首部行**
+	- ![](attachments/Pasted%20image%2020221123154458.png)
+- HTTP报文体

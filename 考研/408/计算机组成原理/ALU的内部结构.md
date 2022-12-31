@@ -1,0 +1,6 @@
+- 利用多路选择器根据S(Aluop)的值将应输出的result选择出来
+-  [[从一位FA到32位快速加法器]]
+- [[阵列乘法器]]
+- ![](attachments/Pasted%20image%2020221207141257.png)
+- ![](attachments/Pasted%20image%2020221207141303.png)
+- ![](attachments/Pasted%20image%2020221207140803.png)

@@ -1,0 +1,63 @@
+#include<iostream>
+using namespace std;
+// typedef int ELEMT;
+typedef struct node
+{
+    int data;
+    node* next=NULL; // 注意此处不能用别名Node
+}Node,*LinkList;
+
+bool get_back_k(Node* head,int k)
+{
+    //双指针 back_k处的节点和当前遍历到的节点now_node;
+    Node* back_k=NULL;
+    Node* now_node=head;
+    //计数器
+    int count=0;
+    while (1)
+    {
+        count+=1;
+        if(!now_node->next) break;
+        if(count<k)
+        {
+            now_node=now_node->next;
+        }
+        else if(count==k)
+        {
+            now_node=now_node->next;
+            back_k=head;
+        }
+        else
+        {
+            now_node=now_node->next;
+            back_k=back_k->next;
+        }
+
+    }
+    if (!back_k) 
+    {
+        cout<<"fail";
+        return 0;}
+    else{
+        cout<<back_k->data;
+        return 1;
+    }
+}
+int main()
+{
+    Node* L=new Node();
+    L->next=NULL;
+    L->data=123;
+    // cout<<L->data;
+    Node* curr_node;
+    curr_node=L;
+    for(int i=0;i<10;i++)
+    {
+        LinkList node1=new Node();
+        node1->data=i;
+        curr_node->next=node1;
+        curr_node=node1;
+    }
+    get_back_k(L,11);
+    return 0;
+}

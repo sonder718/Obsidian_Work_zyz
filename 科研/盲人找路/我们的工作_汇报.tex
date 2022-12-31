@@ -1,0 +1,599 @@
+\PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provides euro and other symbols
+\else % if luatex or xelatex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage[]{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\usepackage{hyperref}
+\hypersetup{
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\newenvironment{Shaded}{}{}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.49,0.56,0.16}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.53,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.56,0.13,0.00}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.73,0.13,0.13}{\textit{#1}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.02,0.16,0.49}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.40,0.40,0.40}{#1}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.74,0.48,0.00}{#1}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.73,0.40,0.53}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.10,0.09,0.49}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
+\usepackage{longtable,booktabs}
+% Fix footnotes in tables (requires footnote package)
+\IfFileExists{footnote.sty}{\usepackage{footnote}\makesavenoteenv{longtable}}{}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+
+\date{}
+
+\begin{document}
+
+\tableofcontents
+
+\hypertarget{ux5f53ux524dux7684ux4efbux52a1}{%
+\section{当前的任务}\label{ux5f53ux524dux7684ux4efbux52a1}}
+
+\hypertarget{ux6458ux8981}{%
+\section{摘要}\label{ux6458ux8981}}
+
+近年来,计算机视觉技术领域取得了长足的进展,在目标检测、语义分割等方向都有大量出彩的技术出现,同时计算机视觉技术的落地与应用也愈发重要.本项目聚焦我国的视觉障碍人群,利用语义分割,光流等计算机视觉技术,构建基于双目相机的盲人户外智能语音辅助系统,帮助盲人更加安全便捷地进行户外行走.
+
+\hypertarget{ux6838ux5fc3ux529fux80fd}{%
+\section{核心功能}\label{ux6838ux5fc3ux529fux80fd}}
+
+视障人士出行时得以选择安全且正确的行走路线,能够在语音的引导下走上盲道同时避开途中的障碍物,当遇到需穿过马路情景时能够引导用户在斑马线上通过马路,最终到达正确目的地。
+
+本系统的核心技术难点在于感知,规划,决策,控制四个方面,其中重点与难点在于感知与规划.
+
+以下是本系统的运行流程
+
+\begin{figure}
+\centering
+\includegraphics[width=2.73958in,height=\textheight]{16515440501322.png}
+\caption{}
+\end{figure}
+
+\hypertarget{ux611fux77e5}{%
+\section{感知}\label{ux611fux77e5}}
+
+感知周围环境是系统最为重要的一环.对于盲人用户而言,环境中的两种信息是其最为关注的,一是环境中的盲道与人行道等道路标识线,二是前进方向上的障碍物.
+
+\hypertarget{ux611fux77e5ux9053ux8defux6807ux8bc6ux7ebf}{%
+\subsection{感知道路标识线}\label{ux611fux77e5ux9053ux8defux6807ux8bc6ux7ebf}}
+
+本系统的核心宗旨是让盲人尽可能的走在安全的地方,而盲道与人行道作为相对更加安全的区域是我们所提倡前往的,因此对于盲道与人行道的感知不能够仅仅停留在检测的程度,还需要进行进一步的语义分割,提取延伸方向,与抽象化区域等工作.
+
+最终需要感知到的信息包括如下:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  盲道与人行道的走向
+\item
+  盲道与人行道的可行走区域(以一或多个闭包的形式表示)
+\item
+  盲道起点与用户当前所处位置的角度与距离
+\end{enumerate}
+
+此处主要使用相机获取的RGB图像信息.\\
+进行规范化描述即为:
+
+\begin{verbatim}
+input:predicted_img
+
+output:
+blind_road_find=1//是否发现盲道
+blind_road_distance=0.5m//盲道与使用者的距离
+blind_road_angle=-30°//盲道在使用者的左边30度角位置
+on_blind_road=1//使用者是否位于盲道上
+blind_road_departure//使用者是否正在偏离盲道
+
+sideways_find=1//是否发现人行道
+sideways_distance=3.5m//人行道与使用者的距离
+sideways_angle=30°//人行道在使用者的右边30度角位置
+on_sideways=1//使用者是否位于人行道上
+sideways_departure//使用者是否正在偏离人行道
+\end{verbatim}
+
+\hypertarget{ux8bedux4e49ux5206ux5272}{%
+\subsubsection{语义分割}\label{ux8bedux4e49ux5206ux5272}}
+
+盲道与人行道作为特征较为明显的两类道路标识线,在输入图像较为清晰,背景环境简单,样本类型单一的情况下,利用二值化,canny边缘检测等传统图像处理算法能够取得较为良好的分割效果,且分割速度极快,但由于现实环境复杂多变,相机防抖的缺失,盲道种类繁多等原因,利用深度学习技术进行语义分割更加适宜本项目的需求.
+
+由于目前大多数盲路和人行横道分割方法所使用的数据集主要强调了盲道或人行横道的特征，而忽略了环境影响,我们从真实环境中收集背景更复杂的图像，并用语义标签将数据集标记为盲路和人行道。
+
+我们的数据集包括868张打标签的 512 ×
+512的图像,其中包含盲道标签的图像612张,包含人行道标签的图像412张,训练集:验证集:测试集=7:2:1,在正式训练前,采用了数据增强技术,对数据进行随机垂直与水平翻转,随机图像截取,随机图像模糊等处理.
+
+本文分别采用deeplabv3+与bisenetv2进行训练,由于bisenetv2拥有更好的实时性,本项目最终选用bisenetv2.
+
+数据集示例如下
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作.assets/image-20220419011513695.png}
+\caption{}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作.assets/image-20220419011539441.png}
+\caption{}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作.assets/image-20220419011638477.png}
+\caption{}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作.assets/image-20220419011655410.png}
+\caption{}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作.assets/image-20220419002926889.png}
+\caption{}
+\end{figure}
+
+\hypertarget{1ux8badux7ec3ux7ec6ux8282}{%
+\paragraph{(1)训练细节}\label{1ux8badux7ec3ux7ec6ux8282}}
+
+训练时的批大小设置为4,学习率设置为0.005,迭代70轮.总体来说,loss收敛良好,在验证集上miou达到0.9182,Kappa一致性检验值为0.936,一致性较好.
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作.assets/image-20220419011838499.png}
+\caption{image-20220419011838499}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作.assets/image-20220419012957783.png}
+\caption{image-20220419012957783}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作.assets/image-20220419014639225.png}
+\caption{image-20220419014639225}
+\end{figure}
+
+\hypertarget{2ux7ed3ux679c}{%
+\paragraph{(2)结果}\label{2ux7ed3ux679c}}
+
+在验证集上miou达到0.9182
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule
+& 准确率(acc) & 交互比(iou) & f1-score\tabularnewline
+\midrule
+\endhead
+背景 & 0.98997 & 0.9828 & 0.9913\tabularnewline
+盲道 & 0.96316 & 0.9177 & 0.9571\tabularnewline
+人行道 & 0.93299 & 0.8536 & 0.921\tabularnewline
+\bottomrule
+\end{longtable}
+
+在实际测试的推理过程中,每张图片平均预测用时约250ms,能大致满足
+
+\hypertarget{3ux53efux89c6ux5316ux7ed3ux679c}{%
+\paragraph{(3)可视化结果}\label{3ux53efux89c6ux5316ux7ed3ux679c}}
+
+在盲路和人行横道测试集上的一些可视化
+
+\hypertarget{ux76f2ux9053ux6548ux679c}{%
+\subparagraph{盲道效果}\label{ux76f2ux9053ux6548ux679c}}
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作_汇报.assets/156_processed.png}
+\caption{156\_processed}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作_汇报.assets/161_processed.png}
+\caption{161\_processed}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作_汇报.assets/171_processed.png}
+\caption{171\_processed}
+\end{figure}
+
+\hypertarget{ux4ebaux884cux9053}{%
+\subparagraph{人行道}\label{ux4ebaux884cux9053}}
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作.assets/visualize_201_color.png}
+\caption{visualize\_201\_color}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作_汇报.assets/178_processed.png}
+\caption{178\_processed}
+\end{figure}
+
+\hypertarget{ux76f2ux9053ux4e0eux4ebaux884cux9053ux8d70ux5411ux83b7ux53d6}{%
+\subsubsection{盲道与人行道走向获取}\label{ux76f2ux9053ux4e0eux4ebaux884cux9053ux8d70ux5411ux83b7ux53d6}}
+
+为什么要获取走向?
+
+由于要平衡"走安全的路"与"走便捷的路"两种决策,为避免走安全的路却走在错误的方向的情况出现,需要获取盲道与人行道的走向,以实现行走大方向的不偏移.
+
+由于语义分割后的结果是像素级别的分割,需要进行进一步分析出更多抽象化特征.
+
+\hypertarget{ux4ebaux884cux9053ux8d70ux5411ux83b7ux53d6}{%
+\paragraph{人行道走向获取}\label{ux4ebaux884cux9053ux8d70ux5411ux83b7ux53d6}}
+
+随机一致采样性(RANSAC)算法
+
+人行道检测存在以下典型应用场景:
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作.assets/image-20220419003749661.png}
+\caption{}
+\end{figure}
+
+{[}面向视障出行辅助的视觉感知技术研究{]}一文中主要研究了利用自适应分割与一致性分析,但未对人行道的走向分析与区域抽象化进行研究.
+
+我们采用如下区域进行区域与走向的提取方式:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Input:}
+\NormalTok{	语义分割预测结果图像}
+
+\NormalTok{Algorithm:}
+\NormalTok{    初始化阈值bw_height,bw_width}\OperatorTok{;}
+\NormalTok{	处理图像,过滤出只有人行道的二值图}\OperatorTok{;}
+\NormalTok{	对图像进行侵蚀处理}\OperatorTok{;}
+\NormalTok{	对此二值图像提取轮廓列表contours}\OperatorTok{;}
+	\ControlFlowTok{for}\NormalTok{ contour }\KeywordTok{in}\NormalTok{ contours:}
+\NormalTok{        获取轮廓contour最小外接矩形box}\OperatorTok{;}
+\NormalTok{        如果 box.高}\OperatorTok{>}\NormalTok{bw_height 或 box.宽}\OperatorTok{>}\NormalTok{bw_width:}
+\NormalTok{            box[}\DecValTok{0}\NormalTok{]加入left_line列表}\OperatorTok{;}            
+\NormalTok{            box[}\DecValTok{2}\NormalTok{]加入right_line列表}
+\NormalTok{	RANSAC算法}\OperatorTok{;}
+               
+\end{Highlighting}
+\end{Shaded}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  处理图像,过滤出只有人行道的二值图
+\item
+  对图像进行侵蚀处理
+\item
+  对此二值图像提取轮廓
+\item
+  遍历每个轮廓,如果
+\end{enumerate}
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作.assets/image-20220419021455707.png}
+\caption{}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作.assets/390_color.png}
+\caption{}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作.assets/image-20220419021506348.png}
+\caption{}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作.assets/201_color.png}
+\caption{}
+\end{figure}
+
+\hypertarget{ux76f2ux9053ux8d70ux5411ux83b7ux53d6}{%
+\paragraph{盲道走向获取}\label{ux76f2ux9053ux8d70ux5411ux83b7ux53d6}}
+
+\hypertarget{ux970dux592bux76f4ux7ebf}{%
+\subparagraph{霍夫直线}\label{ux970dux592bux76f4ux7ebf}}
+
+盲道会转弯,直线经常检测不出来
+
+\hypertarget{ux5c1dux8bd5-1}{%
+\subparagraph{尝试}\label{ux5c1dux8bd5-1}}
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作_汇报.assets/image-20220422193052179.png}
+\caption{image-20220422193052179}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作_汇报.assets/361_color.png}
+\caption{361\_color}
+\end{figure}
+
+\hypertarget{ux4e00ux4e9bux5c1dux8bd5}{%
+\paragraph{一些尝试}\label{ux4e00ux4e9bux5c1dux8bd5}}
+
+通过传统图像处理与ransac获取人行道走向
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作_汇报.assets/image-20220422182754873.png}
+\caption{image-20220422182754873}
+\end{figure}
+
+\hypertarget{ux89d2ux5ea6ux4e0eux8dddux79bbux83b7ux53d6}{%
+\subsubsection{角度与距离获取}\label{ux89d2ux5ea6ux4e0eux8dddux79bbux83b7ux53d6}}
+
+测距与测角的原理如下图:
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作.assets/image-20220420204448620.png}
+\caption{}
+\end{figure}
+
+本系统采用的是双目相机类型是Realsense
+D415,其视场角\(\theta\)为69.4度,采集图像的像素为1280*720,令X=1280,p的位置为(x,y)
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  计算距离d米远处的相机的真实可测水平长度 \(L=2*d*tan(/ 2)\) 
+\item
+  计算实际中点 p 到相机视角正前方方向的垂直距离 \(l=(X/2-x)*L/X\)
+\item
+  根据d与l计算目标的距离\(d_{x},\theta_{x}\) \\
+  \includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/attachments/Pasted image 20220421020320.png}
+\end{enumerate}
+
+\hypertarget{ux76f2ux9053ux504fux79bbux68c0ux6d4b}{%
+\subsubsection{盲道偏离检测}\label{ux76f2ux9053ux504fux79bbux68c0ux6d4b}}
+
+利用当前行走朝向与盲道/人行道走向判定
+
+关于盲道
+
+\hypertarget{ux611fux77e5ux969cux788dux7269}{%
+\subsection{感知障碍物}\label{ux611fux77e5ux969cux788dux7269}}
+
+在复杂现实场景中,盲人出行所面临有动态障碍物与静态障碍物两种障碍物类型.本项目中主要研究的是对静态障碍物的检测.
+
+最终需要感知到的信息如下:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  障碍物的轮廓
+\item
+  障碍物与用户当前所处位置的角度与距离
+\end{enumerate}
+
+进行规范化描述即为:
+
+\begin{verbatim}
+input:
+
+rgb_img,depth_img/ply格式点云,care_meter
+
+output:
+
+obs_all_find=1   //care_meter距离内是否发现障碍物
+
+obs_front_find=1   //care_meter距离内行走正前方是否发现障碍物
+
+closest_obs_distance=0.5m  //最近的前方可能相碰障碍物与使用者的距离
+
+closest_obs_angle=-10°  //最近的前方可能相碰障碍物与使用者的角度
+
+obs_list  //障碍物列表,按照距离进行排序 每个障碍物包括属性如下{distance:2m,angle:40,width:100cm,height=30cm}
+\end{verbatim}
+
+\hypertarget{ux5229ux7528ux6df1ux5ea6ux56fe}{%
+\subsubsection{利用深度图}\label{ux5229ux7528ux6df1ux5ea6ux56fe}}
+
+\hypertarget{ux7b97ux6cd5ux6b65ux9aa4}{%
+\paragraph{算法步骤}\label{ux7b97ux6cd5ux6b65ux9aa4}}
+
+算法步骤如下
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  设定阈值
+\item
+  图像获取与深度补全
+  ⭐️\href{https://github.com/bowenyang92/RealsenseDepthImage}{bowenyang92/实感深感图像：处理来自实感摄像机的
+  rgb 和深度图像 (github.com)}
+\item
+  形态学腐蚀膨胀
+\item
+  边缘检测(canny算子与Sobel算子):
+  借鉴{[}{[}基于双目立体视觉的无人机避障算法研究 肖道文.{]}
+\item
+  寻找轮廓列表
+\item
+  聚类:获取所有轮廓的最小外接矩形,距离过远或没有检测数据则忽略,在设定阈值下合并矩形框
+\item
+  质心坐标获取
+\end{enumerate}
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作.assets/image-20220420004801262.png}
+\caption{}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作.assets/image-20220420010924306.png}
+\caption{}
+\end{figure}
+
+\hypertarget{ux5c1dux8bd5-2}{%
+\paragraph{尝试}\label{ux5c1dux8bd5-2}}
+
+深度补全处理前,边缘过于分散
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作_汇报.assets/未命名图片.png}
+\caption{未命名图片}
+\end{figure}
+
+分割前景(速度极慢)
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作_汇报.assets/QQ图片20220422183454.png}
+\caption{QQ图片20220422183454}
+\end{figure}
+
+均值移位算法分割前景
+
+\begin{figure}
+\centering
+\includegraphics{D:/Desktop/markdown笔记/obsidian/my life/科研/盲人找路/我们的工作_汇报.assets/QQ图片20220422183657.jpg}
+\caption{QQ图片20220422183657}
+\end{figure}
+
+\hypertarget{ux5229ux7528ux70b9ux4e91}{%
+\subsubsection{利用点云}\label{ux5229ux7528ux70b9ux4e91}}
+
+\hypertarget{ux5c1dux8bd5ux4e00}{%
+\paragraph{尝试一}\label{ux5c1dux8bd5ux4e00}}
+
+点云生成速度过慢,暂时放弃
+
+\url{https://github.com/IntelRealSense/librealsense/blob/master/wrappers/python/examples/export_ply_example.py}\\
+导出为ply格式点云,还没有试试速度
+
+\hypertarget{ux89c4ux5212}{%
+\section{规划}\label{ux89c4ux5212}}
+
+最终的目的是到达终点,大方向与小方向的融合问题,
+
+\hypertarget{ux53efux884cux8d70ux533aux57dfux7684ux5206ux7ea7ux4e0eux603bux4f53ux884cux8d70ux7b56ux7565}{%
+\subsection{可行走区域的分级与总体行走策略}\label{ux53efux884cux8d70ux533aux57dfux7684ux5206ux7ea7ux4e0eux603bux4f53ux884cux8d70ux7b56ux7565}}
+
+不可行走区域
+
+可行走区域
+
+建议行走区域(盲道,人行道)
+
+\hypertarget{ux4e0eux5c3aux5ea6ux5730ux56feux878dux5408ux95eeux9898ux5927ux65b9ux5411}{%
+\subsection{与尺度地图融合问题(大方向)}\label{ux4e0eux5c3aux5ea6ux5730ux56feux878dux5408ux95eeux9898ux5927ux65b9ux5411}}
+
+安全性,便利性
+
+一个情况:当盲道在旁边,目的地在对面时的应对
+
+\hypertarget{ux57faux4e8eux4ebaux5de5ux89c6ux573aux7684ux907fux969cux65b9ux6cd5}{%
+\subsection{基于人工视场的避障方法}\label{ux57faux4e8eux4ebaux5de5ux89c6ux573aux7684ux907fux969cux65b9ux6cd5}}
+
+1.通过障碍物与盲道人行道信息生成当前局部地图
+
+2.避障路线规划
+
+问题:场景不断变化中,地图怎么构建与更新
+
+\hypertarget{ux51b3ux7b56ux4e0eux63a7ux5236}{%
+\section{决策与控制}\label{ux51b3ux7b56ux4e0eux63a7ux5236}}
+
+提示什么信息.如何提示
+
+\end{document}

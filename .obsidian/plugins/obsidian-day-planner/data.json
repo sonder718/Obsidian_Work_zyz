@@ -1,0 +1,32 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 0,
+  "mermaid": false,
+  "notesToDates": [
+    {
+      "notePath": "Day Planners/未命名看板.md",
+      "date": "Sat Apr 16 2022"
+    },
+    {
+      "notePath": "Day Planners/Day Planner-20220417.md",
+      "date": "Sun Apr 17 2022"
+    },
+    {
+      "notePath": "Day Planners/Day Planner-20220418.md",
+      "date": "Mon Apr 18 2022"
+    },
+    {
+      "notePath": "Day Planners/Day Planner-20220420.md",
+      "date": "Wed Apr 20 2022"
+    },
+    {
+      "notePath": "Day Planners/Day Planner-20220503.md",
+      "date": "Tue May 03 2022"
+    }
+  ],
+  "completePastItems": true,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
+  "timelineZoomLevel": 4
+}

@@ -1,0 +1,137 @@
+{
+  "data": {
+    "table-id-5dGV4E": {
+      "model": {
+        "columnIds": [
+          "column-id-Q0uV54G6",
+          "column-id-WjjlWueS",
+          "column-id-g2UtBJzA",
+          "column-id-umQqFuRW"
+        ],
+        "rowIds": [
+          "row-id-nOW2yAdb",
+          "row-id-f4eVahZD"
+        ],
+        "cells": [
+          {
+            "id": "cell-id-GUZYh3pN",
+            "columnId": "column-id-Q0uV54G6",
+            "rowId": "row-id-nOW2yAdb",
+            "markdown": "公司名称",
+            "html": "公司名称",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-X7hqa47u",
+            "columnId": "column-id-WjjlWueS",
+            "rowId": "row-id-nOW2yAdb",
+            "markdown": "岗位类型",
+            "html": "岗位类型",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-b0bqE6lL",
+            "columnId": "column-id-g2UtBJzA",
+            "rowId": "row-id-nOW2yAdb",
+            "markdown": "当前进度",
+            "html": "当前进度",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-Nh0Awdlv",
+            "columnId": "column-id-umQqFuRW",
+            "rowId": "row-id-nOW2yAdb",
+            "markdown": "经验教训",
+            "html": "经验教训",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-3g5kQROb",
+            "columnId": "column-id-Q0uV54G6",
+            "rowId": "row-id-f4eVahZD",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-cmYtnPQe",
+            "columnId": "column-id-WjjlWueS",
+            "rowId": "row-id-f4eVahZD",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-oYztgyhQ",
+            "columnId": "column-id-g2UtBJzA",
+            "rowId": "row-id-f4eVahZD",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-xI5KFon9",
+            "columnId": "column-id-umQqFuRW",
+            "rowId": "row-id-f4eVahZD",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          }
+        ]
+      },
+      "settings": {
+        "columns": {
+          "column-id-Q0uV54G6": {
+            "sortDir": "default",
+            "width": "181px",
+            "type": "text",
+            "useAutoWidth": false,
+            "shouldWrapOverflow": true,
+            "tags": []
+          },
+          "column-id-WjjlWueS": {
+            "sortDir": "default",
+            "width": "147px",
+            "type": "text",
+            "useAutoWidth": false,
+            "shouldWrapOverflow": true,
+            "tags": []
+          },
+          "column-id-g2UtBJzA": {
+            "sortDir": "default",
+            "width": "140px",
+            "type": "text",
+            "useAutoWidth": false,
+            "shouldWrapOverflow": true,
+            "tags": []
+          },
+          "column-id-umQqFuRW": {
+            "sortDir": "default",
+            "width": "159px",
+            "type": "text",
+            "useAutoWidth": false,
+            "shouldWrapOverflow": true,
+            "tags": []
+          }
+        },
+        "rows": {
+          "row-id-nOW2yAdb": {
+            "creationDate": 1672496041931
+          },
+          "row-id-f4eVahZD": {
+            "creationDate": 1672496041932
+          }
+        }
+      },
+      "pluginVersion": 505
+    }
+  },
+  "tableFolder": "_notion-like-tables",
+  "viewModeSync": {
+    "tableId": null,
+    "viewModes": [],
+    "eventType": "update-state"
+  },
+  "shouldClear": false,
+  "shouldDebug": false
+}

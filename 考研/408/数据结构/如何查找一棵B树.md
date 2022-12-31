@@ -1,0 +1,3 @@
+##### 如何查找一棵B树
+- ![](attachments/%E5%A4%9A%E8%B7%AF%E5%B9%B3%E8%A1%A1%E6%9F%A5%E6%89%BE%E6%A0%91B%E6%A0%91%202022-10-30%2021.36.08.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](attachments/%E5%A4%9A%E8%B7%AF%E5%B9%B3%E8%A1%A1%E6%9F%A5%E6%89%BE%E6%A0%91B%E6%A0%91%202022-10-30%2021.36.08.excalidraw.md), and the [dark exported image](attachments/%E5%A4%9A%E8%B7%AF%E5%B9%B3%E8%A1%A1%E6%9F%A5%E6%89%BE%E6%A0%91B%E6%A0%91%202022-10-30%2021.36.08.excalidraw.dark.svg)%%

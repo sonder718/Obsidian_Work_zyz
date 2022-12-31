@@ -1,0 +1,6 @@
+- ![](attachments/Pasted%20image%2020221123152243.png)
+- 1) Web用户使用浏览器(指定URL)与Web服务器建立连接,并发送浏览请求。
+- 2) Web服务器把URL转换为文件路径,并返回信息给Web浏览器。
+- 3)通信完成,关闭连接。
+- ![](attachments/Pasted%20image%2020221123152007.png)
+- ![](attachments/Pasted%20image%2020221123152055.png)

@@ -1,0 +1,6 @@
+- ![](attachments/Pasted%20image%2020221123154700.png)
+- ![](attachments/Pasted%20image%2020221123154714.png)
+- **状态码**
+	- [[常见HTTP状态码和分类]]
+- **常见的HTTP响应报文头**/首部行
+	- ![](attachments/Pasted%20image%2020221123155303.png)

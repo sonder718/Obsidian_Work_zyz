@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "4e13b499b846fb60",
+    "type": "split",
+    "children": [
+      {
+        "id": "73f57161b1c04d41",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "考研/408/计算机网络/网络层.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65077cd43006fd0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "48d311a4e9ec3f07",
+        "type": "tabs",
+        "dimension": 66.83608640406608,
+        "children": [
+          {
+            "id": "93ce2b97a0f7e77b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "ef13f558fe93f349",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c342556c58f4e505",
+        "type": "tabs",
+        "dimension": 33.16391359593393,
+        "children": [
+          {
+            "id": "14ed939af0cbb9a3",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a7e4e0bcd990b8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "考研/408/计算机网络/网络层.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ccc2061cebf00104",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3aea95885c61139",
+        "type": "tabs",
+        "dimension": 52.37543453070683,
+        "children": [
+          {
+            "id": "814329e260ab237e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "考研/408/计算机网络/网络层.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cffa5a1202bf17bb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "761cafe3d0078f17",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b4f7f77fbef55507",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "考研/408/计算机网络/网络层.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ef6ac171e68f1148",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ec110275959b72a0",
+        "type": "tabs",
+        "dimension": 47.62456546929316,
+        "children": [
+          {
+            "id": "48d1ccbaa4062d42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e89a0616e86134a4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.5
+  },
+  "active": "73f57161b1c04d41",
+  "lastOpenFiles": [
+    "考研/408/计算机网络/核心：计算机网络.md",
+    "考研/408/408综合/核心：408综合.md",
+    "考研/408/计算机组成原理/核心：计算机组成原理.md",
+    "考研/408/计算机组成原理/数据的表示和运算.md",
+    "考研/408/计算机组成原理/定点数运算.md",
+    "考研/408/计算机组成原理/数制与编码.md",
+    "考研/408/计算机网络/距离向量路由算法之RIP协议.md",
+    "首页.md",
+    "考研/408/计算机网络/IP网络-使用IP协议的虚拟互联网络.md",
+    "考研/408/计算机网络/IPv4地址与网络地址转换NAT.md"
+  ]
+}

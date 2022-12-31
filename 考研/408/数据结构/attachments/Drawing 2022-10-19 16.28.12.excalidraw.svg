@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1426 47" width="1426" height="47">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style>
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://unpkg.com/@zsviczian/excalidraw@0.12.0-obsidian-11/dist/excalidraw-assets/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://unpkg.com/@zsviczian/excalidraw@0.12.0-obsidian-11/dist/excalidraw-assets/Cascadia.woff2");
+      }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="1426" height="47" fill="#f1f3f5"/><g transform="translate(10 10) rotate(0 703 13.5)"><text x="0" y="22" font-family="Helvetica, Segoe UI Emoji" font-size="20px" fill="#364fc7" text-anchor="start" style="white-space: pre;" direction="ltr">树转换成二叉树的画法:①在兄弟结点之间加一连线:②对每个结点,只保留它与第一个孩子的连线,而与其他孩子的连线全部抹掉;③以树根为轴心,顺时针旋转45°。</text></g></svg>
