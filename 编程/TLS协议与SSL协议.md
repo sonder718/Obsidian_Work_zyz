@@ -9,3 +9,6 @@
 ##### TLS协议
 - IETF对SSL3.0进行了标准化，并添加了少数机制(但是几乎和SSL3.0无差异)，标准化后的IETF更名为TLS1.0，可以说**TLS就是SSL的新版本3.1**
 - ![](attachments/Pasted%20image%2020230101145949.png)
+##### TLS下的TCP握手连接
+- ![](attachments/TLS%E5%8D%8F%E8%AE%AE%E4%B8%8ESSL%E5%8D%8F%E8%AE%AE%202023-01-01%2015.09.37.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](attachments/TLS%E5%8D%8F%E8%AE%AE%E4%B8%8ESSL%E5%8D%8F%E8%AE%AE%202023-01-01%2015.09.37.excalidraw.md), and the [dark exported image](attachments/TLS%E5%8D%8F%E8%AE%AE%E4%B8%8ESSL%E5%8D%8F%E8%AE%AE%202023-01-01%2015.09.37.excalidraw.dark.svg)%%
