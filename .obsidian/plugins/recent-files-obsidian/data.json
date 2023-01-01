@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "leetcode刷题-java",
+      "path": "编程/leetcode刷题-java.md"
+    },
+    {
       "basename": "我与工作",
       "path": "编程/我与工作.md"
     },
     {
-      "basename": "核心-Java后端开发",
-      "path": "编程/核心-Java后端开发.md"
-    },
-    {
-      "basename": "我的项目经历",
-      "path": "编程/我的项目经历.md"
+      "basename": "校招资讯",
+      "path": "编程/校招资讯.md"
     },
     {
       "basename": "投递简历情况",
@@ -21,8 +21,12 @@
       "path": "编程/内推资讯.md"
     },
     {
-      "basename": "leetcode刷题-java",
-      "path": "编程/leetcode刷题-java.md"
+      "basename": "我的项目经历",
+      "path": "编程/我的项目经历.md"
+    },
+    {
+      "basename": "核心-Java后端开发",
+      "path": "编程/核心-Java后端开发.md"
     },
     {
       "basename": "3-无重复字符的最长子串",
@@ -195,10 +199,6 @@
     {
       "basename": "哲学家就餐问题",
       "path": "考研/408/操作系统/哲学家就餐问题.md"
-    },
-    {
-      "basename": "单向车道问题",
-      "path": "考研/408/操作系统/单向车道问题.md"
     }
   ],
   "omittedPaths": [],
