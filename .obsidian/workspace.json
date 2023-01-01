@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "d153db6bef4ef1f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程/常用Linux命令.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a85c429da0199bd3",
             "type": "leaf",
             "state": {
@@ -73,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/常用Linux命令.md"
+                "file": "编程/核心-面经.md"
               }
             }
           }
@@ -160,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/常用Linux命令.md",
+                "file": "编程/核心-面经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/常用Linux命令.md",
+                "file": "编程/核心-面经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -259,17 +246,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d153db6bef4ef1f1",
+  "active": "9f812241118dfc95",
   "lastOpenFiles": [
+    "编程/超常用Linux命令.md",
+    "编程/attachments/Pasted image 20230101154914.png",
+    "编程/attachments/Pasted image 20230101154828.png",
+    "编程/attachments/Pasted image 20230101154719.png",
     "编程/核心-面经.md",
     "编程/操作系统地址空间由什么决定.md",
     "考研/408/计算机组成原理/字与字长.md",
     "考研/408/计算机组成原理/机器字长-一次整数运算所能处理的二进制数据的位数.md",
     "考研/408/计算机组成原理/指令字长-一个指令字中包含的二进制代码的位数.md",
-    "考研/408/计算机组成原理/存储字长-一个存储单元存储的二进制代码的位数.md",
-    "编程/从在浏览器地址栏中输入 url 到页面展现的短短几秒内浏览器究竟做了什么.md",
-    "编程/TLS协议与SSL协议.md",
-    "编程/DNS劫持.md",
-    "考研/408/计算机网络/DNS域名解析过程.md"
+    "考研/408/计算机组成原理/存储字长-一个存储单元存储的二进制代码的位数.md"
   ]
 }
