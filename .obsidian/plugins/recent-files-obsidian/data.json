@@ -5,8 +5,20 @@
       "path": "编程/leetcode刷题-java.md"
     },
     {
+      "basename": "2-两数相加",
+      "path": "编程/2-两数相加.md"
+    },
+    {
+      "basename": "树与二叉树",
+      "path": "考研/408/数据结构/树与二叉树.md"
+    },
+    {
       "basename": "我与工作",
       "path": "编程/我与工作.md"
+    },
+    {
+      "basename": "核心-golong开发",
+      "path": "编程/核心-golong开发.md"
     },
     {
       "basename": "校招资讯",
@@ -49,20 +61,12 @@
       "path": "编程/核心-python开发.md"
     },
     {
-      "basename": "核心-golong开发",
-      "path": "编程/核心-golong开发.md"
-    },
-    {
       "basename": "核心-IOS开发",
       "path": "编程/核心-IOS开发.md"
     },
     {
       "basename": "核心-安卓开发",
       "path": "编程/核心-安卓开发.md"
-    },
-    {
-      "basename": "2-两数相加",
-      "path": "编程/2-两数相加.md"
     },
     {
       "basename": "2-两数相加 2022-12-31 17.58.12.excalidraw",
@@ -195,10 +199,6 @@
     {
       "basename": "同步与互斥",
       "path": "考研/408/操作系统/同步与互斥.md"
-    },
-    {
-      "basename": "哲学家就餐问题",
-      "path": "考研/408/操作系统/哲学家就餐问题.md"
     }
   ],
   "omittedPaths": [],
