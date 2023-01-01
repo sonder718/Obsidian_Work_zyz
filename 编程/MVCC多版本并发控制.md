@@ -15,3 +15,8 @@
 
 InnoDB 实现MVCC，是通过 `Read View+ Undo Log` 实现的，Undo Log 保存了历史快照，Read View可见性规则帮助判断当前版本的数据是否可见。
 
+##### 读已提交（RC）隔离级别，存在不可重复读问题的分析历程
+- 创建core_user表，插入一条初始化数据
+	- ![](attachments/Pasted%20image%2020230101212237.png)
+- 隔离级别设置为读已提交（RC），事务A和事务B同时对core_user表进行查询和修改操作。
+	- ![](attachments/Pasted%20image%2020230101212254.png)
