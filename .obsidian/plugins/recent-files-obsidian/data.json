@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "MySQL三大日志及其作用",
+      "path": "编程/MySQL三大日志及其作用.md"
+    },
+    {
+      "basename": "核心-面经",
+      "path": "编程/核心-面经.md"
+    },
+    {
+      "basename": "数据库事务",
+      "path": "编程/数据库事务.md"
+    },
+    {
       "basename": "MVCC多版本并发控制",
       "path": "编程/MVCC多版本并发控制.md"
     },
@@ -9,16 +21,8 @@
       "path": "编程/MVCC-Read View.md"
     },
     {
-      "basename": "数据库事务",
-      "path": "编程/数据库事务.md"
-    },
-    {
       "basename": "我与工作",
       "path": "编程/我与工作.md"
-    },
-    {
-      "basename": "核心-面经",
-      "path": "编程/核心-面经.md"
     },
     {
       "basename": "线程池过程",
@@ -195,10 +199,6 @@
     {
       "basename": "2022年11月4日的微软小冰面试",
       "path": "编程/2022年11月4日的微软小冰面试.md"
-    },
-    {
-      "basename": "毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法",
-      "path": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md"
     }
   ],
   "omittedPaths": [],

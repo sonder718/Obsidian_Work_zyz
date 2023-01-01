@@ -34,25 +34,12 @@
             }
           },
           {
-            "id": "ad29b90ef525c1ef",
+            "id": "62fbacac1bf93278",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/MVCC多版本并发控制.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0599f79cba567a45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程/数据库事务.md",
+                "file": "编程/MySQL三大日志及其作用.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -160,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/MVCC多版本并发控制.md"
+                "file": "编程/MySQL三大日志及其作用.md"
               }
             }
           }
@@ -186,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/MVCC多版本并发控制.md",
+                "file": "编程/MySQL三大日志及其作用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/MVCC多版本并发控制.md",
+                "file": "编程/MySQL三大日志及其作用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -285,17 +272,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ad29b90ef525c1ef",
+  "active": "62fbacac1bf93278",
   "lastOpenFiles": [
-    "编程/attachments/Pasted image 20230101212237.png",
+    "编程/核心-面经.md",
+    "编程/数据库事务.md",
     "编程/MVCC多版本并发控制.md",
+    "编程/attachments/Pasted image 20230101212237.png",
     "编程/attachments/Pasted image 20230101213521.png",
     "编程/attachments/Pasted image 20230101213113.png",
     "编程/MVCC-Read View.md",
     "编程/attachments/Pasted image 20230101213002.png",
     "编程/attachments/Pasted image 20230101212503.png",
-    "编程/attachments/Pasted image 20230101212619.png",
-    "编程/attachments/Pasted image 20230101212254.png",
-    "编程/数据库事务.md"
+    "编程/attachments/Pasted image 20230101212619.png"
   ]
 }
