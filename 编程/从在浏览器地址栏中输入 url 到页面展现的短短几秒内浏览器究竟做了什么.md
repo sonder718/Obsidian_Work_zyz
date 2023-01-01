@@ -9,7 +9,14 @@
 - **处理输入**
 	- UI thread 需要判断用户输入的是 URL 还是 query；
 - **开始导航**
-	- network thread 会执行 DNS 查询
+	- network thread 会执行 DNS 查询,得到服务器IP地址
+		- [域名系统DNS](../考研/408/计算机网络/域名系统DNS.md)
 		- [DNS域名解析过程](../考研/408/计算机网络/DNS域名解析过程.md)
+		- [[DNS劫持]]
 	- 随后为请求建立 TLS 连接
 		- [[TLS协议与SSL协议]]
+- **读取响应内容**
+	- 当请求响应返回的时候，network thread 会依据 Content-Type 及 MIME Type sniffing 判断响应内容的格式
+		- 如果响应内容的格式是 HTML ，下一步将会把这些数据传递给 renderer process
+		- 如果是 zip 文件或者其它文件，会把相关数据传输给下载管理器。
+	- ![](attachments/Pasted%20image%2020230101152234.png)
