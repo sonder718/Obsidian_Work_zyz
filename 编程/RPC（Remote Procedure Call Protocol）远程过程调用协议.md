@@ -9,8 +9,9 @@
 	- 客户端在不知道调用细节的情况下，调用存在于远程计算机上的某个对象，就像调用本地应用程序中的对象一样
 - **常用的RPC框架**
 	- Spring Cloud
-	- Dubbo
-	- Thrift
+	- [[Dubbo]]
+	- [[Thrift]]
+	- [[gRPC]]
 - **RPC的执行过程**
 	- ![](attachments/Pasted%20image%2020230101220539.png)
 - **如何做到透明化远程服务调用**

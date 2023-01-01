@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "zookeeper",
-      "path": "编程/zookeeper.md"
+      "basename": "如何使用 Collections 容器",
+      "path": "编程/如何使用 Collections 容器.md"
+    },
+    {
+      "basename": "核心-面经",
+      "path": "编程/核心-面经.md"
+    },
+    {
+      "basename": "RPC（Remote Procedure Call Protocol）远程过程调用协议",
+      "path": "编程/RPC（Remote Procedure Call Protocol）远程过程调用协议.md"
+    },
+    {
+      "basename": "gRPC",
+      "path": "编程/gRPC.md"
     },
     {
       "basename": "如何发布自己的服务",
       "path": "编程/如何发布自己的服务.md"
     },
     {
-      "basename": "RPC（Remote Procedure Call Protocol）远程过程调用协议",
-      "path": "编程/RPC（Remote Procedure Call Protocol）远程过程调用协议.md"
+      "basename": "zookeeper",
+      "path": "编程/zookeeper.md"
     },
     {
       "basename": "如何对消息进行编码和解码",
@@ -19,10 +31,6 @@
     {
       "basename": "JAVA代理模式",
       "path": "编程/JAVA代理模式.md"
-    },
-    {
-      "basename": "核心-面经",
-      "path": "编程/核心-面经.md"
     },
     {
       "basename": "Redis速度快的原因",
@@ -191,14 +199,6 @@
     {
       "basename": "核心-golong开发",
       "path": "编程/核心-golong开发.md"
-    },
-    {
-      "basename": "校招资讯",
-      "path": "编程/校招资讯.md"
-    },
-    {
-      "basename": "投递简历情况",
-      "path": "编程/投递简历情况.md"
     }
   ],
   "omittedPaths": [],
