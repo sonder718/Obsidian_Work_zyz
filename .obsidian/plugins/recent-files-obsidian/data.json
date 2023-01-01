@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "他人面试经验",
+      "path": "编程/他人面试经验.md"
+    },
+    {
       "basename": "核心-面经",
       "path": "编程/核心-面经.md"
+    },
+    {
+      "basename": "超常用Linux命令",
+      "path": "编程/超常用Linux命令.md"
+    },
+    {
+      "basename": "Java 线程状态",
+      "path": "编程/Java 线程状态.md"
     },
     {
       "basename": "线程池执行过程",
@@ -101,10 +113,6 @@
       "path": "编程/go 常用命令.md"
     },
     {
-      "basename": "超常用Linux命令",
-      "path": "编程/超常用Linux命令.md"
-    },
-    {
       "basename": "Java 程序分析系统",
       "path": "编程/Java 程序分析系统.md"
     },
@@ -177,10 +185,6 @@
       "path": "编程/主从复制.md"
     },
     {
-      "basename": "他人面试经验",
-      "path": "编程/他人面试经验.md"
-    },
-    {
       "basename": "MVCC多版本并发控制",
       "path": "编程/MVCC多版本并发控制.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "synchronized 作用与底层实现",
       "path": "编程/synchronized 作用与底层实现.md"
-    },
-    {
-      "basename": "死锁",
-      "path": "考研/408/操作系统/死锁.md"
     }
   ],
   "omittedPaths": [],
