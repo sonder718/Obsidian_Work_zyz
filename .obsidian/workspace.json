@@ -260,15 +260,15 @@
   },
   "active": "980a517d4c9b798f",
   "lastOpenFiles": [
-    "编程/Mysql常用指令.md",
+    "编程/线程池执行过程.md",
     "编程/核心-面经.md",
+    "编程/MySQL索引.md",
+    "编程/Docker常识.md",
+    "编程/Redis常见数据类型及其用途.md",
+    "编程/Mysql常用指令.md",
     "考研/408/计算机网络/常见HTTP状态码和分类.md",
     "编程/Mysql主键索引的数据结构，存储的内容.md",
     "编程/Mysql查询语句执行流程.md",
-    "编程/gRPC、Thrift、Dubbo概述.md",
-    "编程/序列化与反序列化.md",
-    "编程/Dubbo.md",
-    "编程/如何对消息进行编码和解码.md",
-    "编程/确定消息数据结构.md"
+    "编程/gRPC、Thrift、Dubbo概述.md"
   ]
 }
