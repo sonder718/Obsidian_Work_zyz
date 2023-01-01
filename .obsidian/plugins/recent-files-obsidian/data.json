@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "数据库事务",
-      "path": "编程/数据库事务.md"
-    },
-    {
       "basename": "MVCC多版本并发控制",
       "path": "编程/MVCC多版本并发控制.md"
+    },
+    {
+      "basename": "我与工作",
+      "path": "编程/我与工作.md"
+    },
+    {
+      "basename": "数据库事务",
+      "path": "编程/数据库事务.md"
     },
     {
       "basename": "核心-面经",
@@ -35,10 +39,6 @@
     {
       "basename": "HashMap 底层实现",
       "path": "编程/HashMap 底层实现.md"
-    },
-    {
-      "basename": "我与工作",
-      "path": "编程/我与工作.md"
     },
     {
       "basename": "核心-Java后端开发",
