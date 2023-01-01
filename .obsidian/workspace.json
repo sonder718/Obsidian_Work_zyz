@@ -21,6 +21,32 @@
             }
           },
           {
+            "id": "9f812241118dfc95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/从在浏览器地址栏中输入 url 到页面展现的短短几秒内浏览器究竟做了什么.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64a9c249a52fa32a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/IPC （Inter Process Communication）进程间通信.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a85c429da0199bd3",
             "type": "leaf",
             "state": {
@@ -46,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/核心-面经.md"
+                "file": "编程/IPC （Inter Process Communication）进程间通信.md"
               }
             }
           }
@@ -133,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/核心-面经.md",
+                "file": "编程/IPC （Inter Process Communication）进程间通信.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/核心-面经.md",
+                "file": "编程/IPC （Inter Process Communication）进程间通信.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -232,17 +259,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "980a517d4c9b798f",
+  "active": "64a9c249a52fa32a",
   "lastOpenFiles": [
+    "考研/408/操作系统/进程的通信.md",
+    "考研/408/操作系统/共享存储.md",
+    "编程/IPC （Inter Process Communication）进程间通信.md",
+    "编程/从在浏览器地址栏中输入 url 到页面展现的短短几秒内浏览器究竟做了什么.md",
+    "编程/核心-面经.md",
     "编程/我与工作.md",
     "编程/非技术类问题.md",
     "编程/面试自我介绍.md",
     "编程/核心-Java后端开发.md",
-    "编程/leetcode刷题-java.md",
-    "编程/2-两数相加.md",
-    "考研/408/数据结构/树与二叉树.md",
-    "编程/核心-golong开发.md",
-    "编程/校招资讯.md",
-    "编程/投递简历情况.md"
+    "编程/leetcode刷题-java.md"
   ]
 }
