@@ -18,6 +18,8 @@ InnoDB 实现MVCC，是通过 `Read View+ Undo Log` 实现的，Undo Log 保存�
 ##### 读已提交（RC）隔离级别，存在不可重复读问题的分析历程
 - 创建core_user表，插入一条初始化数据
 	- ![](attachments/Pasted%20image%2020230101212237.png)
+	- 对于InnoDB存储引擎，每一行记录都有两个隐藏列**trx_id**、**roll_pointer**，如果表中没有主键和非NULL唯一键时，则还会有第三个隐藏的主键列**row_id**。
+	- ![](attachments/Pasted%20image%2020230101213732.png)
 - 隔离级别设置为读已提交（RC），事务A和事务B同时对core_user表进行查询和修改操作。
 	- ![](attachments/Pasted%20image%2020230101212254.png)
 	- ![](attachments/Pasted%20image%2020230101212345.png)
@@ -38,4 +40,11 @@ InnoDB 实现MVCC，是通过 `Read View+ Undo Log` 实现的，Undo Log 保存�
 	- ![](attachments/Pasted%20image%2020230101213113.png)
 - 再次回到版本链：从版本链中挑选可见的记录
 	- ![](attachments/Pasted%20image%2020230101213233.png)
-- 
+- 在**读已提交（RC）隔离级别**下，同一个事务里，两个相同的查询，读取同一条记录（id=1），却返回了不同的数据（**第一次查出来是孙权，第二次查出来是曹操那条记录**），因此RC隔离级别，存在**不可重复读**并发问题。
+##### 可重复读（RR）隔离级别，解决不可重复读问题的分析
+- 在读已提交（RC）隔离级别下，同一个事务里面，**每一次查询都会产生一个新的Read View副本**
+- 在可重复读（RR）隔离级别下，**一个事务里只会获取一次read view**，都是副本共用的，从而保证每次查询的数据都是一样的。
+- ![](attachments/Pasted%20image%2020230101213521.png)
+- 再次回到版本链：从版本链中挑选可见的记录
+- ![](attachments/Pasted%20image%2020230101213641.png)
+- ![](attachments/Pasted%20image%2020230101213548.png)
