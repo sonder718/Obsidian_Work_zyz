@@ -26,19 +26,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/核心-面经.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d243cdbe459e093",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "编程/操作系统地址空间由什么决定.md",
                 "mode": "source",
                 "backlinks": false,
@@ -73,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -259,9 +246,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8d243cdbe459e093",
+  "active": "9f812241118dfc95",
   "lastOpenFiles": [
     "编程/核心-面经.md",
+    "编程/操作系统地址空间由什么决定.md",
     "编程/从在浏览器地址栏中输入 url 到页面展现的短短几秒内浏览器究竟做了什么.md",
     "编程/TLS协议与SSL协议.md",
     "编程/DNS劫持.md",
@@ -269,7 +257,6 @@
     "考研/408/计算机网络/域名系统DNS.md",
     "编程/attachments/TLS协议与SSL协议 2023-01-01 15.09.37.excalidraw.md",
     "编程/非技术类问题.md",
-    "编程/attachments/Pasted image 20230101145730.png",
-    "编程/attachments/从在浏览器地址栏中输入 url 到页面展现的短短几秒内浏览器究竟做了什么 2023-01-01 14.48.11.excalidraw.md"
+    "编程/attachments/Pasted image 20230101145730.png"
   ]
 }
