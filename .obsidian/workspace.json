@@ -274,15 +274,15 @@
   },
   "active": "9f812241118dfc95",
   "lastOpenFiles": [
+    "编程/常见MQ.md",
+    "编程/核心-面经.md",
+    "编程/Mysql常用指令.md",
     "编程/常见Java设计模式.md",
     "编程/装饰模式.md",
     "编程/适配器(Adapter)模式.md",
-    "编程/核心-面经.md",
     "编程/RPC（Remote Procedure Call Protocol）远程过程调用协议.md",
     "考研/408/操作系统/消息传递(消息队列).md",
     "考研/408/操作系统/进程间通信.md",
-    "编程/IPC （Inter Process Communication）进程间通信.md",
-    "编程/Mysql常用指令.md",
-    "编程/数据库事务.md"
+    "编程/IPC （Inter Process Communication）进程间通信.md"
   ]
 }
