@@ -13,6 +13,6 @@
 - 服务器端进行非对称加密RSA,生产公钥与私钥,将公钥明文发给客户端
 - 客户端生成对称加密的密钥,将密钥用公钥加密
 - 服务器端将密钥的密文用私钥解密,得到密钥
-- 从而客户端和服务器端可以进行对称加密通信
+- 从而客户端和服务器端可以进行对称加密AES通信
 - ![](attachments/TLS%E5%8D%8F%E8%AE%AE%E4%B8%8ESSL%E5%8D%8F%E8%AE%AE%202023-01-01%2015.09.37.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](attachments/TLS%E5%8D%8F%E8%AE%AE%E4%B8%8ESSL%E5%8D%8F%E8%AE%AE%202023-01-01%2015.09.37.excalidraw.md), and the [dark exported image](attachments/TLS%E5%8D%8F%E8%AE%AE%E4%B8%8ESSL%E5%8D%8F%E8%AE%AE%202023-01-01%2015.09.37.excalidraw.dark.svg)%%
