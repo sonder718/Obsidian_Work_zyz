@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "30f998b141cea712",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程/IPC （Inter Process Communication）进程间通信.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "59e8606f02e2bd5c",
             "type": "leaf",
             "state": {
@@ -99,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/IPC （Inter Process Communication）进程间通信.md"
+                "file": "编程/核心-面经.md"
               }
             }
           }
@@ -186,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/IPC （Inter Process Communication）进程间通信.md",
+                "file": "编程/核心-面经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/IPC （Inter Process Communication）进程间通信.md",
+                "file": "编程/核心-面经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -285,17 +272,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "30f998b141cea712",
+  "active": "9f812241118dfc95",
   "lastOpenFiles": [
-    "考研/408/操作系统/进程的通信.md",
-    "考研/408/操作系统/消息传递.md",
-    "编程/IPC （Inter Process Communication）进程间通信.md",
+    "编程/常见Java设计模式.md",
+    "编程/装饰模式.md",
+    "编程/适配器(Adapter)模式.md",
     "编程/核心-面经.md",
+    "编程/RPC（Remote Procedure Call Protocol）远程过程调用协议.md",
+    "考研/408/操作系统/消息传递(消息队列).md",
+    "考研/408/操作系统/进程间通信.md",
+    "编程/IPC （Inter Process Communication）进程间通信.md",
     "编程/Mysql常用指令.md",
-    "编程/数据库事务.md",
-    "编程/go 常用命令.md",
-    "编程/超常用Linux命令.md",
-    "编程/Docker常识.md",
-    "编程/Java 程序分析系统.md"
+    "编程/数据库事务.md"
   ]
 }

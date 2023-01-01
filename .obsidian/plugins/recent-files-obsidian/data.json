@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "IPC （Inter Process Communication）进程间通信",
-      "path": "编程/IPC （Inter Process Communication）进程间通信.md"
-    },
-    {
-      "basename": "进程的通信",
-      "path": "考研/408/操作系统/进程的通信.md"
-    },
-    {
-      "basename": "消息传递",
-      "path": "考研/408/操作系统/消息传递.md"
-    },
-    {
       "basename": "核心-面经",
       "path": "编程/核心-面经.md"
+    },
+    {
+      "basename": "常见Java设计模式",
+      "path": "编程/常见Java设计模式.md"
+    },
+    {
+      "basename": "装饰模式",
+      "path": "编程/装饰模式.md"
+    },
+    {
+      "basename": "适配器(Adapter)模式",
+      "path": "编程/适配器(Adapter)模式.md"
+    },
+    {
+      "basename": "RPC（Remote Procedure Call Protocol）远程过程调用协议",
+      "path": "编程/RPC（Remote Procedure Call Protocol）远程过程调用协议.md"
+    },
+    {
+      "basename": "消息传递(消息队列)",
+      "path": "考研/408/操作系统/消息传递(消息队列).md"
+    },
+    {
+      "basename": "进程间通信",
+      "path": "考研/408/操作系统/进程间通信.md"
+    },
+    {
+      "basename": "IPC （Inter Process Communication）进程间通信",
+      "path": "编程/IPC （Inter Process Communication）进程间通信.md"
     },
     {
       "basename": "Mysql常用指令",
@@ -49,10 +65,6 @@
       "path": "编程/建造(Builder)模式.md"
     },
     {
-      "basename": "常见Java设计模式",
-      "path": "编程/常见Java设计模式.md"
-    },
-    {
       "basename": "代理模式",
       "path": "编程/代理模式.md"
     },
@@ -75,10 +87,6 @@
     {
       "basename": "OpenStack的组件",
       "path": "编程/OpenStack的组件.md"
-    },
-    {
-      "basename": "RPC（Remote Procedure Call Protocol）远程过程调用协议",
-      "path": "编程/RPC（Remote Procedure Call Protocol）远程过程调用协议.md"
     },
     {
       "basename": "gRPC",
@@ -191,14 +199,6 @@
     {
       "basename": "从在浏览器地址栏中输入 url 到页面展现的短短几秒内浏览器究竟做了什么",
       "path": "编程/从在浏览器地址栏中输入 url 到页面展现的短短几秒内浏览器究竟做了什么.md"
-    },
-    {
-      "basename": "TLS协议与SSL协议",
-      "path": "编程/TLS协议与SSL协议.md"
-    },
-    {
-      "basename": "DNS劫持",
-      "path": "编程/DNS劫持.md"
     }
   ],
   "omittedPaths": [],
