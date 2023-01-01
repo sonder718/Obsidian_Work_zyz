@@ -274,6 +274,8 @@
   },
   "active": "6eddfd5a9675efc6",
   "lastOpenFiles": [
+    "编程/JAVA代理模式.md",
+    "编程/RPC（Remote Procedure Call Protocol）远程过程调用协议.md",
     "编程/核心-面经.md",
     "编程/Redis速度快的原因.md",
     "编程/Redis中哨兵的作用.md",
@@ -281,8 +283,6 @@
     "编程/attachments/Pasted image 20230101215806.png",
     "编程/attachments/Pasted image 20230101215642.png",
     "编程/attachments/Pasted image 20230101215616.png",
-    "考研/408/数据结构/B+树与B树的差别.md",
-    "考研/408/数据结构/应文件系统所需的B树变形-B+树.md",
-    "编程/MySQL索引.md"
+    "考研/408/数据结构/B+树与B树的差别.md"
   ]
 }
