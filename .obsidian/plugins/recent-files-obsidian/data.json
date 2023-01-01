@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "如何使用 Collections 容器",
-      "path": "编程/如何使用 Collections 容器.md"
+      "basename": "常见Java设计模式",
+      "path": "编程/常见Java设计模式.md"
     },
     {
       "basename": "核心-面经",
       "path": "编程/核心-面经.md"
+    },
+    {
+      "basename": "JAVA中常见的线程安全的类及其实现方式",
+      "path": "编程/JAVA中常见的线程安全的类及其实现方式.md"
+    },
+    {
+      "basename": "OpenStack的组件",
+      "path": "编程/OpenStack的组件.md"
+    },
+    {
+      "basename": "如何使用 Collections 容器",
+      "path": "编程/如何使用 Collections 容器.md"
     },
     {
       "basename": "RPC（Remote Procedure Call Protocol）远程过程调用协议",
@@ -91,10 +103,6 @@
     {
       "basename": "volatile底层实现",
       "path": "编程/volatile底层实现.md"
-    },
-    {
-      "basename": "JAVA中常见的线程安全的类及其实现方式",
-      "path": "编程/JAVA中常见的线程安全的类及其实现方式.md"
     },
     {
       "basename": "synchronized 作用与底层实现",
@@ -191,14 +199,6 @@
     {
       "basename": "2-两数相加",
       "path": "编程/2-两数相加.md"
-    },
-    {
-      "basename": "树与二叉树",
-      "path": "考研/408/数据结构/树与二叉树.md"
-    },
-    {
-      "basename": "核心-golong开发",
-      "path": "编程/核心-golong开发.md"
     }
   ],
   "omittedPaths": [],
