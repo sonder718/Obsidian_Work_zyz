@@ -5,6 +5,26 @@
       "path": "编程/核心-面经.md"
     },
     {
+      "basename": "IPC （Inter Process Communication）进程间通信",
+      "path": "编程/IPC （Inter Process Communication）进程间通信.md"
+    },
+    {
+      "basename": "Mysql常用指令",
+      "path": "编程/Mysql常用指令.md"
+    },
+    {
+      "basename": "数据库事务",
+      "path": "编程/数据库事务.md"
+    },
+    {
+      "basename": "go 常用命令",
+      "path": "编程/go 常用命令.md"
+    },
+    {
+      "basename": "超常用Linux命令",
+      "path": "编程/超常用Linux命令.md"
+    },
+    {
       "basename": "Docker常识",
       "path": "编程/Docker常识.md"
     },
@@ -105,10 +125,6 @@
       "path": "编程/他人面试经验.md"
     },
     {
-      "basename": "数据库事务",
-      "path": "编程/数据库事务.md"
-    },
-    {
       "basename": "MVCC多版本并发控制",
       "path": "编程/MVCC多版本并发控制.md"
     },
@@ -143,10 +159,6 @@
     {
       "basename": "核心-Java后端开发",
       "path": "编程/核心-Java后端开发.md"
-    },
-    {
-      "basename": "超常用Linux命令",
-      "path": "编程/超常用Linux命令.md"
     },
     {
       "basename": "操作系统地址空间由什么决定",
@@ -187,18 +199,6 @@
     {
       "basename": "域名系统DNS",
       "path": "考研/408/计算机网络/域名系统DNS.md"
-    },
-    {
-      "basename": "TLS协议与SSL协议 2023-01-01 15.09.37.excalidraw",
-      "path": "编程/attachments/TLS协议与SSL协议 2023-01-01 15.09.37.excalidraw.md"
-    },
-    {
-      "basename": "非技术类问题",
-      "path": "编程/非技术类问题.md"
-    },
-    {
-      "basename": "从在浏览器地址栏中输入 url 到页面展现的短短几秒内浏览器究竟做了什么 2023-01-01 14.48.11.excalidraw",
-      "path": "编程/attachments/从在浏览器地址栏中输入 url 到页面展现的短短几秒内浏览器究竟做了什么 2023-01-01 14.48.11.excalidraw.md"
     }
   ],
   "omittedPaths": [],

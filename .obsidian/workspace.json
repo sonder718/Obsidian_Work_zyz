@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "30f998b141cea712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/核心-面经.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "59e8606f02e2bd5c",
             "type": "leaf",
             "state": {
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -272,17 +285,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9f812241118dfc95",
+  "active": "30f998b141cea712",
   "lastOpenFiles": [
-    "编程/Docker常识.md",
+    "编程/IPC （Inter Process Communication）进程间通信.md",
     "编程/核心-面经.md",
+    "编程/Mysql常用指令.md",
+    "编程/数据库事务.md",
+    "编程/go 常用命令.md",
+    "编程/超常用Linux命令.md",
+    "编程/Docker常识.md",
     "编程/Java 程序分析系统.md",
     "考研/408/计算机网络/什么是ARP协议.md",
-    "编程/建造(Builder)模式.md",
-    "编程/常见Java设计模式.md",
-    "编程/代理模式.md",
-    "编程/Java中的集合.md",
-    "编程/如何使用 Collections 容器.md",
-    "编程/Dockerfile 常用指令.md"
+    "编程/建造(Builder)模式.md"
   ]
 }
