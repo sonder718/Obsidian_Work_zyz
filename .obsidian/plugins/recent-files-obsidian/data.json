@@ -5,6 +5,10 @@
       "path": "编程/核心-面经.md"
     },
     {
+      "basename": "Mysql常用指令",
+      "path": "编程/Mysql常用指令.md"
+    },
+    {
       "basename": "常见HTTP状态码和分类",
       "path": "考研/408/计算机网络/常见HTTP状态码和分类.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "IPC （Inter Process Communication）进程间通信",
       "path": "编程/IPC （Inter Process Communication）进程间通信.md"
-    },
-    {
-      "basename": "Mysql常用指令",
-      "path": "编程/Mysql常用指令.md"
     },
     {
       "basename": "数据库事务",
