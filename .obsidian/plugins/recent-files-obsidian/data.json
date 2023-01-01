@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "zookeeper",
+      "path": "编程/zookeeper.md"
+    },
+    {
+      "basename": "如何发布自己的服务",
+      "path": "编程/如何发布自己的服务.md"
+    },
+    {
       "basename": "RPC（Remote Procedure Call Protocol）远程过程调用协议",
       "path": "编程/RPC（Remote Procedure Call Protocol）远程过程调用协议.md"
+    },
+    {
+      "basename": "如何对消息进行编码和解码",
+      "path": "编程/如何对消息进行编码和解码.md"
     },
     {
       "basename": "JAVA代理模式",
@@ -187,18 +199,6 @@
     {
       "basename": "投递简历情况",
       "path": "编程/投递简历情况.md"
-    },
-    {
-      "basename": "内推资讯",
-      "path": "编程/内推资讯.md"
-    },
-    {
-      "basename": "我的项目经历",
-      "path": "编程/我的项目经历.md"
-    },
-    {
-      "basename": "3-无重复字符的最长子串",
-      "path": "编程/3-无重复字符的最长子串.md"
     }
   ],
   "omittedPaths": [],

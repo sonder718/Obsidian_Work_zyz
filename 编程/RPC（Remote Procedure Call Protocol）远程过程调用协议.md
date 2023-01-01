@@ -18,4 +18,8 @@
 		- [[JAVA代理模式]]
 	- 通过动态代理模式，在**执行该方法的前后对数据进行封装和解码**等，让用于感觉就像是直接调用该方法一样，殊不知，我们对方法前后都经过了复杂的处理。
 	- 我们需要实现RPCProxyClient代理类，代理类的invoke方法中封装了与远端服务通信的细节
+		- ![](attachments/Pasted%20image%2020230101221301.png)
 	- 消费方首先从RPCProxyClient获得服务提供方的接口，当执行helloWorldService.sayHello("test")方法时就会调用invoke方法。
+		- ![](attachments/Pasted%20image%2020230101221330.png)
+- [[如何对消息进行编码和解码]]
+- [[如何发布自己的服务]]
