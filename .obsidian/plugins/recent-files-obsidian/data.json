@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Java 程序分析系统",
+      "path": "编程/Java 程序分析系统.md"
+    },
+    {
       "basename": "核心-面经",
       "path": "编程/核心-面经.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "进程的通信",
       "path": "考研/408/操作系统/进程的通信.md"
-    },
-    {
-      "basename": "共享存储",
-      "path": "考研/408/操作系统/共享存储.md"
     }
   ],
   "omittedPaths": [],
