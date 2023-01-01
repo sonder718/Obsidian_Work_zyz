@@ -5,12 +5,28 @@
       "path": "编程/核心-面经.md"
     },
     {
-      "basename": "Dockerfile 常用指令",
-      "path": "编程/Dockerfile 常用指令.md"
+      "basename": "建造(Builder)模式",
+      "path": "编程/建造(Builder)模式.md"
     },
     {
       "basename": "常见Java设计模式",
       "path": "编程/常见Java设计模式.md"
+    },
+    {
+      "basename": "代理模式",
+      "path": "编程/代理模式.md"
+    },
+    {
+      "basename": "Java中的集合",
+      "path": "编程/Java中的集合.md"
+    },
+    {
+      "basename": "如何使用 Collections 容器",
+      "path": "编程/如何使用 Collections 容器.md"
+    },
+    {
+      "basename": "Dockerfile 常用指令",
+      "path": "编程/Dockerfile 常用指令.md"
     },
     {
       "basename": "JAVA中常见的线程安全的类及其实现方式",
@@ -19,10 +35,6 @@
     {
       "basename": "OpenStack的组件",
       "path": "编程/OpenStack的组件.md"
-    },
-    {
-      "basename": "如何使用 Collections 容器",
-      "path": "编程/如何使用 Collections 容器.md"
     },
     {
       "basename": "RPC（Remote Procedure Call Protocol）远程过程调用协议",
@@ -43,10 +55,6 @@
     {
       "basename": "如何对消息进行编码和解码",
       "path": "编程/如何对消息进行编码和解码.md"
-    },
-    {
-      "basename": "JAVA代理模式",
-      "path": "编程/JAVA代理模式.md"
     },
     {
       "basename": "Redis速度快的原因",
@@ -191,14 +199,6 @@
     {
       "basename": "共享存储",
       "path": "考研/408/操作系统/共享存储.md"
-    },
-    {
-      "basename": "面试自我介绍",
-      "path": "编程/面试自我介绍.md"
-    },
-    {
-      "basename": "leetcode刷题-java",
-      "path": "编程/leetcode刷题-java.md"
     }
   ],
   "omittedPaths": [],
