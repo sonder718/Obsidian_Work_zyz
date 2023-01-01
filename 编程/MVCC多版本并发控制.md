@@ -20,3 +20,9 @@ InnoDB 实现MVCC，是通过 `Read View+ Undo Log` 实现的，Undo Log 保存�
 	- ![](attachments/Pasted%20image%2020230101212237.png)
 - 隔离级别设置为读已提交（RC），事务A和事务B同时对core_user表进行查询和修改操作。
 	- ![](attachments/Pasted%20image%2020230101212254.png)
+	- ![](attachments/Pasted%20image%2020230101212345.png)
+- A开启事务，首先得到一个事务ID为100
+- B开启事务，得到事务ID为101
+- 事务A生成一个Read View
+	- [[MVCC-Read View]]
+	- ![](attachments/Pasted%20image%2020230101212503.png)
