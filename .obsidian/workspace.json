@@ -106,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Dubbo ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
