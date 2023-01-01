@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "B+树与B树的差别",
+      "path": "考研/408/数据结构/B+树与B树的差别.md"
+    },
+    {
+      "basename": "核心-面经",
+      "path": "编程/核心-面经.md"
+    },
+    {
+      "basename": "MySQL索引",
+      "path": "编程/MySQL索引.md"
+    },
+    {
       "basename": "MySQL三大日志及其作用",
       "path": "编程/MySQL三大日志及其作用.md"
     },
     {
       "basename": "主从复制",
       "path": "编程/主从复制.md"
-    },
-    {
-      "basename": "核心-面经",
-      "path": "编程/核心-面经.md"
     },
     {
       "basename": "他人面试经验",
@@ -191,14 +199,6 @@
     {
       "basename": "核心-安卓开发",
       "path": "编程/核心-安卓开发.md"
-    },
-    {
-      "basename": "2-两数相加 2022-12-31 17.58.12.excalidraw",
-      "path": "编程/attachments/2-两数相加 2022-12-31 17.58.12.excalidraw.md"
-    },
-    {
-      "basename": "2-两数相加 2022-12-31 16.31.55.excalidraw",
-      "path": "编程/attachments/2-两数相加 2022-12-31 16.31.55.excalidraw.md"
     }
   ],
   "omittedPaths": [],
