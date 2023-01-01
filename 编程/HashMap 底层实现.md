@@ -10,7 +10,7 @@
 	- Hashtable不能接受null值，会产生空指针异常。
 - 线程是否安全
 	-  HashMap是非synchronized，而Hashtable是synchronized
-		- [[synchronized 底层实现]]
+		- [[synchronized 作用与底层实现]]
 	- 这意味着Hashtable是线程安全的，多个线程可以共享一个Hashtable；
 	- 而如果没有正确的同步的话，多个线程是不能共享HashMap的
 - 效率

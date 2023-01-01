@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/synchronized 底层实现.md",
+                "file": "编程/synchronized 作用与底层实现.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/synchronized 底层实现.md"
+                "file": "编程/synchronized 作用与底层实现.md"
               }
             }
           }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/synchronized 底层实现.md",
+                "file": "编程/synchronized 作用与底层实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/synchronized 底层实现.md",
+                "file": "编程/synchronized 作用与底层实现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }

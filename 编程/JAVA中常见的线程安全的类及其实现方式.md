@@ -4,4 +4,4 @@
 ##### java中线程安全的实现方式
 - 1.  通过`synchronized` 关键字给方法加上内置锁来实现[线程安全](https://so.csdn.net/so/search?q=%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8&spm=1001.2101.3001.7020)   
     **`Timer`，`TimerTask`，`Vector`，`Stack`，`HashTable`，`StringBuffer`**
-	- [[synchronized 底层实现]]
+	- [[synchronized 作用与底层实现]]
