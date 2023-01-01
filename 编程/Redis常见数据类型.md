@@ -16,3 +16,4 @@
 ##### zset(sorted set：有序集合)
 - Redis zset 和 set 一样也是string类型元素的集合,且不允许重复的成员。
 - 不同的是每个元素都会关联一个double类型的分数。redis正是通过分数来为集合中的成员进行从小到大的排序。
+- ![](attachments/Pasted%20image%2020230101215806.png)

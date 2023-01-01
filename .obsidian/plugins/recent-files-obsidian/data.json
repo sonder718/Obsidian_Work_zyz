@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Redis常见数据类型",
-      "path": "编程/Redis常见数据类型.md"
+      "basename": "RPC（Remote Procedure Call Protocol）远程过程调用协议",
+      "path": "编程/RPC（Remote Procedure Call Protocol）远程过程调用协议.md"
     },
     {
       "basename": "核心-面经",
       "path": "编程/核心-面经.md"
+    },
+    {
+      "basename": "Redis速度快的原因",
+      "path": "编程/Redis速度快的原因.md"
+    },
+    {
+      "basename": "Redis中哨兵的作用",
+      "path": "编程/Redis中哨兵的作用.md"
+    },
+    {
+      "basename": "Redis常见数据类型",
+      "path": "编程/Redis常见数据类型.md"
     },
     {
       "basename": "B+树与B树的差别",
@@ -187,18 +199,6 @@
     {
       "basename": "首页",
       "path": "首页.md"
-    },
-    {
-      "basename": "3-无重复字符的最长子串 2022-12-31 23.12.52.excalidraw",
-      "path": "编程/attachments/3-无重复字符的最长子串 2022-12-31 23.12.52.excalidraw.md"
-    },
-    {
-      "basename": "3-无重复字符的最长子串 2022-12-31 22.58.30.excalidraw",
-      "path": "编程/attachments/3-无重复字符的最长子串 2022-12-31 22.58.30.excalidraw.md"
-    },
-    {
-      "basename": "核心-python开发",
-      "path": "编程/核心-python开发.md"
     }
   ],
   "omittedPaths": [],

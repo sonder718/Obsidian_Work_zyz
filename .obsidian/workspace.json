@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/Redis常见数据类型.md",
+                "file": "编程/核心-面经.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6eddfd5a9675efc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/RPC（Remote Procedure Call Protocol）远程过程调用协议.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/Redis常见数据类型.md"
+                "file": "编程/RPC（Remote Procedure Call Protocol）远程过程调用协议.md"
               }
             }
           }
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/Redis常见数据类型.md",
+                "file": "编程/RPC（Remote Procedure Call Protocol）远程过程调用协议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/Redis常见数据类型.md",
+                "file": "编程/RPC（Remote Procedure Call Protocol）远程过程调用协议.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -259,17 +272,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9f812241118dfc95",
+  "active": "6eddfd5a9675efc6",
   "lastOpenFiles": [
-    "编程/attachments/Pasted image 20230101215642.png",
-    "编程/Redis常见数据类型.md",
-    "编程/attachments/Pasted image 20230101215616.png",
     "编程/核心-面经.md",
+    "编程/Redis速度快的原因.md",
+    "编程/Redis中哨兵的作用.md",
+    "编程/Redis常见数据类型.md",
+    "编程/attachments/Pasted image 20230101215806.png",
+    "编程/attachments/Pasted image 20230101215642.png",
+    "编程/attachments/Pasted image 20230101215616.png",
     "考研/408/数据结构/B+树与B树的差别.md",
     "考研/408/数据结构/应文件系统所需的B树变形-B+树.md",
-    "编程/MySQL索引.md",
-    "编程/MySQL三大日志及其作用.md",
-    "编程/attachments/Pasted image 20230101214827.png",
-    "编程/主从复制.md"
+    "编程/MySQL索引.md"
   ]
 }
