@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/核心-面经.md",
+                "file": "编程/IPC （Inter Process Communication）进程间通信.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/核心-面经.md"
+                "file": "编程/IPC （Inter Process Communication）进程间通信.md"
               }
             }
           }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/核心-面经.md",
+                "file": "编程/IPC （Inter Process Communication）进程间通信.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/核心-面经.md",
+                "file": "编程/IPC （Inter Process Communication）进程间通信.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -287,6 +287,8 @@
   },
   "active": "30f998b141cea712",
   "lastOpenFiles": [
+    "考研/408/操作系统/进程的通信.md",
+    "考研/408/操作系统/消息传递.md",
     "编程/IPC （Inter Process Communication）进程间通信.md",
     "编程/核心-面经.md",
     "编程/Mysql常用指令.md",
@@ -294,8 +296,6 @@
     "编程/go 常用命令.md",
     "编程/超常用Linux命令.md",
     "编程/Docker常识.md",
-    "编程/Java 程序分析系统.md",
-    "考研/408/计算机网络/什么是ARP协议.md",
-    "编程/建造(Builder)模式.md"
+    "编程/Java 程序分析系统.md"
   ]
 }
