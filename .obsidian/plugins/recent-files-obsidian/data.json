@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "非技术类问题",
+      "path": "编程/非技术类问题.md"
+    },
+    {
       "basename": "我与工作",
       "path": "编程/我与工作.md"
+    },
+    {
+      "basename": "面试自我介绍",
+      "path": "编程/面试自我介绍.md"
     },
     {
       "basename": "核心-Java后端开发",
@@ -191,14 +199,6 @@
     {
       "basename": "动态地址配置协议DHCP-动态分配IP地址",
       "path": "考研/408/计算机网络/动态地址配置协议DHCP-动态分配IP地址.md"
-    },
-    {
-      "basename": "多个并发线程的PV操作实现",
-      "path": "考研/408/操作系统/多个并发线程的PV操作实现.md"
-    },
-    {
-      "basename": "同步与互斥",
-      "path": "考研/408/操作系统/同步与互斥.md"
     }
   ],
   "omittedPaths": [],
