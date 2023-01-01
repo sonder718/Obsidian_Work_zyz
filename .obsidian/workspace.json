@@ -13,19 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/我与工作.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f812241118dfc95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "编程/核心-面经.md",
                 "mode": "source",
                 "backlinks": false,
@@ -85,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dubbo ",
+                "query": "path:核心-面经 /",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -272,17 +258,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9f812241118dfc95",
+  "active": "980a517d4c9b798f",
   "lastOpenFiles": [
-    "编程/常见MQ.md",
+    "编程/序列化与反序列化.md",
     "编程/核心-面经.md",
-    "编程/Mysql常用指令.md",
-    "编程/常见Java设计模式.md",
-    "编程/装饰模式.md",
-    "编程/适配器(Adapter)模式.md",
+    "编程/Dubbo.md",
+    "编程/如何对消息进行编码和解码.md",
+    "编程/确定消息数据结构.md",
     "编程/RPC（Remote Procedure Call Protocol）远程过程调用协议.md",
-    "考研/408/操作系统/消息传递(消息队列).md",
-    "考研/408/操作系统/进程间通信.md",
-    "编程/IPC （Inter Process Communication）进程间通信.md"
+    "编程/我与工作.md",
+    "编程/常见MQ.md",
+    "编程/Mysql常用指令.md",
+    "编程/常见Java设计模式.md"
   ]
 }

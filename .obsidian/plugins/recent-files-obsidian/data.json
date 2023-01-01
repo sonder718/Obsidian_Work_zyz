@@ -5,6 +5,30 @@
       "path": "编程/核心-面经.md"
     },
     {
+      "basename": "序列化与反序列化",
+      "path": "编程/序列化与反序列化.md"
+    },
+    {
+      "basename": "如何对消息进行编码和解码",
+      "path": "编程/如何对消息进行编码和解码.md"
+    },
+    {
+      "basename": "确定消息数据结构",
+      "path": "编程/确定消息数据结构.md"
+    },
+    {
+      "basename": "RPC（Remote Procedure Call Protocol）远程过程调用协议",
+      "path": "编程/RPC（Remote Procedure Call Protocol）远程过程调用协议.md"
+    },
+    {
+      "basename": "我与工作",
+      "path": "编程/我与工作.md"
+    },
+    {
+      "basename": "Dubbo",
+      "path": "编程/Dubbo.md"
+    },
+    {
       "basename": "常见MQ",
       "path": "编程/常见MQ.md"
     },
@@ -19,10 +43,6 @@
     {
       "basename": "适配器(Adapter)模式",
       "path": "编程/适配器(Adapter)模式.md"
-    },
-    {
-      "basename": "RPC（Remote Procedure Call Protocol）远程过程调用协议",
-      "path": "编程/RPC（Remote Procedure Call Protocol）远程过程调用协议.md"
     },
     {
       "basename": "消息传递(消息队列)",
@@ -105,10 +125,6 @@
       "path": "编程/zookeeper.md"
     },
     {
-      "basename": "如何对消息进行编码和解码",
-      "path": "编程/如何对消息进行编码和解码.md"
-    },
-    {
       "basename": "Redis速度快的原因",
       "path": "编程/Redis速度快的原因.md"
     },
@@ -153,10 +169,6 @@
       "path": "编程/MVCC-Read View.md"
     },
     {
-      "basename": "我与工作",
-      "path": "编程/我与工作.md"
-    },
-    {
       "basename": "线程池过程",
       "path": "编程/线程池过程.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "字与字长",
       "path": "考研/408/计算机组成原理/字与字长.md"
-    },
-    {
-      "basename": "机器字长-一次整数运算所能处理的二进制数据的位数",
-      "path": "考研/408/计算机组成原理/机器字长-一次整数运算所能处理的二进制数据的位数.md"
-    },
-    {
-      "basename": "指令字长-一个指令字中包含的二进制代码的位数",
-      "path": "考研/408/计算机组成原理/指令字长-一个指令字中包含的二进制代码的位数.md"
-    },
-    {
-      "basename": "存储字长-一个存储单元存储的二进制代码的位数",
-      "path": "考研/408/计算机组成原理/存储字长-一个存储单元存储的二进制代码的位数.md"
     }
   ],
   "omittedPaths": [],
