@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "MVCC-Read View",
-      "path": "编程/MVCC-Read View.md"
-    },
-    {
       "basename": "MVCC多版本并发控制",
       "path": "编程/MVCC多版本并发控制.md"
+    },
+    {
+      "basename": "MVCC-Read View",
+      "path": "编程/MVCC-Read View.md"
     },
     {
       "basename": "数据库事务",

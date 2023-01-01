@@ -1,6 +1,7 @@
 -   **Read View是什么呢？** 它就是事务执行SQL语句时，产生的读视图。实际上在innodb中，每个SQL语句执行前都会得到一个Read View。
 -   **Read View有什么用呢？** 它主要是用来做可见性判断的，即==判断当前事务可见哪个版本的数据==
 - **Read view的属性**
+	- m_id:系统中**活跃**且**未提交**的事务ID
 	- ![](attachments/Pasted%20image%2020230101212619.png)
 - **Read View的匹配规则**
 	- ![](attachments/Pasted%20image%2020230101212652.png)
