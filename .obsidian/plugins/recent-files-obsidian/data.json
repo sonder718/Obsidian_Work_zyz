@@ -9,6 +9,22 @@
       "path": "编程/核心-面经.md"
     },
     {
+      "basename": "我与工作",
+      "path": "编程/我与工作.md"
+    },
+    {
+      "basename": "投递简历情况",
+      "path": "编程/投递简历情况.md"
+    },
+    {
+      "basename": "内推资讯",
+      "path": "编程/内推资讯.md"
+    },
+    {
+      "basename": "MySQL索引",
+      "path": "编程/MySQL索引.md"
+    },
+    {
       "basename": "超常用Linux命令",
       "path": "编程/超常用Linux命令.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "线程池执行过程",
       "path": "编程/线程池执行过程.md"
-    },
-    {
-      "basename": "MySQL索引",
-      "path": "编程/MySQL索引.md"
     },
     {
       "basename": "Docker常识",
@@ -67,10 +79,6 @@
     {
       "basename": "RPC（Remote Procedure Call Protocol）远程过程调用协议",
       "path": "编程/RPC（Remote Procedure Call Protocol）远程过程调用协议.md"
-    },
-    {
-      "basename": "我与工作",
-      "path": "编程/我与工作.md"
     },
     {
       "basename": "Dubbo",
@@ -191,14 +199,6 @@
     {
       "basename": "MVCC-Read View",
       "path": "编程/MVCC-Read View.md"
-    },
-    {
-      "basename": "volatile底层实现",
-      "path": "编程/volatile底层实现.md"
-    },
-    {
-      "basename": "synchronized 作用与底层实现",
-      "path": "编程/synchronized 作用与底层实现.md"
     }
   ],
   "omittedPaths": [],
