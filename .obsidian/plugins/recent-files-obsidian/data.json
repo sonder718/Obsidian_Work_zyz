@@ -5,6 +5,22 @@
       "path": "编程/核心-面经.md"
     },
     {
+      "basename": "常见HTTP状态码和分类",
+      "path": "考研/408/计算机网络/常见HTTP状态码和分类.md"
+    },
+    {
+      "basename": "Mysql主键索引的数据结构，存储的内容",
+      "path": "编程/Mysql主键索引的数据结构，存储的内容.md"
+    },
+    {
+      "basename": "Mysql查询语句执行流程",
+      "path": "编程/Mysql查询语句执行流程.md"
+    },
+    {
+      "basename": "gRPC、Thrift、Dubbo概述",
+      "path": "编程/gRPC、Thrift、Dubbo概述.md"
+    },
+    {
       "basename": "序列化与反序列化",
       "path": "编程/序列化与反序列化.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "死锁",
       "path": "考研/408/操作系统/死锁.md"
-    },
-    {
-      "basename": "HashMap 底层实现",
-      "path": "编程/HashMap 底层实现.md"
-    },
-    {
-      "basename": "核心-Java后端开发",
-      "path": "编程/核心-Java后端开发.md"
-    },
-    {
-      "basename": "操作系统地址空间由什么决定",
-      "path": "编程/操作系统地址空间由什么决定.md"
-    },
-    {
-      "basename": "字与字长",
-      "path": "考研/408/计算机组成原理/字与字长.md"
     }
   ],
   "omittedPaths": [],
