@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "基于多尺度注意力图卷积特征融合的图像特征匹配方法-问题描述",
-      "path": "科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-问题描述.md"
-    },
-    {
-      "basename": "SuperGlue-Learning Feature Matching with Graph Neural Networks",
-      "path": "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md"
+      "basename": "COTR-- Correspondence Transformer for Matching Across Images",
+      "path": "科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md"
     },
     {
       "basename": "毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法",
       "path": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md"
+    },
+    {
+      "basename": "基于多尺度注意力图卷积特征融合的图像特征匹配方法-问题描述",
+      "path": "科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-问题描述.md"
+    },
+    {
+      "basename": "LoFTR--Detector-free local feature matching with transformers",
+      "path": "科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md"
+    },
+    {
+      "basename": "SuperGlue-Learning Feature Matching with Graph Neural Networks",
+      "path": "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md"
     },
     {
       "basename": "Chatgpt-什么是多尺度注意力图卷积",
@@ -191,14 +199,6 @@
     {
       "basename": "IPC （Inter Process Communication）进程间通信",
       "path": "编程/IPC （Inter Process Communication）进程间通信.md"
-    },
-    {
-      "basename": "数据库事务",
-      "path": "编程/数据库事务.md"
-    },
-    {
-      "basename": "go 常用命令",
-      "path": "编程/go 常用命令.md"
     }
   ],
   "omittedPaths": [],
