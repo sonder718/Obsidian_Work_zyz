@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/我与工作.md",
+                "file": "编程/核心-Java后端开发.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff6ab40188aba4df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/我的Java之路的bug.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/146-LRU缓存.md"
+                "file": "编程/我的Java之路的bug.md"
               }
             }
           }
@@ -147,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/146-LRU缓存.md",
+                "file": "编程/我的Java之路的bug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/146-LRU缓存.md",
+                "file": "编程/我的Java之路的bug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -246,17 +259,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dca34c0bb2c5a045",
+  "active": "ff6ab40188aba4df",
   "lastOpenFiles": [
+    "编程/核心-Java后端开发.md",
+    "编程/我与工作.md",
     "编程/leetcode刷题-java.md",
+    "编程/146-LRU缓存.md",
     "编程/206-反转链表.md",
     "编程/attachments/Pasted image 20230102223813.png",
     "编程/attachments/Pasted image 20230102223753.png",
     "考研/408/数据结构/单链表的算法操作示例.md",
     "考研/408/数据结构/单链表.md",
-    "编程/3-无重复字符的最长子串.md",
-    "编程/attachments/3-无重复字符的最长子串 2023-01-02 18.15.35.excalidraw.md",
-    "编程/attachments/3-无重复字符的最长子串 2023-01-02 18.11.19.excalidraw.md",
-    "编程/attachments/3-无重复字符的最长子串 2023-01-02 18.08.31.excalidraw.md"
+    "编程/3-无重复字符的最长子串.md"
   ]
 }
