@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "首页",
+      "path": "首页.md"
+    },
+    {
       "basename": "他人面试经验",
       "path": "编程/他人面试经验.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "MVCC多版本并发控制",
       "path": "编程/MVCC多版本并发控制.md"
-    },
-    {
-      "basename": "MVCC-Read View",
-      "path": "编程/MVCC-Read View.md"
     }
   ],
   "omittedPaths": [],
