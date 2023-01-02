@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "leetcode刷题-java",
+      "path": "编程/leetcode刷题-java.md"
+    },
+    {
+      "basename": "我与工作",
+      "path": "编程/我与工作.md"
+    },
+    {
       "basename": "首页",
       "path": "首页.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "核心-面经",
       "path": "编程/核心-面经.md"
-    },
-    {
-      "basename": "我与工作",
-      "path": "编程/我与工作.md"
     },
     {
       "basename": "投递简历情况",
@@ -195,10 +199,6 @@
     {
       "basename": "主从复制",
       "path": "编程/主从复制.md"
-    },
-    {
-      "basename": "MVCC多版本并发控制",
-      "path": "编程/MVCC多版本并发控制.md"
     }
   ],
   "omittedPaths": [],
