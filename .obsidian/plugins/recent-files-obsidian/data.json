@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "206-反转链表",
-      "path": "编程/206-反转链表.md"
+      "basename": "146-LRU缓存",
+      "path": "编程/146-LRU缓存.md"
     },
     {
       "basename": "leetcode刷题-java",
       "path": "编程/leetcode刷题-java.md"
+    },
+    {
+      "basename": "206-反转链表",
+      "path": "编程/206-反转链表.md"
     },
     {
       "basename": "单链表的算法操作示例",
@@ -195,10 +199,6 @@
     {
       "basename": "JAVA中常见的线程安全的类及其实现方式",
       "path": "编程/JAVA中常见的线程安全的类及其实现方式.md"
-    },
-    {
-      "basename": "OpenStack的组件",
-      "path": "编程/OpenStack的组件.md"
     }
   ],
   "omittedPaths": [],
