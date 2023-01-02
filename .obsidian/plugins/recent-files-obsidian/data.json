@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "基于多尺度注意力图卷积特征融合的图像特征匹配方法-问题描述",
-      "path": "科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-问题描述.md"
+      "basename": "SuperGlue-Learning Feature Matching with Graph Neural Networks",
+      "path": "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md"
     },
     {
       "basename": "毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法",
       "path": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md"
+    },
+    {
+      "basename": "基于多尺度注意力图卷积特征融合的图像特征匹配方法-问题描述",
+      "path": "科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-问题描述.md"
     },
     {
       "basename": "Chatgpt-什么是多尺度注意力图卷积",
@@ -195,10 +199,6 @@
     {
       "basename": "go 常用命令",
       "path": "编程/go 常用命令.md"
-    },
-    {
-      "basename": "Java 程序分析系统",
-      "path": "编程/Java 程序分析系统.md"
     }
   ],
   "omittedPaths": [],
