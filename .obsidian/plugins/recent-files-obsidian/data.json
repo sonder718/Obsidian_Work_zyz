@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Chatgpt关于毕设的问答",
+      "path": "科研/毕业设计/Chatgpt关于毕设的问答.md"
+    },
+    {
       "basename": "毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法",
       "path": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "建造(Builder)模式",
       "path": "编程/建造(Builder)模式.md"
-    },
-    {
-      "basename": "代理模式",
-      "path": "编程/代理模式.md"
     }
   ],
   "omittedPaths": [],
