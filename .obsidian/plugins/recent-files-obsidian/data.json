@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "科研/毕业设计/未命名.canvas"
+    },
+    {
+      "basename": "SuperPoint-Self-Supervised Interest Point Detection and Description",
+      "path": "科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md"
+    },
+    {
       "basename": "毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法",
       "path": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md"
     },
     {
-      "basename": "未命名",
-      "path": "科研/毕业设计/未命名.canvas"
+      "basename": "基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题",
+      "path": "科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题.md"
     },
     {
       "basename": "基于多尺度注意力图卷积特征融合的图像特征匹配方法-问题描述",
@@ -15,10 +23,6 @@
     {
       "basename": "Learning to match features with seeded graph matching network",
       "path": "科研/毕业设计/Learning to match features with seeded graph matching network.md"
-    },
-    {
-      "basename": "SuperPoint-Self-Supervised Interest Point Detection and Description",
-      "path": "科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md"
     },
     {
       "basename": "COTR-- Correspondence Transformer for Matching Across Images",
@@ -195,10 +199,6 @@
     {
       "basename": "装饰模式",
       "path": "编程/装饰模式.md"
-    },
-    {
-      "basename": "适配器(Adapter)模式",
-      "path": "编程/适配器(Adapter)模式.md"
     }
   ],
   "omittedPaths": [],
