@@ -15,9 +15,9 @@
               "state": {
                 "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
                 "viewState": {
-                  "x": 637.2413027783167,
-                  "y": 166.52040507067193,
-                  "zoom": -1.4590129573762614,
+                  "x": 360,
+                  "y": 762.4357682619648,
+                  "zoom": -0.4894014342167689,
                   "snapToGrid": true
                 }
               }
@@ -245,15 +245,15 @@
   },
   "active": "db0e56801aec3cd9",
   "lastOpenFiles": [
-    "科研/毕业设计/Learning to match features with seeded graph matching network.md",
+    "科研/毕业设计/未命名.canvas",
     "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
+    "科研/毕业设计/Learning to match features with seeded graph matching network.md",
     "科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md",
     "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md",
     "科研/毕业设计/RANSAC估计两图基础矩阵.md",
     "科研/毕业设计/SIFT特征点提取.md",
     "科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题.md",
     "科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md",
-    "科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md",
-    "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md"
+    "科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md"
   ]
 }
