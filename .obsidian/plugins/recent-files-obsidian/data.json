@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Learning to match features with seeded graph matching network",
-      "path": "科研/毕业设计/Learning to match features with seeded graph matching network.md"
+      "basename": "SuperPoint-Self-Supervised Interest Point Detection and Description",
+      "path": "科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md"
     },
     {
       "basename": "毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法",
       "path": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md"
+    },
+    {
+      "basename": "Learning to match features with seeded graph matching network",
+      "path": "科研/毕业设计/Learning to match features with seeded graph matching network.md"
     },
     {
       "basename": "COTR-- Correspondence Transformer for Matching Across Images",
@@ -195,10 +199,6 @@
     {
       "basename": "消息传递(消息队列)",
       "path": "考研/408/操作系统/消息传递(消息队列).md"
-    },
-    {
-      "basename": "进程间通信",
-      "path": "考研/408/操作系统/进程间通信.md"
     }
   ],
   "omittedPaths": [],

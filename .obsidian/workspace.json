@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "科研/毕业设计/Learning to match features with seeded graph matching network.md",
+                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd77ef0b56bca1ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -28,7 +41,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/毕业设计/Learning to match features with seeded graph matching network.md"
+                "file": "科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md"
               }
             }
           }
@@ -115,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研/毕业设计/Learning to match features with seeded graph matching network.md",
+                "file": "科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研/毕业设计/Learning to match features with seeded graph matching network.md",
+                "file": "科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -214,14 +228,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "db0e56801aec3cd9",
+  "active": "cd77ef0b56bca1ed",
   "lastOpenFiles": [
     "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md",
+    "科研/毕业设计/Learning to match features with seeded graph matching network.md",
     "科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md",
     "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md",
     "首页.md",
     "科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md",
-    "科研/毕业设计/Learning to match features with seeded graph matching network.md",
     "科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-问题描述.md",
     "科研/毕业设计/Chatgpt-什么是多尺度注意力图卷积.md",
     "科研/毕业设计/Chatgpt-解释一下基于多尺度注意力图卷积特征融合的图像特征匹配方法.md",
