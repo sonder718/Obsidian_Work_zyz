@@ -15,9 +15,9 @@
               "state": {
                 "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
                 "viewState": {
-                  "x": -451.7658849132551,
-                  "y": -113.50881522780645,
-                  "zoom": 1,
+                  "x": 1522.9923052091929,
+                  "y": 385.589479284908,
+                  "zoom": -1.4590129573762614,
                   "snapToGrid": true
                 }
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/毕业设计/attachments/张一卓简历.pdf"
+                "file": "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md"
               }
             }
           }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研/毕业设计/attachments/张一卓简历.pdf",
+                "file": "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研/毕业设计/attachments/张一卓简历.pdf",
+                "file": "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -245,14 +245,14 @@
   },
   "active": "db0e56801aec3cd9",
   "lastOpenFiles": [
+    "科研/毕业设计/Learning to match features with seeded graph matching network.md",
+    "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
+    "科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md",
     "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md",
     "科研/毕业设计/RANSAC估计两图基础矩阵.md",
-    "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
     "科研/毕业设计/SIFT特征点提取.md",
     "科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题.md",
     "科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md",
-    "科研/毕业设计/Learning to match features with seeded graph matching network.md",
-    "科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md",
     "科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md",
     "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md"
   ]

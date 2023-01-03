@@ -1,15 +1,17 @@
 {
 	"nodes":[
-		{"id":"c5a272fff8cc24df","x":400,"y":-1760,"width":544,"height":760,"type":"file","file":"科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md"},
+		{"id":"f0ea4dc07f1f8a16","x":1802,"y":494,"width":400,"height":400,"type":"file","file":"科研/毕业设计/Learning to match features with seeded graph matching network.md"},
 		{"id":"a820d2a87eba99b8","x":720,"y":-123,"width":400,"height":400,"type":"file","file":"科研/毕业设计/RANSAC估计两图基础矩阵.md"},
+		{"id":"b7caa5bf8a953235","x":720,"y":480,"width":400,"height":400,"type":"file","file":"科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md"},
+		{"id":"7c423b7a33e0654a","x":-60,"y":-200,"width":1200,"height":497,"color":"1","type":"group","label":"经典算法"},
+		{"id":"c5a272fff8cc24df","x":1240,"y":-760,"width":1000,"height":1080,"type":"file","file":"科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md"},
+		{"id":"d598adde7d080787","x":2260,"y":494,"width":400,"height":400,"type":"file","file":"科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md"},
 		{"id":"831f9e5acb214083","x":80,"y":-400,"width":160,"height":50,"type":"text","text":"特征提取"},
 		{"id":"2a48cd294702bacf","x":845,"y":-400,"width":150,"height":50,"type":"text","text":"特征匹配"},
 		{"id":"c31ed22cfe49d8fe","x":-40,"y":-123,"width":400,"height":400,"type":"file","file":"科研/毕业设计/SIFT特征点提取.md"},
-		{"id":"b59464fffb0bd5c1","x":360,"y":-720,"width":400,"height":150,"type":"file","file":"科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题.md"},
 		{"id":"4ca7b6c45798b601","x":-40,"y":480,"width":400,"height":400,"type":"file","file":"科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md"},
-		{"id":"b7caa5bf8a953235","x":720,"y":480,"width":400,"height":400,"type":"file","file":"科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md"},
-		{"id":"7c423b7a33e0654a","x":-60,"y":-200,"width":1200,"height":497,"color":"1","type":"group","label":"经典算法"},
-		{"id":"7742eb4d7456085d","x":-680,"y":-160,"width":400,"height":400,"type":"file","file":"科研/毕业设计/attachments/张一卓简历.pdf"}
+		{"id":"b59464fffb0bd5c1","x":360,"y":-720,"width":400,"height":150,"type":"file","file":"科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题.md"},
+		{"id":"531aebdf6f140d7b","x":1240,"y":480,"width":400,"height":400,"type":"file","file":"科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md"}
 	],
 	"edges":[
 		{"id":"c60846230569e1f4","fromNode":"b59464fffb0bd5c1","fromSide":"bottom","toNode":"831f9e5acb214083","toSide":"top"},
