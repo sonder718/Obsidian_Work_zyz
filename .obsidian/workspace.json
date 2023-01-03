@@ -15,8 +15,8 @@
               "state": {
                 "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
                 "viewState": {
-                  "x": 1522.9923052091929,
-                  "y": 385.589479284908,
+                  "x": 637.2413027783167,
+                  "y": 166.52040507067193,
                   "zoom": -1.4590129573762614,
                   "snapToGrid": true
                 }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md"
+                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas"
               }
             }
           }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md",
+                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md",
+                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
