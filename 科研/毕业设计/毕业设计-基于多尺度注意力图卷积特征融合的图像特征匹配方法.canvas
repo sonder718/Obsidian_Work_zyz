@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"c5a272fff8cc24df","x":400,"y":-1760,"width":544,"height":760,"type":"file","file":"科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md"},
+		{"id":"b59464fffb0bd5c1","x":450,"y":-720,"width":400,"height":150,"type":"file","file":"科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题.md"},
+		{"id":"2a48cd294702bacf","x":770,"y":-400,"width":150,"height":50,"type":"text","text":"特征匹配"},
+		{"id":"831f9e5acb214083","x":320,"y":-400,"width":160,"height":50,"type":"text","text":"特征提取"},
+		{"id":"a820d2a87eba99b8","x":645,"y":-123,"width":400,"height":400,"type":"file","file":"科研/毕业设计/RANSAC估计两图基础矩阵.md"},
+		{"id":"4ca7b6c45798b601","x":-80,"y":-123,"width":400,"height":400,"type":"file","file":"科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md"},
+		{"id":"c31ed22cfe49d8fe","x":-640,"y":-123,"width":400,"height":400,"type":"file","file":"科研/毕业设计/SIFT特征点提取.md"}
+	],
+	"edges":[
+		{"id":"c60846230569e1f4","fromNode":"b59464fffb0bd5c1","fromSide":"bottom","toNode":"831f9e5acb214083","toSide":"top"},
+		{"id":"3745d93dd3a47496","fromNode":"b59464fffb0bd5c1","fromSide":"bottom","toNode":"2a48cd294702bacf","toSide":"top"},
+		{"id":"97106ae32978016b","fromNode":"831f9e5acb214083","fromSide":"bottom","toNode":"4ca7b6c45798b601","toSide":"top"},
+		{"id":"9ca7a3d4bbdaa174","fromNode":"831f9e5acb214083","fromSide":"bottom","toNode":"c31ed22cfe49d8fe","toSide":"top"},
+		{"id":"97cb829d5e1b55e5","fromNode":"c31ed22cfe49d8fe","fromSide":"right","toNode":"4ca7b6c45798b601","toSide":"left","label":"新成果"},
+		{"id":"6e5ee3035e021c26","fromNode":"2a48cd294702bacf","fromSide":"bottom","toNode":"a820d2a87eba99b8","toSide":"top"}
+	]
+}

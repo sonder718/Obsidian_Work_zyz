@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "科研/毕业设计/未命名.canvas"
+      "basename": "毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法",
+      "path": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas"
     },
     {
-      "basename": "SuperPoint-Self-Supervised Interest Point Detection and Description",
-      "path": "科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md"
+      "basename": "RANSAC估计两图基础矩阵",
+      "path": "科研/毕业设计/RANSAC估计两图基础矩阵.md"
     },
     {
       "basename": "毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法",
       "path": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md"
+    },
+    {
+      "basename": "SIFT特征点提取",
+      "path": "科研/毕业设计/SIFT特征点提取.md"
+    },
+    {
+      "basename": "SuperPoint-Self-Supervised Interest Point Detection and Description",
+      "path": "科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md"
     },
     {
       "basename": "基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题",
@@ -191,14 +199,6 @@
     {
       "basename": "常见MQ",
       "path": "编程/常见MQ.md"
-    },
-    {
-      "basename": "常见Java设计模式",
-      "path": "编程/常见Java设计模式.md"
-    },
-    {
-      "basename": "装饰模式",
-      "path": "编程/装饰模式.md"
     }
   ],
   "omittedPaths": [],
