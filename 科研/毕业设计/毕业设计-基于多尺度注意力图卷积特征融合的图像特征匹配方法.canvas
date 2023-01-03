@@ -1,10 +1,5 @@
 {
 	"nodes":[
-		{"id":"531aebdf6f140d7b","x":680,"y":1000,"width":400,"height":400,"type":"file","file":"科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md"},
-		{"id":"6e7ed92bd427c121","x":1240,"y":1053,"width":573,"height":147,"color":"4","type":"text","text":"- 使用Transformer\n- 多尺度:粗略级别+精细级别"},
-		{"id":"f0ea4dc07f1f8a16","x":640,"y":1600,"width":400,"height":400,"type":"file","file":"科研/毕业设计/Learning to match features with seeded graph matching network.md"},
-		{"id":"cac0f5ab5df2c1f6","x":1240,"y":1693,"width":573,"height":107,"color":"4","type":"text","text":"- 种子图匹配网络"},
-		{"id":"d598adde7d080787","x":2320,"y":1320,"width":507,"height":400,"type":"file","file":"科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md"},
 		{"id":"7c423b7a33e0654a","x":-480,"y":-200,"width":1620,"height":497,"color":"1","type":"group","label":"经典算法"},
 		{"id":"831f9e5acb214083","x":80,"y":-400,"width":160,"height":50,"type":"text","text":"特征提取"},
 		{"id":"b59464fffb0bd5c1","x":275,"y":-800,"width":720,"height":240,"type":"file","file":"科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题.md"},
@@ -13,9 +8,14 @@
 		{"id":"a820d2a87eba99b8","x":720,"y":-123,"width":400,"height":400,"type":"file","file":"科研/毕业设计/RANSAC估计两图基础矩阵.md"},
 		{"id":"c5a272fff8cc24df","x":1240,"y":-760,"width":1000,"height":1080,"type":"file","file":"科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md"},
 		{"id":"2a48cd294702bacf","x":845,"y":-400,"width":150,"height":50,"type":"text","text":"特征匹配"},
-		{"id":"7a6ba5988f0235ae","x":2294,"y":1773,"width":533,"height":227,"color":"4","type":"text","text":"- Transformer\n- 仅查询兴趣点并检索稀疏对应关系\n- 局部和全局先验"},
-		{"id":"4ca7b6c45798b601","x":-200,"y":480,"width":400,"height":400,"type":"file","file":"科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md"},
-		{"id":"c31ed22cfe49d8fe","x":-400,"y":-123,"width":400,"height":400,"type":"file","file":"科研/毕业设计/SIFT特征点提取.md"}
+		{"id":"c31ed22cfe49d8fe","x":-320,"y":-123,"width":400,"height":400,"type":"file","file":"科研/毕业设计/SIFT特征点提取.md"},
+		{"id":"4ca7b6c45798b601","x":-320,"y":480,"width":400,"height":400,"type":"file","file":"科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md"},
+		{"id":"f0ea4dc07f1f8a16","x":607,"y":1920,"width":400,"height":400,"type":"file","file":"科研/毕业设计/Learning to match features with seeded graph matching network.md"},
+		{"id":"6e7ed92bd427c121","x":387,"y":1520,"width":573,"height":147,"color":"4","type":"text","text":"- 使用Transformer\n- 多尺度:粗略级别+精细级别"},
+		{"id":"7a6ba5988f0235ae","x":1000,"y":1520,"width":533,"height":227,"color":"4","type":"text","text":"- Transformer\n- 仅查询兴趣点并检索稀疏对应关系\n- 局部和全局先验"},
+		{"id":"d598adde7d080787","x":1000,"y":1047,"width":507,"height":400,"type":"file","file":"科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md"},
+		{"id":"531aebdf6f140d7b","x":407,"y":994,"width":400,"height":453,"type":"file","file":"科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md"},
+		{"id":"cac0f5ab5df2c1f6","x":607,"y":2400,"width":573,"height":107,"color":"4","type":"text","text":"- 种子图匹配网络"}
 	],
 	"edges":[
 		{"id":"c60846230569e1f4","fromNode":"b59464fffb0bd5c1","fromSide":"bottom","toNode":"831f9e5acb214083","toSide":"top"},
