@@ -22,7 +22,11 @@
 	- ==相机内参==
 		- [[相机内参与外参,相机标定]]
 - **求解基础矩阵**
-	- 
+	- 最小二乘法估算基础矩阵
+		- ![](attachments/Pasted%20image%2020230104164732.png)
+	- RANSAC估算基础矩阵
+		- ![](attachments/Pasted%20image%2020230104164811.png)
+		- ![](attachments/Pasted%20image%2020230104164854.png)
 - ![](attachments/%E5%9F%BA%E7%A1%80%E7%9F%A9%E9%98%B5F,%E6%9C%AC%E8%B4%A8%E7%9F%A9%E9%98%B5E,%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2014.46.19.excalidraw.svg)%%[🖋 Edit in Excalidraw](attachments/%E5%9F%BA%E7%A1%80%E7%9F%A9%E9%98%B5F,%E6%9C%AC%E8%B4%A8%E7%9F%A9%E9%98%B5E,%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2014.46.19.excalidraw.md), and the [dark exported image](attachments/%E5%9F%BA%E7%A1%80%E7%9F%A9%E9%98%B5F,%E6%9C%AC%E8%B4%A8%E7%9F%A9%E9%98%B5E,%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2014.46.19.excalidraw.dark.svg)%%
 ##### 本质矩阵E描述什么
 - 特点
