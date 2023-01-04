@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Python包导入的相对路径",
+      "path": "编程/Python包导入的相对路径.md"
+    },
+    {
+      "basename": "核心-python开发",
+      "path": "编程/核心-python开发.md"
+    },
+    {
       "basename": "毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法",
       "path": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "未命名",
       "path": "科研/毕业设计/未命名.canvas"
-    },
-    {
-      "basename": "张一卓简历",
-      "path": "科研/毕业设计/attachments/张一卓简历.pdf"
-    },
-    {
-      "basename": "基于多尺度注意力图卷积特征融合的图像特征匹配方法-问题描述",
-      "path": "科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-问题描述.md"
     }
   ],
   "omittedPaths": [],
