@@ -10,8 +10,8 @@
 		{"id":"4ca7b6c45798b601","x":-320,"y":480,"width":400,"height":400,"type":"file","file":"科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md","subpath":"#主要工作"},
 		{"id":"b7caa5bf8a953235","x":681,"y":480,"width":478,"height":400,"type":"file","file":"科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md","subpath":"#主要工作"},
 		{"id":"f0ea4dc07f1f8a16","x":-320,"y":994,"width":400,"height":400,"type":"file","file":"科研/毕业设计/Learning to match features with seeded graph matching network.md","subpath":"#主要工作"},
-		{"id":"531aebdf6f140d7b","x":259,"y":994,"width":552,"height":400,"type":"file","file":"科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md","subpath":"#主要工作"},
-		{"id":"d598adde7d080787","x":920,"y":994,"width":705,"height":400,"type":"file","file":"科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md","subpath":"#主要工作"}
+		{"id":"d598adde7d080787","x":1457,"y":880,"width":705,"height":400,"type":"file","file":"科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md","subpath":"#主要工作"},
+		{"id":"531aebdf6f140d7b","x":644,"y":1080,"width":552,"height":400,"type":"file","file":"科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md","subpath":"#主要工作"}
 	],
 	"edges":[
 		{"id":"c60846230569e1f4","fromNode":"b59464fffb0bd5c1","fromSide":"bottom","toNode":"831f9e5acb214083","toSide":"top"},
@@ -21,6 +21,7 @@
 		{"id":"ebc87852d0f88eeb","fromNode":"c31ed22cfe49d8fe","fromSide":"bottom","toNode":"4ca7b6c45798b601","toSide":"top"},
 		{"id":"636f1f4647f7b43f","fromNode":"a820d2a87eba99b8","fromSide":"bottom","toNode":"b7caa5bf8a953235","toSide":"top"},
 		{"id":"4531ad0d6ca27fe7","fromNode":"4ca7b6c45798b601","fromSide":"right","toNode":"b7caa5bf8a953235","toSide":"left","label":"利用SuperPoint关键\n点进行匹配"},
-		{"id":"5484e123b943e97a","fromNode":"c31ed22cfe49d8fe","fromSide":"right","toNode":"a820d2a87eba99b8","toSide":"left"}
+		{"id":"5484e123b943e97a","fromNode":"c31ed22cfe49d8fe","fromSide":"right","toNode":"a820d2a87eba99b8","toSide":"left"},
+		{"id":"d94f87ebe8db563d","fromNode":"b7caa5bf8a953235","fromSide":"bottom","toNode":"531aebdf6f140d7b","toSide":"top"}
 	]
 }
