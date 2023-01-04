@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法",
+      "path": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas"
+    },
+    {
       "basename": "SGMNet-Learning to match features with seeded graph matching network",
       "path": "科研/毕业设计/SGMNet-Learning to match features with seeded graph matching network.md"
     },
     {
-      "basename": "毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法",
-      "path": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas"
+      "basename": "SuperGlue-Learning Feature Matching with Graph Neural Networks",
+      "path": "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md"
     },
     {
       "basename": "LoFTR--Detector-free local feature matching with transformers",
@@ -35,10 +39,6 @@
     {
       "basename": "首页",
       "path": "首页.md"
-    },
-    {
-      "basename": "SuperGlue-Learning Feature Matching with Graph Neural Networks",
-      "path": "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md"
     },
     {
       "basename": "RANSAC估计两图基础矩阵",

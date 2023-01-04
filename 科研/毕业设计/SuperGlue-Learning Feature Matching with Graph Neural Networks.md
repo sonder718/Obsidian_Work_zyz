@@ -5,6 +5,7 @@
 	- [magicleap/SuperGluePretrainedNetwork: SuperGlue: Learning Feature Matching with Graph Neural Networks (CVPR 2020, Oral) (github.com)](https://github.com/magicleap/SuperGluePretrainedNetwork)
 
 ##### 主要工作
+- 训练代码未开源
 - SuperPoint 关键点和描述符之上运行 SuperGlue 匹配网络
 - 使用了图卷积神经网络进行特征匹配
 ##### 摘要
