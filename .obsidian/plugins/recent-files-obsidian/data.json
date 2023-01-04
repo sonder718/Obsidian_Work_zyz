@@ -5,16 +5,24 @@
       "path": "科研/毕业设计/RANSAC估计两图基础矩阵.md"
     },
     {
+      "basename": "RANSAC估计两图基础矩阵",
+      "path": "科研/毕业设计/RANSAC估计两图基础矩阵.canvas"
+    },
+    {
+      "basename": "Pasted image 20230104131931",
+      "path": "科研/毕业设计/attachments/Pasted image 20230104131931.png"
+    },
+    {
       "basename": "毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法",
       "path": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md"
     },
     {
-      "basename": "首页",
-      "path": "首页.md"
-    },
-    {
       "basename": "毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法",
       "path": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas"
+    },
+    {
+      "basename": "首页",
+      "path": "首页.md"
     },
     {
       "basename": "COTR-- Correspondence Transformer for Matching Across Images",
@@ -191,14 +199,6 @@
     {
       "basename": "如何对消息进行编码和解码",
       "path": "编程/如何对消息进行编码和解码.md"
-    },
-    {
-      "basename": "确定消息数据结构",
-      "path": "编程/确定消息数据结构.md"
-    },
-    {
-      "basename": "RPC（Remote Procedure Call Protocol）远程过程调用协议",
-      "path": "编程/RPC（Remote Procedure Call Protocol）远程过程调用协议.md"
     }
   ],
   "omittedPaths": [],
