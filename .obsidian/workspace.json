@@ -11,12 +11,15 @@
             "id": "db0e56801aec3cd9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
+                "viewState": {
+                  "x": 732.1951257148373,
+                  "y": 24.404714434729726,
+                  "zoom": -1.1666666666666665,
+                  "snapToGrid": false
+                }
               }
             }
           },
@@ -44,8 +47,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/毕业设计/RANSAC估计两图基础矩阵.canvas"
+                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas"
               }
             }
           }
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研/毕业设计/RANSAC估计两图基础矩阵.canvas",
+                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研/毕业设计/RANSAC估计两图基础矩阵.canvas",
+                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -231,17 +233,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fd399205e5878d39",
+  "active": "db0e56801aec3cd9",
   "lastOpenFiles": [
-    "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md",
     "科研/毕业设计/RANSAC估计两图基础矩阵.canvas",
-    "科研/毕业设计/RANSAC估计两图基础矩阵.md",
     "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
+    "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md",
+    "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md",
+    "科研/毕业设计/RANSAC估计两图基础矩阵.md",
     "科研/毕业设计/attachments/Pasted image 20230104132107.png",
     "科研/毕业设计/attachments/Pasted image 20230104131931.png",
     "首页.md",
     "科研/毕业设计/未命名.canvas",
-    "科研/毕业设计/Learning to match features with seeded graph matching network.md",
-    "科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md"
+    "科研/毕业设计/Learning to match features with seeded graph matching network.md"
   ]
 }
