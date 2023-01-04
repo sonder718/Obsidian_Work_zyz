@@ -26,4 +26,4 @@
 - ![](attachments/%E5%9F%BA%E7%A1%80%E7%9F%A9%E9%98%B5F,%E6%9C%AC%E8%B4%A8%E7%9F%A9%E9%98%B5E,%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2014.46.36.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](attachments/%E5%9F%BA%E7%A1%80%E7%9F%A9%E9%98%B5F,%E6%9C%AC%E8%B4%A8%E7%9F%A9%E9%98%B5E,%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2014.46.36.excalidraw.md), and the [dark exported image](attachments/%E5%9F%BA%E7%A1%80%E7%9F%A9%E9%98%B5F,%E6%9C%AC%E8%B4%A8%E7%9F%A9%E9%98%B5E,%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2014.46.36.excalidraw.dark.svg)%%
 ##### E和F的关系
-- 利用本质矩阵和相机内参数矩阵相乘可以得到基础矩阵
+- 利用本质矩阵E和相机内参数矩阵相乘可以得到基础矩阵F
