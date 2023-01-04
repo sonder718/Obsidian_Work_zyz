@@ -1,18 +1,18 @@
 {
 	"nodes":[
-		{"id":"7c423b7a33e0654a","x":-480,"y":-200,"width":1620,"height":497,"color":"1","type":"group","label":"经典算法"},
-		{"id":"831f9e5acb214083","x":80,"y":-400,"width":160,"height":50,"type":"text","text":"特征提取"},
-		{"id":"b59464fffb0bd5c1","x":275,"y":-800,"width":720,"height":240,"type":"file","file":"科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题.md"},
-		{"id":"a820d2a87eba99b8","x":720,"y":-123,"width":400,"height":400,"type":"file","file":"科研/毕业设计/RANSAC估计两图基础矩阵.md"},
-		{"id":"2a48cd294702bacf","x":845,"y":-400,"width":150,"height":50,"type":"text","text":"特征匹配"},
+		{"id":"7c423b7a33e0654a","x":-480,"y":-200,"width":1620,"height":600,"color":"1","type":"group","label":"经典方法"},
+		{"id":"a820d2a87eba99b8","x":720,"y":-123,"width":400,"height":466,"type":"file","file":"科研/毕业设计/RANSAC估计两图基础矩阵.md"},
 		{"id":"c31ed22cfe49d8fe","x":-320,"y":-123,"width":400,"height":400,"type":"file","file":"科研/毕业设计/SIFT特征点提取.md"},
-		{"id":"4ca7b6c45798b601","x":-320,"y":480,"width":400,"height":400,"type":"file","file":"科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md","subpath":"#主要工作"},
-		{"id":"b7caa5bf8a953235","x":681,"y":480,"width":478,"height":400,"type":"file","file":"科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md","subpath":"#主要工作"},
-		{"id":"f0ea4dc07f1f8a16","x":1493,"y":456,"width":516,"height":449,"type":"file","file":"科研/毕业设计/SGMNet-Learning to match features with seeded graph matching network.md","subpath":"#主要工作"},
-		{"id":"1b197259b230e84f","x":661,"y":386,"width":1368,"height":539,"color":"4","type":"group","label":"图神经网络"},
-		{"id":"bf3471f2edff861b","x":-419,"y":1104,"width":1499,"height":646,"color":"4","type":"group","label":"Transformer"},
-		{"id":"531aebdf6f140d7b","x":-336,"y":1237,"width":552,"height":400,"type":"file","file":"科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md","subpath":"#主要工作"},
-		{"id":"d598adde7d080787","x":311,"y":1237,"width":705,"height":400,"type":"file","file":"科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md","subpath":"#主要工作"}
+		{"id":"831f9e5acb214083","x":80,"y":-400,"width":160,"height":50,"type":"text","text":"特征提取"},
+		{"id":"2a48cd294702bacf","x":845,"y":-400,"width":150,"height":50,"type":"text","text":"特征匹配"},
+		{"id":"b59464fffb0bd5c1","x":275,"y":-800,"width":720,"height":240,"type":"file","file":"科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题.md"},
+		{"id":"1b197259b230e84f","x":661,"y":671,"width":1368,"height":539,"color":"4","type":"group","label":"GNN"},
+		{"id":"f0ea4dc07f1f8a16","x":1493,"y":741,"width":516,"height":449,"type":"file","file":"科研/毕业设计/SGMNet-Learning to match features with seeded graph matching network.md","subpath":"#主要工作"},
+		{"id":"b7caa5bf8a953235","x":681,"y":765,"width":478,"height":400,"type":"file","file":"科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md","subpath":"#主要工作"},
+		{"id":"4ca7b6c45798b601","x":-320,"y":765,"width":400,"height":400,"type":"file","file":"科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md","subpath":"#主要工作"},
+		{"id":"bf3471f2edff861b","x":1521,"y":-223,"width":1499,"height":646,"color":"4","type":"group","label":"Transformer"},
+		{"id":"531aebdf6f140d7b","x":1604,"y":-90,"width":552,"height":400,"type":"file","file":"科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md","subpath":"#主要工作"},
+		{"id":"d598adde7d080787","x":2251,"y":-90,"width":705,"height":400,"type":"file","file":"科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md","subpath":"#主要工作"}
 	],
 	"edges":[
 		{"id":"c60846230569e1f4","fromNode":"b59464fffb0bd5c1","fromSide":"bottom","toNode":"831f9e5acb214083","toSide":"top"},
@@ -20,9 +20,10 @@
 		{"id":"9ca7a3d4bbdaa174","fromNode":"831f9e5acb214083","fromSide":"bottom","toNode":"c31ed22cfe49d8fe","toSide":"top"},
 		{"id":"6e5ee3035e021c26","fromNode":"2a48cd294702bacf","fromSide":"bottom","toNode":"a820d2a87eba99b8","toSide":"top"},
 		{"id":"ebc87852d0f88eeb","fromNode":"c31ed22cfe49d8fe","fromSide":"bottom","toNode":"4ca7b6c45798b601","toSide":"top"},
-		{"id":"636f1f4647f7b43f","fromNode":"a820d2a87eba99b8","fromSide":"bottom","toNode":"b7caa5bf8a953235","toSide":"top"},
 		{"id":"4531ad0d6ca27fe7","fromNode":"4ca7b6c45798b601","fromSide":"right","toNode":"b7caa5bf8a953235","toSide":"left","label":"利用SuperPoint关键\n点进行匹配"},
 		{"id":"5484e123b943e97a","fromNode":"c31ed22cfe49d8fe","fromSide":"right","toNode":"a820d2a87eba99b8","toSide":"left"},
-		{"id":"800b662fbc5c976f","fromNode":"b7caa5bf8a953235","fromSide":"right","toNode":"f0ea4dc07f1f8a16","toSide":"left"}
+		{"id":"800b662fbc5c976f","fromNode":"b7caa5bf8a953235","fromSide":"right","toNode":"f0ea4dc07f1f8a16","toSide":"left"},
+		{"id":"b496fcdc51dafa95","fromNode":"a820d2a87eba99b8","fromSide":"right","toNode":"bf3471f2edff861b","toSide":"left"},
+		{"id":"e5a7d3c88d9f59e5","fromNode":"a820d2a87eba99b8","fromSide":"bottom","toNode":"1b197259b230e84f","toSide":"top"}
 	]
 }

@@ -1,7 +1,7 @@
 ##### 论文信息
 - [[2103.14167v1] COTR: Correspondence Transformer for Matching Across Images (arxiv.org)](https://arxiv.org/abs/2103.14167v1)
 ##### 主要工作
-- Transformer
+- [[Transformer]]
 - 仅查询兴趣点并检索稀疏对应关系
 - 局部和全局先验
 ##### 摘要

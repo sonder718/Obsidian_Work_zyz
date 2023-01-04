@@ -2,7 +2,7 @@
 - [[2104.00680] LoFTR: Detector-Free Local Feature Matching with Transformers (arxiv.org)](https://arxiv.org/abs/2104.00680)
 - [LoFTR: Detector-Free Local Feature Matching with Transformers (zju3dv.github.io)](https://zju3dv.github.io/loftr/?utm_source=catalyzex.com)
 ##### 主要工作
-- 使用Transformer
+- 使用[[Transformer]]
 - 不是按顺序执行图像特征检测、描述和匹配
 - 多尺度:粗略级别+精细级别
 ##### 摘要
