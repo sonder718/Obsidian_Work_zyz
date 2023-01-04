@@ -11,38 +11,9 @@
             "id": "db0e56801aec3cd9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
-                "viewState": {
-                  "x": 1336.1899447704827,
-                  "y": 997.9107658385451,
-                  "zoom": -1.2006647399882269,
-                  "snapToGrid": true
-                }
-              }
-            }
-          },
-          {
-            "id": "7064975d12d62d5e",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1377191b043f1789",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "科研/毕业设计/SIFT特征点提取.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas"
+                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md"
               }
             }
           }
@@ -144,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
+                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
+                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -245,6 +216,7 @@
   },
   "active": "db0e56801aec3cd9",
   "lastOpenFiles": [
+    "首页.md",
     "科研/毕业设计/未命名.canvas",
     "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
     "科研/毕业设计/Learning to match features with seeded graph matching network.md",
@@ -253,7 +225,6 @@
     "科研/毕业设计/RANSAC估计两图基础矩阵.md",
     "科研/毕业设计/SIFT特征点提取.md",
     "科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题.md",
-    "科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md",
-    "科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md"
+    "科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md"
   ]
 }
