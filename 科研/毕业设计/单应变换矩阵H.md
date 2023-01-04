@@ -14,4 +14,13 @@
 	- ![](attachments/Pasted%20image%2020230104161312.png)
 	- ![](attachments/Pasted%20image%2020230104160338.png)
 - **估计H矩阵**
-	- 
+	- **H矩阵的特征**
+		- 9个未知数，但只有8个自由度
+		- ![](attachments/Pasted%20image%2020230104161415.png)
+	- **一对匹配点可以得到什么**
+		- 可以获得两组方程
+		- ![](attachments/%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2016.15.48.excalidraw.svg)%%[🖋 Edit in Excalidraw](attachments/%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2016.15.48.excalidraw.md), and the [dark exported image](attachments/%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2016.15.48.excalidraw.dark.svg)%%
+	- **四对点可以求解矩阵系数**
+		- 单应性Homograph估计：从传统算法到深度学习 - 白裳的文章 - 知乎 https://zhuanlan.zhihu.com/p/74597564
+		- ![](attachments/%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2016.18.37.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](attachments/%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2016.18.37.excalidraw.md), and the [dark exported image](attachments/%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2016.18.37.excalidraw.dark.svg)%%
