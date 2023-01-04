@@ -15,8 +15,8 @@
               "state": {
                 "file": "科研/毕业设计/RANSAC估计两图基础矩阵.canvas",
                 "viewState": {
-                  "x": 534.9098841008035,
-                  "y": -358.275781891257,
+                  "x": 329.5307425874,
+                  "y": -52.663757916766315,
                   "zoom": 0.7278708179807293,
                   "snapToGrid": true
                 }
@@ -27,25 +27,9 @@
             "id": "d1ce797b83091d12",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
-                "viewState": {
-                  "x": 724.2566105025139,
-                  "y": 953.5320702345953,
-                  "zoom": -1.2475088521825497,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "7d0007f32ff2fefc",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "科研/毕业设计/SGMNet-Learning to match features with seeded graph matching network.md",
+                "file": "科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -53,38 +37,12 @@
             }
           },
           {
-            "id": "00933cdbbd737869",
+            "id": "fcc32e0ef68867e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2f52bcb851be3ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8db0703561f06991",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md",
+                "file": "科研/毕业设计/图卷积GCN.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas"
+                "file": "科研/毕业设计/RANSAC估计两图基础矩阵.canvas"
               }
             }
           }
@@ -187,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
+                "file": "科研/毕业设计/RANSAC估计两图基础矩阵.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
+                "file": "科研/毕业设计/RANSAC估计两图基础矩阵.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -264,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,17 +242,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d1ce797b83091d12",
+  "active": "48d1ccbaa4062d42",
   "lastOpenFiles": [
+    "科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题.md",
+    "科研/毕业设计/图卷积GCN.md",
     "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md",
+    "首页.md",
     "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
     "科研/毕业设计/SGMNet-Learning to match features with seeded graph matching network.md",
     "科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md",
     "科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md",
     "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md",
-    "科研/毕业设计/RANSAC估计两图基础矩阵.md",
-    "科研/毕业设计/单应变换矩阵H.md",
-    "科研/毕业设计/基础矩阵F,本质矩阵E.md",
-    "科研/毕业设计/attachments/Pasted image 20230104164811.png"
+    "科研/毕业设计/RANSAC估计两图基础矩阵.md"
   ]
 }
