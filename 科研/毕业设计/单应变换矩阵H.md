@@ -1,11 +1,17 @@
-- **目的**
+- **刚体变换与仿射变换**
+	- 相比刚体变换（旋转和平移），仿射变换除了改变目标位置，还改变目标的形状
+	- 但是会保持物体的平直性（如图形中平行的两条线变换后依然平行）
+	- ![](attachments/%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2016.07.46.excalidraw.svg)%%[🖋 Edit in Excalidraw](attachments/%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2016.07.46.excalidraw.md), and the [dark exported image](attachments/%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2016.07.46.excalidraw.dark.svg)%%
+- **单应性变换**/投影变换
+	- 彻底改变目标的形状
+	- ![](attachments/%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2016.10.39.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](attachments/%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2016.10.39.excalidraw.md), and the [dark exported image](attachments/%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2016.10.39.excalidraw.dark.svg)%%
+- **单应变换矩阵目的**
 	- 将一张图像中的点
 	- 映射到另一张图像
 - **本质**
 	- 任意两张==图像==中，==像素==之间的映射关系
+	- ![](attachments/Pasted%20image%2020230104161312.png)
 	- ![](attachments/Pasted%20image%2020230104160338.png)
-- **仿射变换**
-	- ![](attachments/%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2016.07.46.excalidraw.svg)
-%%[🖋 Edit in Excalidraw](attachments/%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2016.07.46.excalidraw.md), and the [dark exported image](attachments/%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2016.07.46.excalidraw.dark.svg)%%
 - **估计H矩阵**
 	- 
