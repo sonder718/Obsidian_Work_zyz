@@ -15,6 +15,8 @@
 	- ![](attachments/Pasted%20image%2020230104161312.png)
 	- ![](attachments/Pasted%20image%2020230104160338.png)
 - **8点法可以估计H矩阵**
+	- **假设**
+		- 描述的是两幅图像之间的平面单应性
 	- **H矩阵的特征**
 		- 9个未知数，但只有8个自由度
 		- ![](attachments/Pasted%20image%2020230104161415.png)
