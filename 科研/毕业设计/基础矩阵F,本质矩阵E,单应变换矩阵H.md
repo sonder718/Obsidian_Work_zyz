@@ -15,6 +15,7 @@
 - **F被确定的方式**
 	- 两个相机的相对位置关系
 	- ==相机内参==
+		- [[相机内参与外参,相机标定]]
 - ![](attachments/%E5%9F%BA%E7%A1%80%E7%9F%A9%E9%98%B5F,%E6%9C%AC%E8%B4%A8%E7%9F%A9%E9%98%B5E,%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2014.46.19.excalidraw.svg)%%[🖋 Edit in Excalidraw](attachments/%E5%9F%BA%E7%A1%80%E7%9F%A9%E9%98%B5F,%E6%9C%AC%E8%B4%A8%E7%9F%A9%E9%98%B5E,%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2014.46.19.excalidraw.md), and the [dark exported image](attachments/%E5%9F%BA%E7%A1%80%E7%9F%A9%E9%98%B5F,%E6%9C%AC%E8%B4%A8%E7%9F%A9%E9%98%B5E,%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2014.46.19.excalidraw.dark.svg)%%
 ##### 本质矩阵E描述什么
 - **E反应的关系**
@@ -26,4 +27,5 @@
 - ![](attachments/%E5%9F%BA%E7%A1%80%E7%9F%A9%E9%98%B5F,%E6%9C%AC%E8%B4%A8%E7%9F%A9%E9%98%B5E,%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2014.46.36.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](attachments/%E5%9F%BA%E7%A1%80%E7%9F%A9%E9%98%B5F,%E6%9C%AC%E8%B4%A8%E7%9F%A9%E9%98%B5E,%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2014.46.36.excalidraw.md), and the [dark exported image](attachments/%E5%9F%BA%E7%A1%80%E7%9F%A9%E9%98%B5F,%E6%9C%AC%E8%B4%A8%E7%9F%A9%E9%98%B5E,%E5%8D%95%E5%BA%94%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5H%202023-01-04%2014.46.36.excalidraw.dark.svg)%%
 ##### E和F的关系
+- **本质矩阵是归一化平面下的基本矩阵的特殊形式**
 - 利用本质矩阵E和相机内参数矩阵相乘可以得到基础矩阵F
