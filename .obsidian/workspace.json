@@ -42,20 +42,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "科研/毕业设计/基础矩阵F,本质矩阵E,单应变换矩阵H.md",
+                "file": "科研/毕业设计/相机内参与外参,相机标定.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "55d233f975c3421f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "科研/毕业设计/attachments/相机内参与外参,相机标定 2023-01-04 15.34.19.excalidraw.md"
               }
             }
           },
@@ -84,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/毕业设计/attachments/相机内参与外参,相机标定 2023-01-04 15.34.19.excalidraw.md"
+                "file": "科研/毕业设计/相机内参与外参,相机标定.md"
               }
             }
           }
@@ -171,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研/毕业设计/attachments/相机内参与外参,相机标定 2023-01-04 15.34.19.excalidraw.md",
+                "file": "科研/毕业设计/相机内参与外参,相机标定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研/毕业设计/attachments/相机内参与外参,相机标定 2023-01-04 15.34.19.excalidraw.md",
+                "file": "科研/毕业设计/相机内参与外参,相机标定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -270,17 +260,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "55d233f975c3421f",
+  "active": "6d3c62ab8b9b6bec",
   "lastOpenFiles": [
+    "科研/毕业设计/attachments/相机内参与外参,相机标定 2023-01-04 15.22.08.excalidraw.svg",
     "科研/毕业设计/相机内参与外参,相机标定.md",
+    "科研/毕业设计/RANSAC估计两图基础矩阵.md",
+    "科研/毕业设计/基础矩阵F,本质矩阵E,单应变换矩阵H.md",
+    "科研/毕业设计/attachments/相机内参与外参,相机标定 2023-01-04 15.34.19.excalidraw.md",
     "科研/毕业设计/attachments/Pasted image 20230104153346.png",
     "科研/毕业设计/attachments/相机内参与外参,相机标定 2023-01-04 15.31.15.excalidraw.md",
     "科研/毕业设计/RANSAC估计两图基础矩阵.canvas",
     "科研/毕业设计/attachments/相机内参与外参,相机标定 2023-01-04 15.22.08.excalidraw.md",
-    "科研/毕业设计/基础矩阵F,本质矩阵E,单应变换矩阵H.md",
-    "科研/课程/计算机视觉基础/视觉几何基础.md",
-    "科研/课程/计算机视觉基础/计算机视觉.md",
-    "科研/课程/计算机视觉基础/关键点特征与匹配.md",
-    "科研/课程/计算机视觉基础/attachments/关键点特征与匹配 2023-01-04 15.14.15.excalidraw.md"
+    "科研/课程/计算机视觉基础/视觉几何基础.md"
   ]
 }
