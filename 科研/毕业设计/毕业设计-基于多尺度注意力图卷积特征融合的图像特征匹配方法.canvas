@@ -23,7 +23,6 @@
 		{"id":"636f1f4647f7b43f","fromNode":"a820d2a87eba99b8","fromSide":"bottom","toNode":"b7caa5bf8a953235","toSide":"top"},
 		{"id":"4531ad0d6ca27fe7","fromNode":"4ca7b6c45798b601","fromSide":"right","toNode":"b7caa5bf8a953235","toSide":"left","label":"利用SuperPoint关键\n点进行匹配"},
 		{"id":"5484e123b943e97a","fromNode":"c31ed22cfe49d8fe","fromSide":"right","toNode":"a820d2a87eba99b8","toSide":"left"},
-		{"id":"800b662fbc5c976f","fromNode":"b7caa5bf8a953235","fromSide":"right","toNode":"f0ea4dc07f1f8a16","toSide":"left"},
-		{"id":"a91668a5cf85ef57","fromNode":"4ca7b6c45798b601","fromSide":"right","toNode":"bf3471f2edff861b","toSide":"left"}
+		{"id":"800b662fbc5c976f","fromNode":"b7caa5bf8a953235","fromSide":"right","toNode":"f0ea4dc07f1f8a16","toSide":"left"}
 	]
 }

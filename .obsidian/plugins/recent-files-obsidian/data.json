@@ -5,20 +5,24 @@
       "path": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas"
     },
     {
-      "basename": "SGMNet-Learning to match features with seeded graph matching network",
-      "path": "科研/毕业设计/SGMNet-Learning to match features with seeded graph matching network.md"
-    },
-    {
-      "basename": "SuperGlue-Learning Feature Matching with Graph Neural Networks",
-      "path": "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md"
+      "basename": "COTR-- Correspondence Transformer for Matching Across Images",
+      "path": "科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md"
     },
     {
       "basename": "LoFTR--Detector-free local feature matching with transformers",
       "path": "科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md"
     },
     {
-      "basename": "COTR-- Correspondence Transformer for Matching Across Images",
-      "path": "科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md"
+      "basename": "SuperPoint-Self-Supervised Interest Point Detection and Description",
+      "path": "科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md"
+    },
+    {
+      "basename": "SGMNet-Learning to match features with seeded graph matching network",
+      "path": "科研/毕业设计/SGMNet-Learning to match features with seeded graph matching network.md"
+    },
+    {
+      "basename": "SuperGlue-Learning Feature Matching with Graph Neural Networks",
+      "path": "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md"
     },
     {
       "basename": "毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法",
@@ -171,10 +175,6 @@
     {
       "basename": "Pasted image 20230104132606",
       "path": "科研/毕业设计/attachments/Pasted image 20230104132606.png"
-    },
-    {
-      "basename": "SuperPoint-Self-Supervised Interest Point Detection and Description",
-      "path": "科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md"
     },
     {
       "basename": "Pasted image 20230104132616",

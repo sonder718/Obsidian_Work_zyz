@@ -37,6 +37,19 @@
             }
           },
           {
+            "id": "61f8885ceb72589a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d0cfb41493bc0b64",
             "type": "leaf",
             "state": {
@@ -260,6 +273,7 @@
   "active": "bb23b48841307c8a",
   "lastOpenFiles": [
     "科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md",
+    "科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md",
     "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
     "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md",
     "科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题.md",
@@ -267,7 +281,6 @@
     "科研/毕业设计/图卷积GCN.md",
     "首页.md",
     "科研/毕业设计/SGMNet-Learning to match features with seeded graph matching network.md",
-    "科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md",
     "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md"
   ]
 }
