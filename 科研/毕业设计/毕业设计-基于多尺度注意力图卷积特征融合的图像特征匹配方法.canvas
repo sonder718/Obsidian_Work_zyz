@@ -10,9 +10,9 @@
 		{"id":"b7caa5bf8a953235","x":681,"y":480,"width":478,"height":400,"type":"file","file":"科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md","subpath":"#主要工作"},
 		{"id":"f0ea4dc07f1f8a16","x":1493,"y":456,"width":516,"height":449,"type":"file","file":"科研/毕业设计/SGMNet-Learning to match features with seeded graph matching network.md","subpath":"#主要工作"},
 		{"id":"1b197259b230e84f","x":661,"y":386,"width":1368,"height":539,"color":"4","type":"group","label":"图神经网络"},
-		{"id":"bf3471f2edff861b","x":661,"y":1102,"width":1499,"height":646,"color":"4","type":"group","label":"Transformer"},
-		{"id":"d598adde7d080787","x":1433,"y":1223,"width":705,"height":400,"type":"file","file":"科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md","subpath":"#主要工作"},
-		{"id":"531aebdf6f140d7b","x":684,"y":1223,"width":552,"height":400,"type":"file","file":"科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md","subpath":"#主要工作"}
+		{"id":"bf3471f2edff861b","x":-419,"y":1104,"width":1499,"height":646,"color":"4","type":"group","label":"Transformer"},
+		{"id":"531aebdf6f140d7b","x":-336,"y":1237,"width":552,"height":400,"type":"file","file":"科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md","subpath":"#主要工作"},
+		{"id":"d598adde7d080787","x":311,"y":1237,"width":705,"height":400,"type":"file","file":"科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md","subpath":"#主要工作"}
 	],
 	"edges":[
 		{"id":"c60846230569e1f4","fromNode":"b59464fffb0bd5c1","fromSide":"bottom","toNode":"831f9e5acb214083","toSide":"top"},
