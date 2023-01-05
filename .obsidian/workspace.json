@@ -24,9 +24,38 @@
             "id": "90abd3ca8447df16",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "科研/毕业设计/attachments/Transformer 2023-01-05 16.50.47.excalidraw.md"
+                "file": "科研/毕业设计/Transformer.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f72199353e90b35b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "科研/毕业设计/self-Attention.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56d52e303b34f417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "科研/毕业设计/简单的位置编码方式.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -57,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/毕业设计/attachments/Transformer 2023-01-05 16.50.47.excalidraw.md"
+                "file": "科研/毕业设计/self-Attention.md"
               }
             }
           }
@@ -144,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研/毕业设计/attachments/Transformer 2023-01-05 16.50.47.excalidraw.md",
+                "file": "科研/毕业设计/self-Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研/毕业设计/attachments/Transformer 2023-01-05 16.50.47.excalidraw.md",
+                "file": "科研/毕业设计/self-Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -243,17 +272,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "90abd3ca8447df16",
+  "active": "f72199353e90b35b",
   "lastOpenFiles": [
     "科研/毕业设计/Transformer.md",
+    "科研/毕业设计/简单的位置编码方式.md",
+    "科研/毕业设计/attachments/Pasted image 20230105165356.png",
+    "科研/毕业设计/attachments/Transformer 2023-01-05 16.50.47.excalidraw.md",
+    "科研/毕业设计/attachments/attachments/Pasted Image 20230105165116_582.png",
     "科研/毕业设计/计算机视觉中的Transformer.md",
     "科研/毕业设计/attachments/Transformer 2023-01-05 16.42.45.excalidraw.md",
     "科研/毕业设计/注意力机制.md",
     "科研/毕业设计/全局attention和部分attention.md",
-    "科研/毕业设计/Attention机制下的GNN.md",
-    "科研/毕业设计/attachments/Transformer 2023-01-05 16.35.29.excalidraw.md",
-    "科研/毕业设计/attachments/注意力机制 2023-01-05 16.33.38.excalidraw.md",
-    "科研/毕业设计/attachments/Transformer 2023-01-05 16.32.24.excalidraw.md",
-    "科研/毕业设计/Transformer.canvas"
+    "科研/毕业设计/Attention机制下的GNN.md"
   ]
 }

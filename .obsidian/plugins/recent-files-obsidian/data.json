@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Transformer 2023-01-05 16.50.47.excalidraw",
-      "path": "科研/毕业设计/attachments/Transformer 2023-01-05 16.50.47.excalidraw.md"
+      "basename": "self-Attention",
+      "path": "科研/毕业设计/self-Attention.md"
     },
     {
       "basename": "Transformer",
       "path": "科研/毕业设计/Transformer.md"
+    },
+    {
+      "basename": "简单的位置编码方式",
+      "path": "科研/毕业设计/简单的位置编码方式.md"
+    },
+    {
+      "basename": "Transformer 2023-01-05 16.50.47.excalidraw",
+      "path": "科研/毕业设计/attachments/Transformer 2023-01-05 16.50.47.excalidraw.md"
     },
     {
       "basename": "计算机视觉中的Transformer",
@@ -191,14 +199,6 @@
     {
       "basename": "单应变换矩阵H 2023-01-04 16.15.48.excalidraw",
       "path": "科研/毕业设计/attachments/单应变换矩阵H 2023-01-04 16.15.48.excalidraw.md"
-    },
-    {
-      "basename": "单应变换矩阵H 2023-01-04 16.10.39.excalidraw",
-      "path": "科研/毕业设计/attachments/单应变换矩阵H 2023-01-04 16.10.39.excalidraw.md"
-    },
-    {
-      "basename": "单应变换矩阵H 2023-01-04 16.07.46.excalidraw",
-      "path": "科研/毕业设计/attachments/单应变换矩阵H 2023-01-04 16.07.46.excalidraw.md"
     }
   ],
   "omittedPaths": [],
