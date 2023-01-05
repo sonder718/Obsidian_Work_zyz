@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "科研/毕业设计/Resnet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d466bae8a2bb1303",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "科研/毕业设计/卷积神经网络.md",
+                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -37,15 +24,12 @@
             "id": "877f3a6cae3b901c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
-                "viewState": {
-                  "x": 2000.1739276963544,
-                  "y": 1309.6101359500892,
-                  "zoom": -1.196590072009712,
-                  "snapToGrid": false
-                }
+                "file": "科研/毕业设计/注意力机制.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -75,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "科研/毕业设计/Resnet.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研/毕业设计/Resnet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +177,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研/毕业设计/Resnet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -261,16 +242,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e02efe22eeb1fdfe",
+  "active": "877f3a6cae3b901c",
   "lastOpenFiles": [
+    "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
     "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md",
+    "科研/毕业设计/Resnet.md",
     "科研/毕业设计/卷积神经网络.md",
     "科研/毕业设计/感受野.md",
     "科研/毕业设计/attachments/感受野 2023-01-05 14.39.54.excalidraw.md",
-    "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
     "科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md",
     "科研/毕业设计/SGMNet-Learning to match features with seeded graph matching network.md",
-    "科研/毕业设计/Resnet.md",
     "首页.md",
     "科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题.md"
   ]
