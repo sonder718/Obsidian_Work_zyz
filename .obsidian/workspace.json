@@ -11,15 +11,12 @@
             "id": "0dc9bea40aed7d72",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "科研/毕业设计/Transformer.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "科研/毕业设计/Transformer.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -84,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/毕业设计/Transformer.canvas"
+                "file": "科研/毕业设计/Transformer.md"
               }
             }
           }
@@ -110,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研/毕业设计/Transformer.canvas",
+                "file": "科研/毕业设计/Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研/毕业设计/Transformer.canvas",
+                "file": "科研/毕业设计/Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -211,6 +208,7 @@
   },
   "active": "0dc9bea40aed7d72",
   "lastOpenFiles": [
+    "科研/毕业设计/Transformer.canvas",
     "科研/毕业设计/Transformer.md",
     "科研/毕业设计/注意力机制.md",
     "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
@@ -219,7 +217,6 @@
     "科研/毕业设计/未命名 1.canvas",
     "科研/毕业设计/Resnet.md",
     "科研/毕业设计/卷积神经网络.md",
-    "科研/毕业设计/感受野.md",
-    "科研/毕业设计/attachments/感受野 2023-01-05 14.39.54.excalidraw.md"
+    "科研/毕业设计/感受野.md"
   ]
 }
