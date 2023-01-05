@@ -13,7 +13,7 @@
 		{"id":"4ca7b6c45798b601","x":-320,"y":765,"width":400,"height":400,"type":"file","file":"科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md","subpath":"#主要工作"},
 		{"id":"b7caa5bf8a953235","x":923,"y":759,"width":478,"height":400,"type":"file","file":"科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md","subpath":"#主要工作"},
 		{"id":"f0ea4dc07f1f8a16","x":1898,"y":741,"width":516,"height":449,"type":"file","file":"科研/毕业设计/SGMNet-Learning to match features with seeded graph matching network.md","subpath":"#主要工作"},
-		{"id":"a7011e7c48886ac9","x":923,"y":1336,"width":400,"height":400,"type":"file","file":"科研/毕业设计/230105.md"}
+		{"id":"a7011e7c48886ac9","x":1299,"y":-1120,"width":857,"height":518,"type":"file","file":"科研/毕业设计/230105.md"}
 	],
 	"edges":[
 		{"id":"c60846230569e1f4","fromNode":"b59464fffb0bd5c1","fromSide":"bottom","toNode":"831f9e5acb214083","toSide":"top"},

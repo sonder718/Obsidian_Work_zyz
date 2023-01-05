@@ -1,0 +1,1 @@
+[MIT提出CrossViT：交叉注意力多尺度视觉Transformer - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/362297773)
