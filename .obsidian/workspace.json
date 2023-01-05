@@ -16,7 +16,7 @@
                 "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
                 "viewState": {
                   "x": 1624.4740086928716,
-                  "y": 420.9592765473907,
+                  "y": 1259.8954745752721,
                   "zoom": -1.36590355298478,
                   "snapToGrid": false
                 }
@@ -24,15 +24,12 @@
             }
           },
           {
-            "id": "b3b3d58a6ed0adba",
+            "id": "5ae7f599bd72b28b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "科研/毕业设计/attachments/SGMNet-Learning to match features with seeded graph matching network 2023-01-05 19.13.49.excalidraw.md"
               }
             }
           },
@@ -147,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md"
+                "file": "科研/毕业设计/attachments/SGMNet-Learning to match features with seeded graph matching network 2023-01-05 19.13.49.excalidraw.md"
               }
             }
           }
@@ -173,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md",
+                "file": "科研/毕业设计/attachments/SGMNet-Learning to match features with seeded graph matching network 2023-01-05 19.13.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md",
+                "file": "科研/毕业设计/attachments/SGMNet-Learning to match features with seeded graph matching network 2023-01-05 19.13.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -272,17 +269,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b3b3d58a6ed0adba",
+  "active": "5ae7f599bd72b28b",
   "lastOpenFiles": [
-    "科研/毕业设计/attachments/SuperGlue-Learning Feature Matching with Graph Neural Networks 2023-01-05 18.34.07.excalidraw.md",
+    "科研/毕业设计/SGMNet-Learning to match features with seeded graph matching network.md",
     "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
+    "科研/毕业设计/attachments/LoFTR--Detector-free local feature matching with transformers 2023-01-05 18.02.09.excalidraw.md",
+    "科研/毕业设计/attachments/SGMNet-Learning to match features with seeded graph matching network 2023-01-05 19.13.49.excalidraw.md",
+    "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md",
+    "科研/毕业设计/attachments/SuperGlue-Learning Feature Matching with Graph Neural Networks 2023-01-05 18.34.07.excalidraw.md",
     "科研/毕业设计/attachments/attachments/Pasted Image 20230105190444_059.png",
     "科研/毕业设计/attachments/attachments/Pasted Image 20230105185249_060.png",
     "科研/毕业设计/230105.md",
-    "科研/毕业设计/计算机视觉中的Transformer.md",
-    "科研/毕业设计/attachments/LoFTR--Detector-free local feature matching with transformers 2023-01-05 18.02.09.excalidraw.md",
-    "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md",
-    "科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md",
-    "科研/毕业设计/attachments/SuperPoint-Self-Supervised Interest Point Detection and Description 2023-01-05 18.40.32.excalidraw.md"
+    "科研/毕业设计/计算机视觉中的Transformer.md"
   ]
 }
