@@ -63,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md"
+                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md",
+                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md",
+                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -249,8 +249,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "201183f667bcf152",
+  "active": "877f3a6cae3b901c",
   "lastOpenFiles": [
+    "科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md",
     "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
     "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md",
     "科研/毕业设计/SGMNet-Learning to match features with seeded graph matching network.md",
@@ -259,7 +260,6 @@
     "科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题.md",
     "科研/毕业设计/Chatgpt-什么是多尺度注意力图卷积.md",
     "科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-问题描述.md",
-    "科研/毕业设计/pytorch.md",
-    "科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md"
+    "科研/毕业设计/pytorch.md"
   ]
 }
