@@ -1,5 +1,6 @@
 ##### 论文信息
 - [[2103.14167v1] COTR: Correspondence Transformer for Matching Across Images (arxiv.org)](https://arxiv.org/abs/2103.14167v1)
+- [ubc-vision/COTR: Code release for "COTR: Correspondence Transformer for Matching Across Images"(ICCV 2021) (github.com)](https://github.com/ubc-vision/COTR)
 ##### 主要工作
 - [[Transformer]]
 - 仅查询兴趣点并检索稀疏对应关系

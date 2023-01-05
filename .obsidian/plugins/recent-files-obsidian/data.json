@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "COTR-- Correspondence Transformer for Matching Across Images",
+      "path": "科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md"
+    },
+    {
       "basename": "毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法",
       "path": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "pytorch",
       "path": "科研/毕业设计/pytorch.md"
-    },
-    {
-      "basename": "COTR-- Correspondence Transformer for Matching Across Images",
-      "path": "科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md"
     },
     {
       "basename": "LoFTR--Detector-free local feature matching with transformers",
