@@ -15,11 +15,37 @@
               "state": {
                 "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
                 "viewState": {
-                  "x": 1083.360160964887,
-                  "y": 844.622056551472,
+                  "x": 1641.2527326534287,
+                  "y": 425.15395753753137,
                   "zoom": -1.36590355298478,
                   "snapToGrid": false
                 }
+              }
+            }
+          },
+          {
+            "id": "ddf7b7248f2d2d6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a112ffa531d808bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "科研/毕业设计/对几篇论文的总结及其展望.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -49,7 +75,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas"
+                "file": "科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md"
               }
             }
           }
@@ -136,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
+                "file": "科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
+                "file": "科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -235,17 +262,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0dc9bea40aed7d72",
+  "active": "ddf7b7248f2d2d6f",
   "lastOpenFiles": [
+    "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
+    "科研/毕业设计/对几篇论文的总结及其展望.md",
+    "科研/毕业设计/attachments/对几篇论文的总结及其展望 2023-01-05 17.53.55.excalidraw.md",
     "科研/毕业设计/图卷积GCN.md",
     "科研/毕业设计/attachments/图卷积GCN 2023-01-05 17.16.14.excalidraw.md",
     "科研/毕业设计/attachments/attachments/Pasted Image 20230105171618_680.png",
     "科研/毕业设计/attachments/图卷积GCN 2023-01-05 17.10.00.excalidraw.md",
     "科研/毕业设计/attachments/Pasted image 20230105170905.png",
-    "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
     "科研/毕业设计/注意力机制.md",
-    "科研/毕业设计/计算机视觉中的Transformer.md",
-    "科研/毕业设计/attachments/Transformer 2023-01-05 16.32.24.excalidraw.md",
-    "科研/毕业设计/Transformer.md"
+    "科研/毕业设计/计算机视觉中的Transformer.md"
   ]
 }

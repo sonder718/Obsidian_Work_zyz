@@ -6,13 +6,14 @@
 		{"id":"831f9e5acb214083","x":80,"y":-400,"width":160,"height":50,"type":"text","text":"特征提取"},
 		{"id":"2a48cd294702bacf","x":845,"y":-400,"width":150,"height":50,"type":"text","text":"特征匹配"},
 		{"id":"b59464fffb0bd5c1","x":275,"y":-1271,"width":720,"height":711,"type":"file","file":"科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题.md"},
-		{"id":"4ca7b6c45798b601","x":-320,"y":765,"width":400,"height":400,"type":"file","file":"科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md","subpath":"#主要工作"},
 		{"id":"bf3471f2edff861b","x":1521,"y":-223,"width":1499,"height":646,"color":"4","type":"group","label":"Transformer"},
 		{"id":"531aebdf6f140d7b","x":1604,"y":-90,"width":552,"height":400,"type":"file","file":"科研/毕业设计/LoFTR--Detector-free local feature matching with transformers.md","subpath":"#主要工作"},
 		{"id":"d598adde7d080787","x":2251,"y":-90,"width":705,"height":400,"type":"file","file":"科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md","subpath":"#主要工作"},
 		{"id":"1b197259b230e84f","x":903,"y":584,"width":1652,"height":620,"color":"4","type":"group","label":"GNN"},
+		{"id":"4ca7b6c45798b601","x":-320,"y":765,"width":400,"height":400,"type":"file","file":"科研/毕业设计/SuperPoint-Self-Supervised Interest Point Detection and Description.md","subpath":"#主要工作"},
 		{"id":"b7caa5bf8a953235","x":923,"y":759,"width":478,"height":400,"type":"file","file":"科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md","subpath":"#主要工作"},
-		{"id":"f0ea4dc07f1f8a16","x":1898,"y":741,"width":516,"height":449,"type":"file","file":"科研/毕业设计/SGMNet-Learning to match features with seeded graph matching network.md","subpath":"#主要工作"}
+		{"id":"f0ea4dc07f1f8a16","x":1898,"y":741,"width":516,"height":449,"type":"file","file":"科研/毕业设计/SGMNet-Learning to match features with seeded graph matching network.md","subpath":"#主要工作"},
+		{"id":"a7011e7c48886ac9","x":923,"y":1336,"width":400,"height":400,"type":"file","file":"科研/毕业设计/对几篇论文的总结及其展望.md"}
 	],
 	"edges":[
 		{"id":"c60846230569e1f4","fromNode":"b59464fffb0bd5c1","fromSide":"bottom","toNode":"831f9e5acb214083","toSide":"top"},
