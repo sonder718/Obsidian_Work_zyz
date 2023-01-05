@@ -5,24 +5,72 @@
       "path": "编程/我与工作.md"
     },
     {
-      "basename": "2-两数相加",
-      "path": "编程/2-两数相加.md"
+      "basename": "核心-面经",
+      "path": "编程/工作相关/核心-面经.md"
+    },
+    {
+      "basename": "Docker常识",
+      "path": "编程/工作相关/Docker常识.md"
+    },
+    {
+      "basename": "快速参考-备忘清单",
+      "path": "编程/快速参考-备忘清单.md"
+    },
+    {
+      "basename": "DNS劫持",
+      "path": "编程/工作相关/DNS劫持.md"
+    },
+    {
+      "basename": "非技术类问题",
+      "path": "编程/工作相关/非技术类问题.md"
+    },
+    {
+      "basename": "我与编程",
+      "path": "编程/我与编程.md"
+    },
+    {
+      "basename": "核心-安全漏洞与实践",
+      "path": "编程/安全/核心-安全漏洞与实践.md"
+    },
+    {
+      "basename": "核心-前端",
+      "path": "编程/工作相关/核心-前端.md"
+    },
+    {
+      "basename": "核心-软件工程",
+      "path": "编程/工作相关/核心-软件工程.md"
+    },
+    {
+      "basename": "canvas",
+      "path": "编程/工作相关/canvas.md"
+    },
+    {
+      "basename": "核心-数据库",
+      "path": "编程/工作相关/核心-数据库.md"
+    },
+    {
+      "basename": "我的项目经历",
+      "path": "编程/工作相关/我的项目经历.md"
+    },
+    {
+      "basename": "Java 线程状态",
+      "path": "编程/工作相关/Java 线程状态.md"
     },
     {
       "basename": "投递简历情况",
-      "path": "编程/投递简历情况.md"
+      "path": "编程/工作相关/投递简历情况.md"
+    },
+    {
+      "basename": "2-两数相加",
+      "path": "编程/Leetcode/2-两数相加.md"
     },
     {
       "basename": "2022年11月4日的微软小冰面试",
-      "path": "编程/2022年11月4日的微软小冰面试.md"
+      "path": "编程/工作相关/2022年11月4日的微软小冰面试.md"
     },
     {
       "basename": "首页",
       "path": "首页.md"
-    },
-    {
-      "basename": "核心-面经",
-      "path": "编程/核心-面经.md"
     },
     {
       "basename": "SGMNet-Learning to match features with seeded graph matching network 2023-01-05 19.13.49.excalidraw",
@@ -33,12 +81,8 @@
       "path": "考研/我与考研.md"
     },
     {
-      "basename": "我与编程",
-      "path": "编程/我与编程.md"
-    },
-    {
       "basename": "他人面试经验",
-      "path": "编程/他人面试经验.md"
+      "path": "编程/工作相关/他人面试经验.md"
     },
     {
       "basename": "毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法",
@@ -155,46 +199,6 @@
     {
       "basename": "Transformer 2023-01-05 16.35.29.excalidraw",
       "path": "科研/毕业设计/attachments/Transformer 2023-01-05 16.35.29.excalidraw.md"
-    },
-    {
-      "basename": "注意力机制 2023-01-05 16.33.38.excalidraw",
-      "path": "科研/毕业设计/attachments/注意力机制 2023-01-05 16.33.38.excalidraw.md"
-    },
-    {
-      "basename": "Transformer",
-      "path": "科研/毕业设计/Transformer.canvas"
-    },
-    {
-      "basename": "capture-2023-01-05-16-13-46",
-      "path": "科研/毕业设计/attachments/capture-2023-01-05-16-13-46.jpg"
-    },
-    {
-      "basename": "capture-2023-01-05-16-03-32",
-      "path": "科研/毕业设计/attachments/capture-2023-01-05-16-03-32.jpg"
-    },
-    {
-      "basename": "特征融合",
-      "path": "科研/毕业设计/特征融合.md"
-    },
-    {
-      "basename": "多尺度注意力机制",
-      "path": "科研/毕业设计/多尺度注意力机制.md"
-    },
-    {
-      "basename": "毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法",
-      "path": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "科研/毕业设计/未命名 1.canvas"
-    },
-    {
-      "basename": "Resnet",
-      "path": "科研/毕业设计/Resnet.md"
-    },
-    {
-      "basename": "卷积神经网络",
-      "path": "科研/毕业设计/卷积神经网络.md"
     }
   ],
   "omittedPaths": [],

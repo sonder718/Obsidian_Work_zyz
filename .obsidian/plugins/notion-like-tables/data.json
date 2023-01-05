@@ -14,7 +14,11 @@
         ],
         "cells": [
           {
-            "id": "cell-id-mrUvn6Fp",
+<<<<<<< HEAD
+            "id": "cell-id-T1PlDuS5",
+=======
+            "id": "cell-id-HhG25Nie",
+>>>>>>> parent of 5b29d0f (vault backup: 2023-01-05 22:48:58)
             "columnId": "column-id-Q0uV54G6",
             "rowId": "row-id-nOW2yAdb",
             "markdown": "公司名称",
@@ -22,7 +26,11 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-xMTZleEE",
+<<<<<<< HEAD
+            "id": "cell-id-LPBjvDsE",
+=======
+            "id": "cell-id-mitQoDbp",
+>>>>>>> parent of 5b29d0f (vault backup: 2023-01-05 22:48:58)
             "columnId": "column-id-WjjlWueS",
             "rowId": "row-id-nOW2yAdb",
             "markdown": "岗位类型",
@@ -30,7 +38,11 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-ZKoZnx5N",
+<<<<<<< HEAD
+            "id": "cell-id-vmesCsXo",
+=======
+            "id": "cell-id-gWkAaMHr",
+>>>>>>> parent of 5b29d0f (vault backup: 2023-01-05 22:48:58)
             "columnId": "column-id-g2UtBJzA",
             "rowId": "row-id-nOW2yAdb",
             "markdown": "当前进度",
@@ -38,7 +50,11 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-Ww1ANVUq",
+<<<<<<< HEAD
+            "id": "cell-id-V4AyQbJM",
+=======
+            "id": "cell-id-rb4fZBaV",
+>>>>>>> parent of 5b29d0f (vault backup: 2023-01-05 22:48:58)
             "columnId": "column-id-umQqFuRW",
             "rowId": "row-id-nOW2yAdb",
             "markdown": "经验教训",
@@ -46,7 +62,11 @@
             "isHeader": true
           },
           {
-            "id": "cell-id-IM9vbPYi",
+<<<<<<< HEAD
+            "id": "cell-id-TJPrGXhI",
+=======
+            "id": "cell-id-wgAAEOGB",
+>>>>>>> parent of 5b29d0f (vault backup: 2023-01-05 22:48:58)
             "columnId": "column-id-Q0uV54G6",
             "rowId": "row-id-f4eVahZD",
             "markdown": "",
@@ -54,7 +74,11 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-IJmQo2BV",
+<<<<<<< HEAD
+            "id": "cell-id-BrUyWYYj",
+=======
+            "id": "cell-id-AI2HTcNp",
+>>>>>>> parent of 5b29d0f (vault backup: 2023-01-05 22:48:58)
             "columnId": "column-id-WjjlWueS",
             "rowId": "row-id-f4eVahZD",
             "markdown": "",
@@ -62,7 +86,11 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-IYviITrN",
+<<<<<<< HEAD
+            "id": "cell-id-JjtQoy6O",
+=======
+            "id": "cell-id-0bECKlUb",
+>>>>>>> parent of 5b29d0f (vault backup: 2023-01-05 22:48:58)
             "columnId": "column-id-g2UtBJzA",
             "rowId": "row-id-f4eVahZD",
             "markdown": "",
@@ -70,7 +98,11 @@
             "isHeader": false
           },
           {
-            "id": "cell-id-kXLIY9nm",
+<<<<<<< HEAD
+            "id": "cell-id-DScMHIaH",
+=======
+            "id": "cell-id-eUpUWbJW",
+>>>>>>> parent of 5b29d0f (vault backup: 2023-01-05 22:48:58)
             "columnId": "column-id-umQqFuRW",
             "rowId": "row-id-f4eVahZD",
             "markdown": "",
