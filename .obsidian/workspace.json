@@ -13,31 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "科研/毕业设计/Transformer.md",
+                "file": "科研/毕业设计/注意力机制.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "730243a97c1bfd5f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "科研/毕业设计/Transformer.canvas",
-                "viewState": {
-                  "x": -65.66624736575469,
-                  "y": -46.286347309321144,
-                  "zoom": 1,
-                  "snapToGrid": false
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/毕业设计/Transformer.canvas"
+                "file": "科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题.md"
               }
             }
           }
@@ -124,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研/毕业设计/Transformer.canvas",
+                "file": "科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研/毕业设计/Transformer.canvas",
+                "file": "科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -223,17 +206,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "730243a97c1bfd5f",
+  "active": "0dc9bea40aed7d72",
   "lastOpenFiles": [
+    "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
+    "科研/毕业设计/特征融合.md",
+    "科研/毕业设计/多尺度注意力机制.md",
+    "科研/毕业设计/注意力机制.md",
     "科研/毕业设计/Transformer.md",
     "科研/毕业设计/Transformer.canvas",
-    "科研/毕业设计/注意力机制.md",
-    "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
     "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md",
     "首页.md",
     "科研/毕业设计/未命名 1.canvas",
-    "科研/毕业设计/Resnet.md",
-    "科研/毕业设计/卷积神经网络.md",
-    "科研/毕业设计/感受野.md"
+    "科研/毕业设计/Resnet.md"
   ]
 }
