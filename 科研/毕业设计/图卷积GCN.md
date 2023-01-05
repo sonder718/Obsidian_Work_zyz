@@ -2,5 +2,8 @@
 - **Graph Embedding**
 	- ![](attachments/Pasted%20image%2020230105170905.png)
 - **图卷积与卷积**
+	- 乘以 $A^n$ 会导致特征从 n 跳距离节点传播，所以可以通过将乘法添加到邻接矩阵的更高次方来扩展“感受野
+	- ![](attachments/%E5%9B%BE%E5%8D%B7%E7%A7%AFGCN%202023-01-05%2017.16.14.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](attachments/%E5%9B%BE%E5%8D%B7%E7%A7%AFGCN%202023-01-05%2017.16.14.excalidraw.md), and the [dark exported image](attachments/%E5%9B%BE%E5%8D%B7%E7%A7%AFGCN%202023-01-05%2017.16.14.excalidraw.dark.svg)%%
 	- ![](attachments/%E5%9B%BE%E5%8D%B7%E7%A7%AFGCN%202023-01-05%2017.10.00.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](attachments/%E5%9B%BE%E5%8D%B7%E7%A7%AFGCN%202023-01-05%2017.10.00.excalidraw.md), and the [dark exported image](attachments/%E5%9B%BE%E5%8D%B7%E7%A7%AFGCN%202023-01-05%2017.10.00.excalidraw.dark.svg)%%
