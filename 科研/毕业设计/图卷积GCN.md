@@ -1,4 +1,6 @@
 - [一文读懂图卷积GCN - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/89503068)
+- [图卷积和消息传递理论的可视化详解 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/462642687)
+- [浅析图卷积神经网络 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/37091549)
 - **Graph Embedding**
 	- ![](attachments/Pasted%20image%2020230105170905.png)
 - **图卷积与卷积**
