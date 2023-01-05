@@ -5,8 +5,18 @@
 - **编码解码模型**
 	- ![](attachments/capture-2023-01-05-16-13-46.jpg)
 	- ![](attachments/Pasted%20image%2020230105164127.png)
+- **Embedding**
+	- 目的
+	- 分类
+		- One-hot
+			- 最简单
+			- **很稀疏，而且还可能很长**
+			- 无法体现出词与词之间的关系
+		- **Word Embedding**
+			- ![](attachments/Pasted%20image%2020230105170050.png)
+			- 可以起到降维的效果
 - **Positional Encoding**
-	- Positional Encoding就是句子中词语相对位置的编码，让Transformer保留词语的位置信息
+	- Positional Encoding就是句子中词语==相对位置==的编码，让Transformer保留词语的**位置信息**
 		- [[简单的位置编码方式]]
 	- ![](attachments/Pasted%20image%2020230105165232.png)
 	- ![](attachments/Transformer%202023-01-05%2016.42.45.excalidraw.svg)%%[🖋 Edit in Excalidraw](attachments/Transformer%202023-01-05%2016.42.45.excalidraw.md), and the [dark exported image](attachments/Transformer%202023-01-05%2016.42.45.excalidraw.dark.svg)%%

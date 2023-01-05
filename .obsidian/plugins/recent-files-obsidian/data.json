@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "self-Attention",
-      "path": "科研/毕业设计/self-Attention.md"
-    },
-    {
       "basename": "Transformer",
       "path": "科研/毕业设计/Transformer.md"
+    },
+    {
+      "basename": "self-Attention",
+      "path": "科研/毕业设计/self-Attention.md"
     },
     {
       "basename": "简单的位置编码方式",
