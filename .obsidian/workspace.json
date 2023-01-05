@@ -15,11 +15,24 @@
               "state": {
                 "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
                 "viewState": {
-                  "x": 1487.2150895645389,
-                  "y": -872.7481756970046,
-                  "zoom": -0.15249811848004646,
+                  "x": 1505.6124724833617,
+                  "y": 685.133936277331,
+                  "zoom": -1.3191647851467132,
                   "snapToGrid": false
                 }
+              }
+            }
+          },
+          {
+            "id": "146e4427a87db018",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -47,12 +60,9 @@
             "id": "6b90625479af7b15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "科研/毕业设计/attachments/SuperGlue-Learning Feature Matching with Graph Neural Networks 2023-01-05 18.34.07.excalidraw.md"
               }
             }
           },
@@ -82,7 +92,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -143,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas"
+                "file": "科研/毕业设计/attachments/SuperGlue-Learning Feature Matching with Graph Neural Networks 2023-01-05 18.34.07.excalidraw.md"
               }
             }
           }
@@ -169,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
+                "file": "科研/毕业设计/attachments/SuperGlue-Learning Feature Matching with Graph Neural Networks 2023-01-05 18.34.07.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
+                "file": "科研/毕业设计/attachments/SuperGlue-Learning Feature Matching with Graph Neural Networks 2023-01-05 18.34.07.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -268,17 +279,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0dc9bea40aed7d72",
+  "active": "6b90625479af7b15",
   "lastOpenFiles": [
-    "科研/毕业设计/attachments/LoFTR--Detector-free local feature matching with transformers 2023-01-05 18.02.09.excalidraw.md",
+    "科研/毕业设计/attachments/attachments/Pasted Image 20230105184249_081.png",
+    "科研/毕业设计/attachments/SuperGlue-Learning Feature Matching with Graph Neural Networks 2023-01-05 18.34.07.excalidraw.md",
+    "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md",
     "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
+    "科研/毕业设计/attachments/LoFTR--Detector-free local feature matching with transformers 2023-01-05 18.02.09.excalidraw.md",
     "科研/毕业设计/attachments/SGMNet-Learning to match features with seeded graph matching network 2023-01-05 19.13.49.excalidraw.md",
     "科研/毕业设计/SGMNet-Learning to match features with seeded graph matching network.md",
-    "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md",
-    "科研/毕业设计/attachments/SuperGlue-Learning Feature Matching with Graph Neural Networks 2023-01-05 18.34.07.excalidraw.md",
     "科研/毕业设计/attachments/attachments/Pasted Image 20230105190444_059.png",
     "科研/毕业设计/attachments/attachments/Pasted Image 20230105185249_060.png",
-    "科研/毕业设计/230105.md",
-    "科研/毕业设计/计算机视觉中的Transformer.md"
+    "科研/毕业设计/230105.md"
   ]
 }
