@@ -21,6 +21,32 @@
             }
           },
           {
+            "id": "90abd3ca8447df16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "科研/毕业设计/Transformer.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fbb4366e17a82f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "科研/毕业设计/计算机视觉中的Transformer.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c0a53814131957da",
             "type": "leaf",
             "state": {
@@ -33,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/毕业设计/注意力机制.md"
+                "file": "科研/毕业设计/计算机视觉中的Transformer.md"
               }
             }
           }
@@ -120,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研/毕业设计/注意力机制.md",
+                "file": "科研/毕业设计/计算机视觉中的Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研/毕业设计/注意力机制.md",
+                "file": "科研/毕业设计/计算机视觉中的Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -219,17 +246,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0dc9bea40aed7d72",
+  "active": "2fbb4366e17a82f7",
   "lastOpenFiles": [
-    "科研/毕业设计/全局attention和部分attention.md",
-    "科研/毕业设计/注意力机制.md",
-    "科研/毕业设计/Attention机制下的GNN.md",
     "科研/毕业设计/Transformer.md",
+    "科研/毕业设计/attachments/Transformer 2023-01-05 16.42.45.excalidraw.md",
+    "科研/毕业设计/注意力机制.md",
+    "科研/毕业设计/全局attention和部分attention.md",
+    "科研/毕业设计/Attention机制下的GNN.md",
     "科研/毕业设计/attachments/Transformer 2023-01-05 16.35.29.excalidraw.md",
     "科研/毕业设计/attachments/注意力机制 2023-01-05 16.33.38.excalidraw.md",
     "科研/毕业设计/attachments/Transformer 2023-01-05 16.32.24.excalidraw.md",
     "科研/毕业设计/Transformer.canvas",
-    "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
-    "科研/毕业设计/特征融合.md"
+    "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas"
   ]
 }
