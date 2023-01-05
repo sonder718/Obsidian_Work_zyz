@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Transformer",
-      "path": "科研/毕业设计/Transformer.md"
+      "basename": "注意力机制",
+      "path": "科研/毕业设计/注意力机制.md"
     },
     {
-      "basename": "self-Attention",
-      "path": "科研/毕业设计/self-Attention.md"
+      "basename": "Attention机制下的GNN",
+      "path": "科研/毕业设计/Attention机制下的GNN.md"
     },
     {
       "basename": "简单的位置编码方式",
       "path": "科研/毕业设计/简单的位置编码方式.md"
+    },
+    {
+      "basename": "Transformer",
+      "path": "科研/毕业设计/Transformer.md"
+    },
+    {
+      "basename": "Transformer 2023-01-05 17.05.13.excalidraw",
+      "path": "科研/毕业设计/attachments/Transformer 2023-01-05 17.05.13.excalidraw.md"
+    },
+    {
+      "basename": "self-Attention",
+      "path": "科研/毕业设计/self-Attention.md"
     },
     {
       "basename": "Transformer 2023-01-05 16.50.47.excalidraw",
@@ -25,16 +37,8 @@
       "path": "科研/毕业设计/attachments/Transformer 2023-01-05 16.42.45.excalidraw.md"
     },
     {
-      "basename": "注意力机制",
-      "path": "科研/毕业设计/注意力机制.md"
-    },
-    {
       "basename": "全局attention和部分attention",
       "path": "科研/毕业设计/全局attention和部分attention.md"
-    },
-    {
-      "basename": "Attention机制下的GNN",
-      "path": "科研/毕业设计/Attention机制下的GNN.md"
     },
     {
       "basename": "Transformer 2023-01-05 16.35.29.excalidraw",
@@ -195,10 +199,6 @@
     {
       "basename": "单应变换矩阵H 2023-01-04 16.18.37.excalidraw",
       "path": "科研/毕业设计/attachments/单应变换矩阵H 2023-01-04 16.18.37.excalidraw.md"
-    },
-    {
-      "basename": "单应变换矩阵H 2023-01-04 16.15.48.excalidraw",
-      "path": "科研/毕业设计/attachments/单应变换矩阵H 2023-01-04 16.15.48.excalidraw.md"
     }
   ],
   "omittedPaths": [],

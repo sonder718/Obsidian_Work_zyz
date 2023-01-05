@@ -2,7 +2,7 @@
   "theme": "obsidian",
   "cssTheme": "Obsidian Nord",
   "translucency": true,
-  "baseFontSize": 28,
+  "baseFontSize": 29,
   "accentColor": "#d11f43",
   "nativeMenus": true
 }

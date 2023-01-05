@@ -2,11 +2,16 @@
 - **Transformer的本质**
 	- ![](attachments/Transformer%202023-01-05%2016.35.29.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](attachments/Transformer%202023-01-05%2016.35.29.excalidraw.md), and the [dark exported image](attachments/Transformer%202023-01-05%2016.35.29.excalidraw.dark.svg)%%
+- transformer训练实例
+	- ![](attachments/Transformer%202023-01-05%2017.05.13.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](attachments/Transformer%202023-01-05%2017.05.13.excalidraw.md), and the [dark exported image](attachments/Transformer%202023-01-05%2017.05.13.excalidraw.dark.svg)%%
 - **编码解码模型**
 	- ![](attachments/capture-2023-01-05-16-13-46.jpg)
 	- ![](attachments/Pasted%20image%2020230105164127.png)
 - **Embedding**
 	- 目的
+		- [Transformer 修炼之道（一）、Input Embedding - 简书 (jianshu.com)](https://www.jianshu.com/p/e6b5b463cf7b)
+		- ![](attachments/Pasted%20image%2020230105170408.png)
 	- 分类
 		- One-hot
 			- 最简单
@@ -15,7 +20,10 @@
 		- **Word Embedding**
 			- ![](attachments/Pasted%20image%2020230105170050.png)
 			- 可以起到降维的效果
+				- 把向量的维度从5维压缩到了3维
+			- 具有词与词之间关系的表达形式
 - **Positional Encoding**
+	- position embedding
 	- Positional Encoding就是句子中词语==相对位置==的编码，让Transformer保留词语的**位置信息**
 		- [[简单的位置编码方式]]
 	- ![](attachments/Pasted%20image%2020230105165232.png)
