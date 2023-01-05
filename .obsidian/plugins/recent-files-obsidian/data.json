@@ -5,6 +5,26 @@
       "path": "编程/核心-面经.md"
     },
     {
+      "basename": "SGMNet-Learning to match features with seeded graph matching network 2023-01-05 19.13.49.excalidraw",
+      "path": "科研/毕业设计/attachments/SGMNet-Learning to match features with seeded graph matching network 2023-01-05 19.13.49.excalidraw.md"
+    },
+    {
+      "basename": "我与考研",
+      "path": "考研/我与考研.md"
+    },
+    {
+      "basename": "首页",
+      "path": "首页.md"
+    },
+    {
+      "basename": "我与编程",
+      "path": "编程/我与编程.md"
+    },
+    {
+      "basename": "我与工作",
+      "path": "编程/我与工作.md"
+    },
+    {
       "basename": "他人面试经验",
       "path": "编程/他人面试经验.md"
     },
@@ -15,10 +35,6 @@
     {
       "basename": "基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题",
       "path": "科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题.md"
-    },
-    {
-      "basename": "SGMNet-Learning to match features with seeded graph matching network 2023-01-05 19.13.49.excalidraw",
-      "path": "科研/毕业设计/attachments/SGMNet-Learning to match features with seeded graph matching network 2023-01-05 19.13.49.excalidraw.md"
     },
     {
       "basename": "SuperGlue-Learning Feature Matching with Graph Neural Networks 2023-01-05 18.34.07.excalidraw",
@@ -157,10 +173,6 @@
       "path": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md"
     },
     {
-      "basename": "首页",
-      "path": "首页.md"
-    },
-    {
       "basename": "未命名 1",
       "path": "科研/毕业设计/未命名 1.canvas"
     },
@@ -171,34 +183,6 @@
     {
       "basename": "卷积神经网络",
       "path": "科研/毕业设计/卷积神经网络.md"
-    },
-    {
-      "basename": "感受野",
-      "path": "科研/毕业设计/感受野.md"
-    },
-    {
-      "basename": "感受野 2023-01-05 14.39.54.excalidraw",
-      "path": "科研/毕业设计/attachments/感受野 2023-01-05 14.39.54.excalidraw.md"
-    },
-    {
-      "basename": "COTR-- Correspondence Transformer for Matching Across Images",
-      "path": "科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md"
-    },
-    {
-      "basename": "Chatgpt-什么是多尺度注意力图卷积",
-      "path": "科研/毕业设计/Chatgpt-什么是多尺度注意力图卷积.md"
-    },
-    {
-      "basename": "基于多尺度注意力图卷积特征融合的图像特征匹配方法-问题描述",
-      "path": "科研/毕业设计/基于多尺度注意力图卷积特征融合的图像特征匹配方法-问题描述.md"
-    },
-    {
-      "basename": "pytorch",
-      "path": "科研/毕业设计/pytorch.md"
-    },
-    {
-      "basename": "LoFTR--Detector-free local feature matching with transformers 2023-01-05 00.42.33.excalidraw",
-      "path": "科研/毕业设计/attachments/LoFTR--Detector-free local feature matching with transformers 2023-01-05 00.42.33.excalidraw.md"
     }
   ],
   "omittedPaths": [],
