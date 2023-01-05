@@ -6,6 +6,22 @@
     },
     {
       "basename": "Transformer",
+      "path": "科研/毕业设计/Transformer.md"
+    },
+    {
+      "basename": "Transformer 2023-01-05 16.35.29.excalidraw",
+      "path": "科研/毕业设计/attachments/Transformer 2023-01-05 16.35.29.excalidraw.md"
+    },
+    {
+      "basename": "注意力机制 2023-01-05 16.33.38.excalidraw",
+      "path": "科研/毕业设计/attachments/注意力机制 2023-01-05 16.33.38.excalidraw.md"
+    },
+    {
+      "basename": "Transformer 2023-01-05 16.32.24.excalidraw",
+      "path": "科研/毕业设计/attachments/Transformer 2023-01-05 16.32.24.excalidraw.md"
+    },
+    {
+      "basename": "Transformer",
       "path": "科研/毕业设计/Transformer.canvas"
     },
     {
@@ -31,10 +47,6 @@
     {
       "basename": "多尺度注意力机制",
       "path": "科研/毕业设计/多尺度注意力机制.md"
-    },
-    {
-      "basename": "Transformer",
-      "path": "科研/毕业设计/Transformer.md"
     },
     {
       "basename": "毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法",
@@ -187,18 +199,6 @@
     {
       "basename": "计算机视觉",
       "path": "科研/课程/计算机视觉基础/计算机视觉.md"
-    },
-    {
-      "basename": "关键点特征与匹配",
-      "path": "科研/课程/计算机视觉基础/关键点特征与匹配.md"
-    },
-    {
-      "basename": "关键点特征与匹配 2023-01-04 15.14.15.excalidraw",
-      "path": "科研/课程/计算机视觉基础/attachments/关键点特征与匹配 2023-01-04 15.14.15.excalidraw.md"
-    },
-    {
-      "basename": "关键点特征与匹配 2023-01-04 15.13.50.excalidraw",
-      "path": "科研/课程/计算机视觉基础/attachments/关键点特征与匹配 2023-01-04 15.13.50.excalidraw.md"
     }
   ],
   "omittedPaths": [],
