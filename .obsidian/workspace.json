@@ -11,15 +11,25 @@
             "id": "0dc9bea40aed7d72",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
-                "viewState": {
-                  "x": 1505.6124724833617,
-                  "y": 1091.2303617662778,
-                  "zoom": -1.3191647851467132,
-                  "snapToGrid": false
-                }
+                "file": "编程/核心-面经.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "885071a672f2195a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/他人面试经验.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -140,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas"
+                "file": "编程/核心-面经.md"
               }
             }
           }
@@ -166,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
+                "file": "编程/核心-面经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
+                "file": "编程/核心-面经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -267,15 +277,15 @@
   },
   "active": "0dc9bea40aed7d72",
   "lastOpenFiles": [
+    "编程/他人面试经验.md",
+    "编程/核心-面经.md",
+    "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
     "科研/毕业设计/attachments/SGMNet-Learning to match features with seeded graph matching network 2023-01-05 19.13.49.excalidraw.md",
     "科研/毕业设计/attachments/SuperGlue-Learning Feature Matching with Graph Neural Networks 2023-01-05 18.34.07.excalidraw.md",
     "科研/毕业设计/attachments/LoFTR--Detector-free local feature matching with transformers 2023-01-05 18.02.09.excalidraw.md",
-    "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
     "科研/毕业设计/SuperGlue-Learning Feature Matching with Graph Neural Networks.md",
     "科研/毕业设计/attachments/attachments/Pasted Image 20230105184249_081.png",
     "科研/毕业设计/SGMNet-Learning to match features with seeded graph matching network.md",
-    "科研/毕业设计/attachments/attachments/Pasted Image 20230105190444_059.png",
-    "科研/毕业设计/attachments/attachments/Pasted Image 20230105185249_060.png",
-    "科研/毕业设计/230105.md"
+    "科研/毕业设计/attachments/attachments/Pasted Image 20230105190444_059.png"
   ]
 }

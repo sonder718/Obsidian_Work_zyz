@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "核心-面经",
+      "path": "编程/核心-面经.md"
+    },
+    {
+      "basename": "他人面试经验",
+      "path": "编程/他人面试经验.md"
+    },
+    {
       "basename": "毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法",
       "path": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "LoFTR--Detector-free local feature matching with transformers 2023-01-05 00.42.33.excalidraw",
       "path": "科研/毕业设计/attachments/LoFTR--Detector-free local feature matching with transformers 2023-01-05 00.42.33.excalidraw.md"
-    },
-    {
-      "basename": "核心-python开发",
-      "path": "编程/核心-python开发.md"
-    },
-    {
-      "basename": "VScode运行python出错",
-      "path": "编程/bug解决/环境配置/VScode运行python出错.md"
     }
   ],
   "omittedPaths": [],
