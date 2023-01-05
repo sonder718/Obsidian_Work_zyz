@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "我与编程",
+      "path": "编程/我与编程.md"
+    },
+    {
+      "basename": "核心-bug解决",
+      "path": "编程/bug解决/核心-bug解决.md"
+    },
+    {
+      "basename": "必剪",
+      "path": "编程/bug解决/环境配置/必剪.md"
+    },
+    {
+      "basename": "pip",
+      "path": "编程/bug解决/环境配置/pip.md"
+    },
+    {
+      "basename": "github push慢",
+      "path": "编程/bug解决/github push慢.md"
+    },
+    {
+      "basename": "bug处理",
+      "path": "编程/云记事本/bug处理.md"
+    },
+    {
       "basename": "我与工作",
       "path": "编程/我与工作.md"
     },
@@ -23,10 +47,6 @@
     {
       "basename": "非技术类问题",
       "path": "编程/工作相关/非技术类问题.md"
-    },
-    {
-      "basename": "我与编程",
-      "path": "编程/我与编程.md"
     },
     {
       "basename": "核心-安全漏洞与实践",
@@ -179,26 +199,6 @@
     {
       "basename": "Transformer 2023-01-05 17.05.13.excalidraw",
       "path": "科研/毕业设计/attachments/Transformer 2023-01-05 17.05.13.excalidraw.md"
-    },
-    {
-      "basename": "self-Attention",
-      "path": "科研/毕业设计/self-Attention.md"
-    },
-    {
-      "basename": "Transformer 2023-01-05 16.50.47.excalidraw",
-      "path": "科研/毕业设计/attachments/Transformer 2023-01-05 16.50.47.excalidraw.md"
-    },
-    {
-      "basename": "Transformer 2023-01-05 16.42.45.excalidraw",
-      "path": "科研/毕业设计/attachments/Transformer 2023-01-05 16.42.45.excalidraw.md"
-    },
-    {
-      "basename": "全局attention和部分attention",
-      "path": "科研/毕业设计/全局attention和部分attention.md"
-    },
-    {
-      "basename": "Transformer 2023-01-05 16.35.29.excalidraw",
-      "path": "科研/毕业设计/attachments/Transformer 2023-01-05 16.35.29.excalidraw.md"
     }
   ],
   "omittedPaths": [],
