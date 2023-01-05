@@ -2,7 +2,6 @@
 - [[2108.08771] Learning to Match Features with Seeded Graph Matching Network (arxiv.org)](https://arxiv.org/abs/2108.08771)
 - [vdvchen/SGMNet: Implementation of "Learning to Match Features with Seeded Graph Matching Network" ICCV2021 (github.com)](https://github.com/vdvchen/SGMNet?utm_source=catalyzex.com)
 ##### 主要工作
-
 - 图神经网络
 - 引入了“种子机制”，即不对所有的匹配点进行处理，而是从中选取部分点作为种子
 
