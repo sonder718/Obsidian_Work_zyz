@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "首页.md",
+                "file": "编程/我与工作.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "首页.md"
+                "file": "编程/我与工作.md"
               }
             }
           }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "首页.md",
+                "file": "编程/我与工作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "首页.md",
+                "file": "编程/我与工作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -251,12 +251,12 @@
   },
   "active": "0dc9bea40aed7d72",
   "lastOpenFiles": [
+    "首页.md",
     "编程/核心-面经.md",
     "科研/毕业设计/attachments/SGMNet-Learning to match features with seeded graph matching network 2023-01-05 19.13.49.excalidraw.md",
     "考研/考研计划.md",
     "考研/学习规划.md",
     "考研/我与考研.md",
-    "首页.md",
     "考研/生活状态.md",
     "考研/考研日记模板.md",
     "编程/我与编程.md",
