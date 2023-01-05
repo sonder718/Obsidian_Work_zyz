@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "首页",
+      "path": "首页.md"
+    },
+    {
       "basename": "核心-面经",
       "path": "编程/核心-面经.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "我与考研",
       "path": "考研/我与考研.md"
-    },
-    {
-      "basename": "首页",
-      "path": "首页.md"
     },
     {
       "basename": "我与编程",
