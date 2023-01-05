@@ -1,4 +1,4 @@
-- [[计算机视觉中的Transformer]]
+
 - **Transformer的本质**
 	- ![](attachments/Transformer%202023-01-05%2016.35.29.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](attachments/Transformer%202023-01-05%2016.35.29.excalidraw.md), and the [dark exported image](attachments/Transformer%202023-01-05%2016.35.29.excalidraw.dark.svg)%%

@@ -11,12 +11,9 @@
             "id": "0dc9bea40aed7d72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "科研/毕业设计/注意力机制.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "科研/毕业设计/attachments/图卷积GCN 2023-01-05 17.10.00.excalidraw.md"
               }
             }
           },
@@ -107,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/毕业设计/注意力机制.md"
+                "file": "科研/毕业设计/attachments/图卷积GCN 2023-01-05 17.10.00.excalidraw.md"
               }
             }
           }
@@ -133,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研/毕业设计/注意力机制.md",
+                "file": "科研/毕业设计/attachments/图卷积GCN 2023-01-05 17.10.00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研/毕业设计/注意力机制.md",
+                "file": "科研/毕业设计/attachments/图卷积GCN 2023-01-05 17.10.00.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -234,15 +231,15 @@
   },
   "active": "0dc9bea40aed7d72",
   "lastOpenFiles": [
-    "科研/毕业设计/Attention机制下的GNN.md",
+    "科研/毕业设计/图卷积GCN.md",
+    "科研/毕业设计/attachments/Pasted image 20230105170905.png",
+    "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.canvas",
     "科研/毕业设计/注意力机制.md",
-    "科研/毕业设计/简单的位置编码方式.md",
+    "科研/毕业设计/计算机视觉中的Transformer.md",
+    "科研/毕业设计/attachments/Transformer 2023-01-05 16.32.24.excalidraw.md",
     "科研/毕业设计/Transformer.md",
-    "科研/毕业设计/attachments/Transformer 2023-01-05 17.05.13.excalidraw.md",
-    "科研/毕业设计/attachments/attachments/Pasted Image 20230105170528_784.png",
-    "科研/毕业设计/self-Attention.md",
-    "科研/毕业设计/attachments/Pasted image 20230105165356.png",
-    "科研/毕业设计/attachments/Transformer 2023-01-05 16.50.47.excalidraw.md",
-    "科研/毕业设计/attachments/attachments/Pasted Image 20230105165116_582.png"
+    "科研/毕业设计/Attention机制下的GNN.md",
+    "科研/毕业设计/简单的位置编码方式.md",
+    "科研/毕业设计/attachments/Transformer 2023-01-05 17.05.13.excalidraw.md"
   ]
 }
