@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "首页",
+      "path": "首页.md"
+    },
+    {
       "basename": "注意力机制",
       "path": "科研/毕业设计/注意力机制.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "SIFT特征点提取",
       "path": "科研/毕业设计/SIFT特征点提取.md"
-    },
-    {
-      "basename": "首页",
-      "path": "首页.md"
     },
     {
       "basename": "Chatgpt-什么是多尺度注意力图卷积",

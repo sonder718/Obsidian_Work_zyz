@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e9b118f662361943",
+        "id": "e1fc3d07a4ca102d",
         "type": "tabs",
         "children": [
           {
-            "id": "e02efe22eeb1fdfe",
+            "id": "0dc9bea40aed7d72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "科研/毕业设计/毕业设计-基于多尺度注意力图卷积特征融合的图像特征匹配方法.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "877f3a6cae3b901c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "科研/毕业设计/注意力机制.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "201183f667bcf152",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "科研/毕业设计/COTR-- Correspondence Transformer for Matching Across Images.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4a39e55e8799781",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "科研/毕业设计/SGMNet-Learning to match features with seeded graph matching network.md",
+                "file": "首页.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研/毕业设计/注意力机制.md"
+                "file": "首页.md"
               }
             }
           }
@@ -147,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研/毕业设计/注意力机制.md",
+                "file": "首页.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研/毕业设计/注意力机制.md",
+                "file": "首页.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -246,7 +206,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "877f3a6cae3b901c",
+  "active": "0dc9bea40aed7d72",
   "lastOpenFiles": [
     "科研/毕业设计/未命名 1.canvas",
     "科研/毕业设计/注意力机制.md",
