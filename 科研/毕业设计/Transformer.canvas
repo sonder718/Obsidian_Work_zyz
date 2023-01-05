@@ -1,1 +1,7 @@
-{}
+{
+	"nodes":[
+		{"id":"f158d615b4185696","x":-353,"y":-249,"width":400,"height":255,"type":"file","file":"科研/毕业设计/attachments/capture-2023-01-05-16-13-46.jpg"},
+		{"id":"1f2422334f5ff892","x":98,"y":-298,"width":331,"height":400,"type":"file","file":"科研/毕业设计/attachments/capture-2023-01-05-16-03-32.jpg"}
+	],
+	"edges":[]
+}

@@ -2,11 +2,19 @@
   "recentFiles": [
     {
       "basename": "Transformer",
-      "path": "科研/毕业设计/Transformer.md"
+      "path": "科研/毕业设计/Transformer.canvas"
+    },
+    {
+      "basename": "capture-2023-01-05-16-13-46",
+      "path": "科研/毕业设计/attachments/capture-2023-01-05-16-13-46.jpg"
+    },
+    {
+      "basename": "capture-2023-01-05-16-03-32",
+      "path": "科研/毕业设计/attachments/capture-2023-01-05-16-03-32.jpg"
     },
     {
       "basename": "Transformer",
-      "path": "科研/毕业设计/Transformer.canvas"
+      "path": "科研/毕业设计/Transformer.md"
     },
     {
       "basename": "基于多尺度注意力图卷积特征融合的图像特征匹配方法-核心问题",
@@ -191,14 +199,6 @@
     {
       "basename": "关键点特征与匹配 2022-05-18 11.28.12.excalidraw",
       "path": "科研/课程/计算机视觉基础/关键点特征与匹配 2022-05-18 11.28.12.excalidraw.md"
-    },
-    {
-      "basename": "立体匹配",
-      "path": "科研/课程/计算机视觉基础/立体匹配.md"
-    },
-    {
-      "basename": "立体匹配 2023-01-04 15.12.42.excalidraw",
-      "path": "科研/课程/计算机视觉基础/attachments/立体匹配 2023-01-04 15.12.42.excalidraw.md"
     }
   ],
   "omittedPaths": [],
