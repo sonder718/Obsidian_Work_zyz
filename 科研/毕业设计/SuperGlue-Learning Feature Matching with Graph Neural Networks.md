@@ -6,6 +6,7 @@
 - 分析
 	- [SuperGlue一种基于图卷积神经网络的特征匹配算法 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/146389956)
 	- [📝笔记：SuperGlue:Learning Feature Matching with Graph Neural Networks论文阅读 | RealCat (vincentqin.tech)](https://vincentqin.tech/posts/superglue/)
+	- [强力胶CVPR 2020 (psarlin.com)](https://psarlin.com/superglue/)
 
 ##### 主要工作
 - 非端到端
