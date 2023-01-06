@@ -4,5 +4,5 @@
 [VScode运行python出错](环境配置/VScode运行python出错.md)
 [我的Java之路的bug](我的Java之路的bug.md)
 ##### git
-- [[github push慢]]
+- [[github push和clone失败]]
 - [[git push出错]]
