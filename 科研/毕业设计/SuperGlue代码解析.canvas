@@ -49,11 +49,16 @@
 		{"id":"78f5a8fbcc4c5066","x":568,"y":926,"width":400,"height":165,"type":"text","text":"原描述子与升维后的位置向量相加得到新的同为256维的描述向量"},
 		{"id":"b3bd1e4c128c0c37","x":589,"y":1840,"width":400,"height":66,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108010904.png"},
 		{"id":"02393743c7a86061","x":1080,"y":1826,"width":410,"height":95,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108011017.png"},
-		{"id":"297b4d00b8fb0598","x":2000,"y":1840,"width":200,"height":131,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108011128.png"},
-		{"id":"3aaa02b2e5a4c4f2","x":1560,"y":1828,"width":400,"height":186,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108011116.png"},
 		{"id":"3025a3e59303da21","x":1080,"y":1946,"width":399,"height":50,"type":"text","text":"输入256维的描述子"},
-		{"id":"baf5232e2e169640","x":1560,"y":2100,"width":400,"height":153,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108011304.png"},
-		{"id":"b83a5a51d3bd82a5","x":2000,"y":2100,"width":400,"height":153,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108011336.png"}
+		{"id":"3aaa02b2e5a4c4f2","x":1615,"y":2180,"width":400,"height":186,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108011116.png"},
+		{"id":"baf5232e2e169640","x":1615,"y":2452,"width":400,"height":153,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108011304.png"},
+		{"id":"b83a5a51d3bd82a5","x":2055,"y":2452,"width":400,"height":153,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108011336.png"},
+		{"id":"40bfedf222b0f9ee","x":1615,"y":1874,"width":400,"height":240,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108011617.png"},
+		{"id":"297b4d00b8fb0598","x":2055,"y":1906,"width":200,"height":131,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108011128.png"},
+		{"id":"e0c7fa18f0eba7a7","x":2030,"y":2120,"width":250,"height":60,"type":"text","text":"两张图的描述子"},
+		{"id":"3efdd7166de818f8","x":2400,"y":1874,"width":400,"height":248,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108011805.png"},
+		{"id":"bb92acbf307a506f","x":2840,"y":1873,"width":255,"height":198,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108011820.png"},
+		{"id":"de96b87005f6e5a6","x":2449,"y":2180,"width":303,"height":50,"type":"text","text":"同一张图的描述子"}
 	],
 	"edges":[
 		{"id":"b7cddd0b1ba68861","fromNode":"2410250fe52c579a","fromSide":"right","toNode":"7fb1855267b77d42","toSide":"left"},
@@ -101,6 +106,12 @@
 		{"id":"35676217788cb194","fromNode":"b3bd1e4c128c0c37","fromSide":"right","toNode":"02393743c7a86061","toSide":"left"},
 		{"id":"f6a40e3823c6d561","fromNode":"02393743c7a86061","fromSide":"right","toNode":"3aaa02b2e5a4c4f2","toSide":"left"},
 		{"id":"9de4ebda2135bb59","fromNode":"3aaa02b2e5a4c4f2","fromSide":"bottom","toNode":"baf5232e2e169640","toSide":"top"},
-		{"id":"4399308c04a2b02a","fromNode":"3aaa02b2e5a4c4f2","fromSide":"bottom","toNode":"b83a5a51d3bd82a5","toSide":"top"}
+		{"id":"4399308c04a2b02a","fromNode":"3aaa02b2e5a4c4f2","fromSide":"bottom","toNode":"b83a5a51d3bd82a5","toSide":"top"},
+		{"id":"ff9c8f52d96e0273","fromNode":"02393743c7a86061","fromSide":"right","toNode":"40bfedf222b0f9ee","toSide":"left"},
+		{"id":"19b47dd047dc0af0","fromNode":"40bfedf222b0f9ee","fromSide":"bottom","toNode":"3aaa02b2e5a4c4f2","toSide":"top"},
+		{"id":"3ce735bf00821dd0","fromNode":"297b4d00b8fb0598","fromSide":"bottom","toNode":"e0c7fa18f0eba7a7","toSide":"top"},
+		{"id":"bc461f3c27cb22e0","fromNode":"e0c7fa18f0eba7a7","fromSide":"left","toNode":"40bfedf222b0f9ee","toSide":"bottom"},
+		{"id":"70a7ce1a969d7c9f","fromNode":"3efdd7166de818f8","fromSide":"bottom","toNode":"de96b87005f6e5a6","toSide":"top"},
+		{"id":"1bb891d593cd6805","fromNode":"de96b87005f6e5a6","fromSide":"bottom","toNode":"3aaa02b2e5a4c4f2","toSide":"right"}
 	]
 }
