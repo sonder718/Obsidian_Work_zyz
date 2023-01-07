@@ -62,9 +62,7 @@
 		{"id":"135605e1cfc813e5","x":1078,"y":2037,"width":400,"height":77,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108012139.png"},
 		{"id":"5f3d906cc0ca1f1c","x":1078,"y":2150,"width":400,"height":190,"type":"text","text":"交叉进行cross和self注意力，即交替输入两张图的描述子和自身的描述子"},
 		{"id":"703578d150fd44a3","x":1078,"y":2457,"width":400,"height":43,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108012418.png"},
-		{"id":"c6ec450fe1c34635","x":1078,"y":2511,"width":384,"height":94,"type":"text","text":"得到描述符变化量，更新描述符"},
-		{"id":"b8a9897b0a4a63f4","x":1077,"y":2657,"width":400,"height":56,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108012315.png"},
-		{"id":"062f979980c04436","x":1615,"y":2713,"width":400,"height":126,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108012904.png"},
+		{"id":"c6ec450fe1c34635","x":1078,"y":2511,"width":384,"height":149,"type":"text","text":"图网络中向前推理，得到描述符变化量，更新描述符"},
 		{"id":"4c657f6651d67832","x":2620,"y":2668,"width":400,"height":91,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013116.png"},
 		{"id":"d6fbf0cd4aead3ec","x":3080,"y":2604,"width":400,"height":220,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013232.png"},
 		{"id":"145be6ec418fc70c","x":2600,"y":2820,"width":400,"height":105,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013351.png"},
@@ -81,7 +79,11 @@
 		{"id":"a9cccee343bb0c2c","x":2860,"y":3700,"width":400,"height":152,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108014139.png"},
 		{"id":"c20b458528ee2023","x":2140,"y":3549,"width":400,"height":151,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108014226.png"},
 		{"id":"a18513f94c91ce48","x":2140,"y":3760,"width":400,"height":71,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108014103.png"},
-		{"id":"60cf3219fa9190c3","x":1519,"y":2627,"width":250,"height":60,"type":"text","text":"X是图0的描述子，source可能是图0/1的描述子"}
+		{"id":"062f979980c04436","x":1615,"y":2801,"width":400,"height":126,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108012904.png"},
+		{"id":"60cf3219fa9190c3","x":1586,"y":2625,"width":458,"height":126,"type":"text","text":"X是图0的描述子，source可能是图0/1的描述子"},
+		{"id":"b8a9897b0a4a63f4","x":1062,"y":2801,"width":400,"height":56,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108012315.png"},
+		{"id":"f6a7801979bb5b71","x":560,"y":3487,"width":400,"height":54,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108014742.png"},
+		{"id":"20b09630c4a38440","x":1020,"y":3487,"width":400,"height":50,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108014831.png"}
 	],
 	"edges":[
 		{"id":"b7cddd0b1ba68861","fromNode":"2410250fe52c579a","fromSide":"right","toNode":"7fb1855267b77d42","toSide":"left"},
@@ -157,6 +159,9 @@
 		{"id":"c73ae40fc00d72d6","fromNode":"fa83e24c4445f3db","fromSide":"bottom","toNode":"a9cccee343bb0c2c","toSide":"top"},
 		{"id":"61ce5a58564fbe2b","fromNode":"7752149d4c934101","fromSide":"right","toNode":"a18513f94c91ce48","toSide":"left"},
 		{"id":"1ac6338aa600cc97","fromNode":"a9cccee343bb0c2c","fromSide":"left","toNode":"c20b458528ee2023","toSide":"right"},
-		{"id":"c846962479194329","fromNode":"c20b458528ee2023","fromSide":"bottom","toNode":"a18513f94c91ce48","toSide":"top"}
+		{"id":"c846962479194329","fromNode":"c20b458528ee2023","fromSide":"bottom","toNode":"a18513f94c91ce48","toSide":"top"},
+		{"id":"c2aaedd1abece94a","fromNode":"60cf3219fa9190c3","fromSide":"bottom","toNode":"062f979980c04436","toSide":"top"},
+		{"id":"2f2c6d3472b6e737","fromNode":"703578d150fd44a3","fromSide":"right","toNode":"60cf3219fa9190c3","toSide":"left"},
+		{"id":"6c08b1d24b624215","fromNode":"b3bd1e4c128c0c37","fromSide":"bottom","toNode":"f6a7801979bb5b71","toSide":"top"}
 	]
 }
