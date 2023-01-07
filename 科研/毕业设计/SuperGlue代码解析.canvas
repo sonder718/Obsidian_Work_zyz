@@ -1,12 +1,15 @@
 {
 	"nodes":[
-		{"id":"c3d66042413194da","x":690,"y":-166,"width":400,"height":400,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230107235821.png"},
 		{"id":"7fb1855267b77d42","x":159,"y":-194,"width":400,"height":104,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230107235454.png"},
 		{"id":"2410250fe52c579a","x":-434,"y":-172,"width":400,"height":61,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230107235444.png"},
-		{"id":"067970264cf50081","x":648,"y":-516,"width":226,"height":132,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230107235600.png"}
+		{"id":"067970264cf50081","x":648,"y":-516,"width":226,"height":132,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230107235600.png"},
+		{"id":"c3d66042413194da","x":701,"y":-255,"width":400,"height":196,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230107235821.png"},
+		{"id":"07439ef8fd63f917","x":1199,"y":-428,"width":400,"height":192,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230107235916.png"},
+		{"id":"a6ee621203ddca0d","x":1199,"y":-215,"width":400,"height":173,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230107235933.png"}
 	],
 	"edges":[
 		{"id":"b7cddd0b1ba68861","fromNode":"2410250fe52c579a","fromSide":"right","toNode":"7fb1855267b77d42","toSide":"left"},
-		{"id":"c957a2baf849dab2","fromNode":"7fb1855267b77d42","fromSide":"right","toNode":"067970264cf50081","toSide":"left"}
+		{"id":"c957a2baf849dab2","fromNode":"7fb1855267b77d42","fromSide":"right","toNode":"067970264cf50081","toSide":"left"},
+		{"id":"d5c3cab6a992f116","fromNode":"7fb1855267b77d42","fromSide":"right","toNode":"c3d66042413194da","toSide":"left"}
 	]
 }
