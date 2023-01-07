@@ -68,7 +68,14 @@
 		{"id":"4c657f6651d67832","x":2620,"y":2668,"width":400,"height":91,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013116.png"},
 		{"id":"d6fbf0cd4aead3ec","x":3080,"y":2604,"width":400,"height":220,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013232.png"},
 		{"id":"145be6ec418fc70c","x":2600,"y":2820,"width":400,"height":105,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013351.png"},
-		{"id":"75b279dcc30f1b1b","x":2140,"y":2689,"width":400,"height":50,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013420.png"}
+		{"id":"75b279dcc30f1b1b","x":2120,"y":2751,"width":400,"height":50,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013420.png"},
+		{"id":"7a848e4ea5ca4861","x":2600,"y":2960,"width":400,"height":106,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013453.png"},
+		{"id":"164f809fd41a1e4e","x":3060,"y":2960,"width":400,"height":109,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013517.png"},
+		{"id":"6ab0baca7d1ac05f","x":2580,"y":3100,"width":400,"height":62,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013650.png"},
+		{"id":"c2e3a0af36c7cdbf","x":2120,"y":3112,"width":400,"height":38,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013706.png"},
+		{"id":"4075848f06187aa1","x":2580,"y":3200,"width":400,"height":114,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013754.png"},
+		{"id":"9e0b9effac5cebdc","x":1905,"y":3420,"width":831,"height":50,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013845.png"},
+		{"id":"e6e19a81a6973e7c","x":2860,"y":3419,"width":400,"height":51,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013913.png"}
 	],
 	"edges":[
 		{"id":"b7cddd0b1ba68861","fromNode":"2410250fe52c579a","fromSide":"right","toNode":"7fb1855267b77d42","toSide":"left"},
@@ -128,6 +135,16 @@
 		{"id":"3dd050218eaad5cc","fromNode":"135605e1cfc813e5","fromSide":"left","toNode":"703578d150fd44a3","toSide":"left"},
 		{"id":"2965953c16050cf5","fromNode":"120eb84fabaf13a3","fromSide":"left","toNode":"b8a9897b0a4a63f4","toSide":"left"},
 		{"id":"06e65f1d8a564b1e","fromNode":"703578d150fd44a3","fromSide":"right","toNode":"baf5232e2e169640","toSide":"left"},
-		{"id":"8bb2134a4dfbcc3c","fromNode":"703578d150fd44a3","fromSide":"right","toNode":"062f979980c04436","toSide":"left"}
+		{"id":"8bb2134a4dfbcc3c","fromNode":"703578d150fd44a3","fromSide":"right","toNode":"062f979980c04436","toSide":"left"},
+		{"id":"c382a976a34ba205","fromNode":"062f979980c04436","fromSide":"right","toNode":"75b279dcc30f1b1b","toSide":"left"},
+		{"id":"abcd3e6be3b28fbd","fromNode":"75b279dcc30f1b1b","fromSide":"right","toNode":"4c657f6651d67832","toSide":"left"},
+		{"id":"feaa86fb02ef1ebb","fromNode":"75b279dcc30f1b1b","fromSide":"right","toNode":"145be6ec418fc70c","toSide":"left"},
+		{"id":"d92dc76f6fa16e9d","fromNode":"145be6ec418fc70c","fromSide":"bottom","toNode":"7a848e4ea5ca4861","toSide":"top"},
+		{"id":"91628958c24746d4","fromNode":"145be6ec418fc70c","fromSide":"right","toNode":"164f809fd41a1e4e","toSide":"left"},
+		{"id":"41bab7738dd364e0","fromNode":"75b279dcc30f1b1b","fromSide":"bottom","toNode":"c2e3a0af36c7cdbf","toSide":"top"},
+		{"id":"3682a6a40effea34","fromNode":"c2e3a0af36c7cdbf","fromSide":"right","toNode":"6ab0baca7d1ac05f","toSide":"left"},
+		{"id":"1984dda357c3f154","fromNode":"c2e3a0af36c7cdbf","fromSide":"right","toNode":"4075848f06187aa1","toSide":"left"},
+		{"id":"7a0d6904f1304c42","fromNode":"c2e3a0af36c7cdbf","fromSide":"bottom","toNode":"9e0b9effac5cebdc","toSide":"top"},
+		{"id":"7b06bc7d3adf86fb","fromNode":"9e0b9effac5cebdc","fromSide":"right","toNode":"e6e19a81a6973e7c","toSide":"left"}
 	]
 }
