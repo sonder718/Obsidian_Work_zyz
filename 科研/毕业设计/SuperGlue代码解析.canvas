@@ -37,13 +37,17 @@
 		{"id":"0c45b5aa24be21b5","x":1615,"y":1028,"width":400,"height":176,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108005539.png"},
 		{"id":"761a18463b8e6186","x":1615,"y":1249,"width":400,"height":114,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108005642.png"},
 		{"id":"4f856f5dffb069ba","x":1607,"y":824,"width":400,"height":32,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108005845.png"},
-		{"id":"d0b41d3e6ebd64b9","x":568,"y":913,"width":381,"height":101,"type":"text","text":"输入编码器的有特征点位置和得分"},
 		{"id":"c0068dc9601b2abe","x":1607,"y":889,"width":400,"height":74,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108005908.png"},
 		{"id":"f3d0a2d2a4032593","x":2052,"y":889,"width":400,"height":77,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108010140.png"},
 		{"id":"137e01587724b254","x":1615,"y":1389,"width":400,"height":89,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108010233.png"},
 		{"id":"10990a9da02a4d61","x":1615,"y":1513,"width":400,"height":56,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108005723.png"},
 		{"id":"7fb361bed4388a8a","x":2100,"y":1057,"width":174,"height":118,"type":"text","text":"3维变量变为256维"},
-		{"id":"9616835c047b6e5f","x":1607,"y":741,"width":250,"height":60,"type":"text","text":"三维向量"}
+		{"id":"4786942f6813d4bc","x":1615,"y":1640,"width":400,"height":150,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108010443.png"},
+		{"id":"8f008857b3ab8d26","x":2100,"y":1685,"width":250,"height":60,"type":"text","text":"256维向量"},
+		{"id":"d0b41d3e6ebd64b9","x":1070,"y":1040,"width":381,"height":101,"type":"text","text":"输入编码器的有特征点位置和得分"},
+		{"id":"9616835c047b6e5f","x":2100,"y":1276,"width":250,"height":60,"type":"text","text":"三维向量"},
+		{"id":"78f5a8fbcc4c5066","x":568,"y":926,"width":400,"height":165,"type":"text","text":"原描述子与升维后的位置向量相加得到新的同为256维的描述向量"},
+		{"id":"b3bd1e4c128c0c37","x":589,"y":1840,"width":400,"height":66,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108010904.png"}
 	],
 	"edges":[
 		{"id":"b7cddd0b1ba68861","fromNode":"2410250fe52c579a","fromSide":"right","toNode":"7fb1855267b77d42","toSide":"left"},
@@ -80,6 +84,13 @@
 		{"id":"98a6c697c9fe030d","fromNode":"4f856f5dffb069ba","fromSide":"right","toNode":"f3d0a2d2a4032593","toSide":"left"},
 		{"id":"07773f51087acff7","fromNode":"761a18463b8e6186","fromSide":"bottom","toNode":"137e01587724b254","toSide":"top"},
 		{"id":"a6a9235491f29318","fromNode":"137e01587724b254","fromSide":"bottom","toNode":"10990a9da02a4d61","toSide":"top"},
-		{"id":"c2bf8d2366f7e0e0","fromNode":"0c45b5aa24be21b5","fromSide":"right","toNode":"7fb361bed4388a8a","toSide":"left"}
+		{"id":"c2bf8d2366f7e0e0","fromNode":"0c45b5aa24be21b5","fromSide":"right","toNode":"7fb361bed4388a8a","toSide":"left"},
+		{"id":"17b18356cc801278","fromNode":"a1475010cb07eb52","fromSide":"right","toNode":"4786942f6813d4bc","toSide":"left"},
+		{"id":"3e170a1816f78699","fromNode":"4786942f6813d4bc","fromSide":"right","toNode":"8f008857b3ab8d26","toSide":"left"},
+		{"id":"d10af019e070cd11","fromNode":"a1475010cb07eb52","fromSide":"bottom","toNode":"d0b41d3e6ebd64b9","toSide":"top"},
+		{"id":"3c096e7b44cdb28d","fromNode":"761a18463b8e6186","fromSide":"right","toNode":"9616835c047b6e5f","toSide":"left"},
+		{"id":"2240d0c1c1043c36","fromNode":"9616835c047b6e5f","fromSide":"bottom","toNode":"8f008857b3ab8d26","toSide":"top"},
+		{"id":"f621aeceec4354ec","fromNode":"a99de34ed9833d89","fromSide":"bottom","toNode":"78f5a8fbcc4c5066","toSide":"top"},
+		{"id":"4a5c265720e92aea","fromNode":"a99de34ed9833d89","fromSide":"left","toNode":"b3bd1e4c128c0c37","toSide":"left"}
 	]
 }
