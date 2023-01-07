@@ -83,7 +83,13 @@
 		{"id":"60cf3219fa9190c3","x":1586,"y":2625,"width":458,"height":126,"type":"text","text":"X是图0的描述子，source可能是图0/1的描述子"},
 		{"id":"b8a9897b0a4a63f4","x":1062,"y":2801,"width":400,"height":56,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108012315.png"},
 		{"id":"f6a7801979bb5b71","x":560,"y":3487,"width":400,"height":54,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108014742.png"},
-		{"id":"20b09630c4a38440","x":1020,"y":3487,"width":400,"height":50,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108014831.png"}
+		{"id":"20b09630c4a38440","x":1020,"y":3487,"width":400,"height":50,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108014831.png"},
+		{"id":"902b9867b2b1c2fb","x":560,"y":3700,"width":400,"height":67,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108014939.png"},
+		{"id":"ee126924e04d5ee9","x":1020,"y":3657,"width":400,"height":154,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108015007.png"},
+		{"id":"b40fb2f165fec189","x":1075,"y":3840,"width":290,"height":100,"type":"text","text":"AB两图的所有特征点的匹配得分"},
+		{"id":"2f8810283f7b02d4","x":1040,"y":4020,"width":400,"height":154,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108015129.png"},
+		{"id":"b16891be6525dfeb","x":560,"y":4020,"width":400,"height":111,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108015136.png"},
+		{"id":"f8de46afdf908330","x":1060,"y":4280,"width":400,"height":136,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108015410.png"}
 	],
 	"edges":[
 		{"id":"b7cddd0b1ba68861","fromNode":"2410250fe52c579a","fromSide":"right","toNode":"7fb1855267b77d42","toSide":"left"},
@@ -162,6 +168,10 @@
 		{"id":"c846962479194329","fromNode":"c20b458528ee2023","fromSide":"bottom","toNode":"a18513f94c91ce48","toSide":"top"},
 		{"id":"c2aaedd1abece94a","fromNode":"60cf3219fa9190c3","fromSide":"bottom","toNode":"062f979980c04436","toSide":"top"},
 		{"id":"2f2c6d3472b6e737","fromNode":"703578d150fd44a3","fromSide":"right","toNode":"60cf3219fa9190c3","toSide":"left"},
-		{"id":"6c08b1d24b624215","fromNode":"b3bd1e4c128c0c37","fromSide":"bottom","toNode":"f6a7801979bb5b71","toSide":"top"}
+		{"id":"6c08b1d24b624215","fromNode":"b3bd1e4c128c0c37","fromSide":"bottom","toNode":"f6a7801979bb5b71","toSide":"top"},
+		{"id":"5893f8b33d300796","fromNode":"f6a7801979bb5b71","fromSide":"bottom","toNode":"902b9867b2b1c2fb","toSide":"top"},
+		{"id":"4dc448073be1e8a6","fromNode":"902b9867b2b1c2fb","fromSide":"right","toNode":"ee126924e04d5ee9","toSide":"left"},
+		{"id":"6709898c3f3c5354","fromNode":"ee126924e04d5ee9","fromSide":"bottom","toNode":"b40fb2f165fec189","toSide":"top"},
+		{"id":"4d001ca9b0e74bdc","fromNode":"902b9867b2b1c2fb","fromSide":"bottom","toNode":"b16891be6525dfeb","toSide":"top"}
 	]
 }
