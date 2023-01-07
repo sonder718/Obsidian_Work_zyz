@@ -89,7 +89,11 @@
 		{"id":"b40fb2f165fec189","x":1075,"y":3840,"width":290,"height":100,"type":"text","text":"AB两图的所有特征点的匹配得分"},
 		{"id":"2f8810283f7b02d4","x":1040,"y":4020,"width":400,"height":154,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108015129.png"},
 		{"id":"b16891be6525dfeb","x":560,"y":4020,"width":400,"height":111,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108015136.png"},
-		{"id":"f8de46afdf908330","x":1060,"y":4280,"width":400,"height":136,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108015410.png"}
+		{"id":"f8de46afdf908330","x":1060,"y":4280,"width":400,"height":136,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108015410.png"},
+		{"id":"492a1fd33c115179","x":1520,"y":4301,"width":400,"height":115,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108015444.png"},
+		{"id":"7221b97134b2864c","x":1060,"y":4440,"width":364,"height":84,"type":"text","text":"1图对0图的匹配情况"},
+		{"id":"77f754731005e8c7","x":560,"y":4280,"width":400,"height":168,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108015508.png"},
+		{"id":"f30439eca1a10b49","x":560,"y":4580,"width":400,"height":104,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108015601.png"}
 	],
 	"edges":[
 		{"id":"b7cddd0b1ba68861","fromNode":"2410250fe52c579a","fromSide":"right","toNode":"7fb1855267b77d42","toSide":"left"},
@@ -172,6 +176,9 @@
 		{"id":"5893f8b33d300796","fromNode":"f6a7801979bb5b71","fromSide":"bottom","toNode":"902b9867b2b1c2fb","toSide":"top"},
 		{"id":"4dc448073be1e8a6","fromNode":"902b9867b2b1c2fb","fromSide":"right","toNode":"ee126924e04d5ee9","toSide":"left"},
 		{"id":"6709898c3f3c5354","fromNode":"ee126924e04d5ee9","fromSide":"bottom","toNode":"b40fb2f165fec189","toSide":"top"},
-		{"id":"4d001ca9b0e74bdc","fromNode":"902b9867b2b1c2fb","fromSide":"bottom","toNode":"b16891be6525dfeb","toSide":"top"}
+		{"id":"4d001ca9b0e74bdc","fromNode":"902b9867b2b1c2fb","fromSide":"bottom","toNode":"b16891be6525dfeb","toSide":"top"},
+		{"id":"dadb4b20266a380b","fromNode":"77f754731005e8c7","fromSide":"bottom","toNode":"f30439eca1a10b49","toSide":"top"},
+		{"id":"e23226d7dd680d67","fromNode":"b16891be6525dfeb","fromSide":"bottom","toNode":"77f754731005e8c7","toSide":"top"},
+		{"id":"5549042dc7a8ba05","fromNode":"f30439eca1a10b49","fromSide":"left","toNode":"c8d2afedd8c34af7","toSide":"bottom"}
 	]
 }
