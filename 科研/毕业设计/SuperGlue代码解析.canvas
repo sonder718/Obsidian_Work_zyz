@@ -60,9 +60,11 @@
 		{"id":"120eb84fabaf13a3","x":1079,"y":1874,"width":400,"height":29,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108012111.png"},
 		{"id":"3025a3e59303da21","x":1079,"y":1920,"width":399,"height":50,"type":"text","text":"输入256维的描述子"},
 		{"id":"135605e1cfc813e5","x":1078,"y":2037,"width":400,"height":77,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108012139.png"},
-		{"id":"5f3d906cc0ca1f1c","x":1078,"y":2150,"width":400,"height":60,"type":"text","text":"交叉进行cross和self注意力"},
-		{"id":"b8a9897b0a4a63f4","x":1079,"y":2424,"width":400,"height":56,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108012315.png"},
-		{"id":"703578d150fd44a3","x":1079,"y":2323,"width":400,"height":43,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108012418.png"}
+		{"id":"5f3d906cc0ca1f1c","x":1078,"y":2150,"width":400,"height":190,"type":"text","text":"交叉进行cross和self注意力，即交替输入两张图的描述子和自身的描述子"},
+		{"id":"703578d150fd44a3","x":1078,"y":2457,"width":400,"height":43,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108012418.png"},
+		{"id":"c6ec450fe1c34635","x":1078,"y":2511,"width":384,"height":94,"type":"text","text":"得到描述符变化量，更新描述符"},
+		{"id":"b8a9897b0a4a63f4","x":1077,"y":2657,"width":400,"height":56,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108012315.png"},
+		{"id":"062f979980c04436","x":1615,"y":2713,"width":400,"height":126,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108012904.png"}
 	],
 	"edges":[
 		{"id":"b7cddd0b1ba68861","fromNode":"2410250fe52c579a","fromSide":"right","toNode":"7fb1855267b77d42","toSide":"left"},
@@ -119,6 +121,9 @@
 		{"id":"8f1c9d2aa81cb6a5","fromNode":"b3bd1e4c128c0c37","fromSide":"right","toNode":"120eb84fabaf13a3","toSide":"left"},
 		{"id":"841b991ff313e336","fromNode":"135605e1cfc813e5","fromSide":"right","toNode":"40bfedf222b0f9ee","toSide":"left"},
 		{"id":"e73842e44766aa9f","fromNode":"135605e1cfc813e5","fromSide":"bottom","toNode":"5f3d906cc0ca1f1c","toSide":"top"},
-		{"id":"38700ee5d8e2d6bf","fromNode":"120eb84fabaf13a3","fromSide":"left","toNode":"b8a9897b0a4a63f4","toSide":"left"}
+		{"id":"3dd050218eaad5cc","fromNode":"135605e1cfc813e5","fromSide":"left","toNode":"703578d150fd44a3","toSide":"left"},
+		{"id":"2965953c16050cf5","fromNode":"120eb84fabaf13a3","fromSide":"left","toNode":"b8a9897b0a4a63f4","toSide":"left"},
+		{"id":"06e65f1d8a564b1e","fromNode":"703578d150fd44a3","fromSide":"right","toNode":"baf5232e2e169640","toSide":"left"},
+		{"id":"8bb2134a4dfbcc3c","fromNode":"703578d150fd44a3","fromSide":"right","toNode":"062f979980c04436","toSide":"left"}
 	]
 }
