@@ -3,6 +3,7 @@
 	- [[1911.11763] SuperGlue: Learning Feature Matching with Graph Neural Networks (arxiv.org)](https://arxiv.org/abs/1911.11763)
 - 代码
 	- [magicleap/SuperGluePretrainedNetwork: SuperGlue: Learning Feature Matching with Graph Neural Networks (CVPR 2020, Oral) (github.com)](https://github.com/magicleap/SuperGluePretrainedNetwork)
+	- [[SuperGlue代码解析]]
 - 分析
 	- [SuperGlue一种基于图卷积神经网络的特征匹配算法 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/146389956)
 	- [📝笔记：SuperGlue:Learning Feature Matching with Graph Neural Networks论文阅读 | RealCat (vincentqin.tech)](https://vincentqin.tech/posts/superglue/)
@@ -20,3 +21,5 @@
 ##### 结构
 - ![](attachments/SuperGlue-Learning%20Feature%20Matching%20with%20Graph%20Neural%20Networks%202023-01-05%2018.34.07.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](attachments/SuperGlue-Learning%20Feature%20Matching%20with%20Graph%20Neural%20Networks%202023-01-05%2018.34.07.excalidraw.md), and the [dark exported image](attachments/SuperGlue-Learning%20Feature%20Matching%20with%20Graph%20Neural%20Networks%202023-01-05%2018.34.07.excalidraw.dark.svg)%%
+
+
