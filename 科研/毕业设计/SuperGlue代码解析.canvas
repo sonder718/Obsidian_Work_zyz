@@ -93,7 +93,8 @@
 		{"id":"7221b97134b2864c","x":1060,"y":4440,"width":364,"height":84,"type":"text","text":"1图对0图的匹配情况"},
 		{"id":"77f754731005e8c7","x":560,"y":4280,"width":400,"height":168,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108015508.png"},
 		{"id":"f30439eca1a10b49","x":560,"y":4580,"width":400,"height":104,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108015601.png"},
-		{"id":"58fd445b2244924c","x":-540,"y":511,"width":400,"height":108,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108002911.png"}
+		{"id":"58fd445b2244924c","x":-540,"y":511,"width":400,"height":108,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108002911.png"},
+		{"id":"8fb51420835cf709","x":640,"y":2381,"width":250,"height":296,"color":"1","type":"text","text":"此处应当想论文里说的那样，观察Attention中每一层的表现"}
 	],
 	"edges":[
 		{"id":"b7cddd0b1ba68861","fromNode":"2410250fe52c579a","fromSide":"right","toNode":"7fb1855267b77d42","toSide":"left"},
