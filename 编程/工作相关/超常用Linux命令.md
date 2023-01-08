@@ -10,3 +10,16 @@
 - free命令
 	- 总体内存占用的查看
 	- ![](attachments/Pasted%20image%2020230101155102.png)
+- 解压文件命令
+```bash
+# 压缩文件 file1 和目录 dir2 到 test.tar.gz
+tar -zcvf test.tar.gz file1 dir2
+# 解压 test.tar.gz（将 c 换成 x 即可）
+tar -zxvf test.tar.gz
+# 列出压缩文件的内容
+tar -ztvf test.tar.gz 
+# 压缩文件
+zip -r test.zip file
+# 解压文件
+unzip test.zip
+```
