@@ -11,6 +11,7 @@
 	- 总体内存占用的查看
 	- ![](attachments/Pasted%20image%2020230101155102.png)
 - 解压文件命令
+	- [Linux命令-RAR指令的安装与详细使用 - 简书 (jianshu.com)](https://www.jianshu.com/p/b89ef18855b3)
 ```bash
 # 压缩文件 file1 和目录 dir2 到 test.tar.gz
 tar -zcvf test.tar.gz file1 dir2
