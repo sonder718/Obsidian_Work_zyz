@@ -1,11 +1,10 @@
 - [一文读懂图卷积GCN - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/89503068)
 - [图卷积和消息传递理论的可视化详解 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/462642687)
 - [浅析图卷积神经网络 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/37091549)
+- [Understanding Convolutions on Graphs (distill.pub)](https://distill.pub/2021/understanding-gnns/?continueFlag=8eef312d0acc7809a18878124b7cff86)
 - **Graph Embedding**
 	- ![](attachments/Pasted%20image%2020230105170905.png)
 - **图卷积与卷积**
 	- 乘以 $A^n$ 会导致特征从 n 跳距离节点传播，所以可以通过将乘法添加到邻接矩阵的更高次方来扩展“感受野
-	- ![](attachments/%E5%9B%BE%E5%8D%B7%E7%A7%AFGCN%202023-01-05%2017.16.14.excalidraw.svg)
-%%[🖋 Edit in Excalidraw](attachments/%E5%9B%BE%E5%8D%B7%E7%A7%AFGCN%202023-01-05%2017.16.14.excalidraw.md), and the [dark exported image](attachments/%E5%9B%BE%E5%8D%B7%E7%A7%AFGCN%202023-01-05%2017.16.14.excalidraw.dark.svg)%%
-	- ![](attachments/%E5%9B%BE%E5%8D%B7%E7%A7%AFGCN%202023-01-05%2017.10.00.excalidraw.svg)
-%%[🖋 Edit in Excalidraw](attachments/%E5%9B%BE%E5%8D%B7%E7%A7%AFGCN%202023-01-05%2017.10.00.excalidraw.md), and the [dark exported image](attachments/%E5%9B%BE%E5%8D%B7%E7%A7%AFGCN%202023-01-05%2017.10.00.excalidraw.dark.svg)%%
+	- ![](attachments/%E5%9B%BE%E5%8D%B7%E7%A7%AFGCN%202023-01-05%2017.16.14.excalidraw.svg)%%[🖋 Edit in Excalidraw](attachments/%E5%9B%BE%E5%8D%B7%E7%A7%AFGCN%202023-01-05%2017.16.14.excalidraw.md), and the [dark exported image](attachments/%E5%9B%BE%E5%8D%B7%E7%A7%AFGCN%202023-01-05%2017.16.14.excalidraw.dark.svg)%%
+	- ![](attachments/%E5%9B%BE%E5%8D%B7%E7%A7%AFGCN%202023-01-05%2017.10.00.excalidraw.svg)%%[🖋 Edit in Excalidraw](attachments/%E5%9B%BE%E5%8D%B7%E7%A7%AFGCN%202023-01-05%2017.10.00.excalidraw.md), and the [dark exported image](attachments/%E5%9B%BE%E5%8D%B7%E7%A7%AFGCN%202023-01-05%2017.10.00.excalidraw.dark.svg)%%
