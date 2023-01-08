@@ -1,3 +1,4 @@
+- [dair-ai/GNNs-Recipe：🟠了解图神经网络（GNN）的学习指南 (github.com)](https://github.com/dair-ai/GNNs-Recipe)
 - [一文读懂图卷积GCN - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/89503068)
 - [图卷积和消息传递理论的可视化详解 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/462642687)
 - [浅析图卷积神经网络 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/37091549)
