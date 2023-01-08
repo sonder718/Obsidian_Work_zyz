@@ -1,3 +1,4 @@
+- [[linux下]]
 - grep 命令
 	- 用于**查找文件里符合条件的字符串**
 	- ![](attachments/Pasted%20image%2020230101154719.png)
