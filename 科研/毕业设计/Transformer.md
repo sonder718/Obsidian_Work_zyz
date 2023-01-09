@@ -28,7 +28,6 @@
 		- [[简单的位置编码方式]]
 	- ![](attachments/Pasted%20image%2020230105165232.png)
 	- ![](attachments/Transformer%202023-01-05%2016.42.45.excalidraw.svg)%%[🖋 Edit in Excalidraw](attachments/Transformer%202023-01-05%2016.42.45.excalidraw.md), and the [dark exported image](attachments/Transformer%202023-01-05%2016.42.45.excalidraw.dark.svg)%%
-	- ![](attachments/Transformer%202023-01-05%2016.50.47.excalidraw.svg)
-%%[🖋 Edit in Excalidraw](attachments/Transformer%202023-01-05%2016.50.47.excalidraw.md), and the [dark exported image](attachments/Transformer%202023-01-05%2016.50.47.excalidraw.dark.svg)%%
+	- ![](attachments/Transformer%202023-01-05%2016.50.47.excalidraw.svg)%%[🖋 Edit in Excalidraw](attachments/Transformer%202023-01-05%2016.50.47.excalidraw.md), and the [dark exported image](attachments/Transformer%202023-01-05%2016.50.47.excalidraw.dark.svg)%%
 - **self-Attention**
-	- [[self-Attention]]
+	- [[self-Attention机制]]
