@@ -1,4 +1,5 @@
 - [[图神经网络的计算过程]]
+- [图神经网络-图注意力(GAT)详解及代码实现(一)_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1wP411T7dr/?spm_id_from=333.788&vd_source=a035df14d498cc5a51f3299bc26b3e65)
 - **定义**GATLayer
 	- in_features是N维节点信息,==不含边信息==
 	- ![](attachments/Pasted%20image%2020230109120014.png)
@@ -9,5 +10,4 @@
 - GATLayer的**向前推理**
 	- ![](attachments/Pasted%20image%2020230109120111.png)
 - GATLayer的**输出**
-	- 融合了节点信息和
 	- ![](attachments/Pasted%20image%2020230109115700.png)
