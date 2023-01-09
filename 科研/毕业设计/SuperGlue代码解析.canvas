@@ -94,7 +94,7 @@
 		{"id":"60cf3219fa9190c3","x":1586,"y":2625,"width":458,"height":126,"type":"text","text":"X是图0的描述子，source可能是图0/1的描述子"},
 		{"id":"f6a7801979bb5b71","x":560,"y":3487,"width":398,"height":54,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108014742.png"},
 		{"id":"20b09630c4a38440","x":1020,"y":3487,"width":399,"height":50,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108014831.png"},
-		{"id":"8fb51420835cf709","x":640,"y":2381,"width":250,"height":296,"color":"1","type":"text","text":"此处应当想论文里说的那样，观察Attention中每一层的表现\n[图卷积GCN](科研/毕业设计/图卷积GCN.md)"}
+		{"id":"8fb51420835cf709","x":640,"y":2381,"width":250,"height":296,"color":"1","type":"text","text":"此处应当想论文里说的那样，观察Attention中每一层的表现\n[图卷积GCN](科研/毕业设计/图卷积GCN.md)\n[[图注意力网络GAT]]"}
 	],
 	"edges":[
 		{"id":"b7cddd0b1ba68861","fromNode":"2410250fe52c579a","fromSide":"right","toNode":"7fb1855267b77d42","toSide":"left"},
