@@ -1,6 +1,6 @@
+- [[图神经网络的计算过程]]
 - **定义**GATLayer
 	- in_features是N维节点信息,==不含边信息==
-	- 
 	- ![](attachments/Pasted%20image%2020230109120014.png)
 - GATLayer的**输入**
 	- N维节点信息
