@@ -71,7 +71,6 @@
 		{"id":"77f754731005e8c7","x":560,"y":4280,"width":399,"height":168,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108015508.png"},
 		{"id":"f30439eca1a10b49","x":560,"y":4580,"width":399,"height":104,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108015601.png"},
 		{"id":"3efdd7166de818f8","x":2400,"y":1874,"width":400,"height":248,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108011805.png"},
-		{"id":"bb92acbf307a506f","x":2840,"y":1873,"width":255,"height":198,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108011820.png"},
 		{"id":"e6e19a81a6973e7c","x":2860,"y":3419,"width":400,"height":51,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013913.png"},
 		{"id":"fa83e24c4445f3db","x":2860,"y":3500,"width":399,"height":137,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013934.png"},
 		{"id":"a9cccee343bb0c2c","x":2860,"y":3700,"width":400,"height":152,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108014139.png"},
@@ -96,7 +95,8 @@
 		{"id":"d6fbf0cd4aead3ec","x":3306,"y":2613,"width":399,"height":220,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013232.png"},
 		{"id":"145be6ec418fc70c","x":2845,"y":2829,"width":400,"height":105,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013351.png"},
 		{"id":"7a848e4ea5ca4861","x":2826,"y":2969,"width":400,"height":106,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013453.png"},
-		{"id":"44333a02bdd39faa","x":2637,"y":2453,"width":449,"height":130,"type":"text","text":"shX是图0的描述子，source可能是图0/1的描述子"}
+		{"id":"bb92acbf307a506f","x":2874,"y":1800,"width":255,"height":198,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108011820.png"},
+		{"id":"44333a02bdd39faa","x":2731,"y":2395,"width":559,"height":160,"type":"text","text":"输入时\nquery=图0的描述子(1,256,描述子数量)\nkey=value=图0或1的描述子"}
 	],
 	"edges":[
 		{"id":"b7cddd0b1ba68861","fromNode":"2410250fe52c579a","fromSide":"right","toNode":"7fb1855267b77d42","toSide":"left"},
@@ -185,6 +185,10 @@
 		{"id":"5549042dc7a8ba05","fromNode":"f30439eca1a10b49","fromSide":"left","toNode":"c8d2afedd8c34af7","toSide":"bottom"},
 		{"id":"b9c3e225faf35e0e","fromNode":"c8d2afedd8c34af7","fromSide":"left","toNode":"6164432873f21ef5","toSide":"bottom"},
 		{"id":"f0b6e8d0727e578b","fromNode":"6164432873f21ef5","fromSide":"bottom","toNode":"58fd445b2244924c","toSide":"top"},
-		{"id":"be6c3ad3b17f7933","fromNode":"062f979980c04436","fromSide":"right","toNode":"d637f5f9f3fda8ae","toSide":"left"}
+		{"id":"be6c3ad3b17f7933","fromNode":"062f979980c04436","fromSide":"right","toNode":"d637f5f9f3fda8ae","toSide":"left"},
+		{"id":"1536496487ee59b4","fromNode":"44333a02bdd39faa","fromSide":"bottom","toNode":"4c657f6651d67832","toSide":"top"},
+		{"id":"dfa2623b1098e0f5","fromNode":"b83a5a51d3bd82a5","fromSide":"right","toNode":"44333a02bdd39faa","toSide":"left"},
+		{"id":"0e5238d91d17e54c","fromNode":"3efdd7166de818f8","fromSide":"right","toNode":"44333a02bdd39faa","toSide":"top"},
+		{"id":"5c50116ed298120e","fromNode":"bb92acbf307a506f","fromSide":"left","toNode":"3efdd7166de818f8","toSide":"right"}
 	]
 }
