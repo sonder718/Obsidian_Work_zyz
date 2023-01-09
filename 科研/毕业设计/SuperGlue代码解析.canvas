@@ -103,7 +103,8 @@
 		{"id":"b8bafd336b8fa432","x":3746,"y":3414,"width":884,"height":130,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230109154529.png"},
 		{"id":"f3bef888cc85e1e4","x":3114,"y":3414,"width":593,"height":133,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230109154502.png"},
 		{"id":"8272a76b293608bd","x":4733,"y":3429,"width":400,"height":133,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230109154906.png"},
-		{"id":"efb504a903ce8b19","x":4667,"y":3328,"width":932,"height":50,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230109154934.png"}
+		{"id":"97b9860121fdce2f","x":4733,"y":3117,"width":400,"height":164,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230109155245.png"},
+		{"id":"efb504a903ce8b19","x":4733,"y":3328,"width":932,"height":50,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230109154934.png"}
 	],
 	"edges":[
 		{"id":"b7cddd0b1ba68861","fromNode":"2410250fe52c579a","fromSide":"right","toNode":"7fb1855267b77d42","toSide":"left"},
@@ -204,6 +205,9 @@
 		{"id":"0eaca9bc64c571a3","fromNode":"c2e3a0af36c7cdbf","fromSide":"right","toNode":"b8bafd336b8fa432","toSide":"top"},
 		{"id":"825b7a2fb7e96a4d","fromNode":"f3bef888cc85e1e4","fromSide":"right","toNode":"b8bafd336b8fa432","toSide":"left"},
 		{"id":"49f86f646f340bb6","fromNode":"b8bafd336b8fa432","fromSide":"right","toNode":"8272a76b293608bd","toSide":"left"},
-		{"id":"1ab7c09c626cc127","fromNode":"efb504a903ce8b19","fromSide":"bottom","toNode":"8272a76b293608bd","toSide":"right"}
+		{"id":"1ab7c09c626cc127","fromNode":"efb504a903ce8b19","fromSide":"bottom","toNode":"8272a76b293608bd","toSide":"right"},
+		{"id":"e2e549c91f92aba5","fromNode":"b8bafd336b8fa432","fromSide":"bottom","toNode":"c2e3a0af36c7cdbf","toSide":"bottom"},
+		{"id":"ab4ad16a1c3ee967","fromNode":"b8bafd336b8fa432","fromSide":"right","toNode":"97b9860121fdce2f","toSide":"left"},
+		{"id":"3a28d74bd5250cc9","fromNode":"7a848e4ea5ca4861","fromSide":"left","toNode":"d80e26dd892b075a","toSide":"right"}
 	]
 }
