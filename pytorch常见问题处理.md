@@ -5,3 +5,4 @@
 	- ![](attachments/Pasted%20image%2020230109223954.png)
 - 正确的结果(train的代码)
 	- ![](attachments/Pasted%20image%2020230109224117.png)
+	- ![](attachments/Pasted%20image%2020230109225734.png)
