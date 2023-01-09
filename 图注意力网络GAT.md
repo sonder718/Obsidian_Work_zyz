@@ -1,7 +1,13 @@
+- **定义**GATLayer
+	- in_features是N维节点信息,==不含边信息==
+	- 
+	- ![](attachments/Pasted%20image%2020230109120014.png)
 - GATLayer的**输入**
 	- N维节点信息
 	- 邻接矩阵信息
 	- ![](attachments/%E5%9B%BE%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%BD%91%E7%BB%9CGAT%202023-01-09%2011.55.48.excalidraw.svg)%%[🖋 Edit in Excalidraw](attachments/%E5%9B%BE%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%BD%91%E7%BB%9CGAT%202023-01-09%2011.55.48.excalidraw.md), and the [dark exported image](attachments/%E5%9B%BE%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%BD%91%E7%BB%9CGAT%202023-01-09%2011.55.48.excalidraw.dark.svg)%%
+- GATLayer的**向前推理**
+	- ![](attachments/Pasted%20image%2020230109120111.png)
 - GATLayer的**输出**
 	- 融合了节点信息和
 	- ![](attachments/Pasted%20image%2020230109115700.png)
