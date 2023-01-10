@@ -12,7 +12,7 @@
 - GATLayer的**向前推理**
 	- 根据可训练参数W生成图注意力相关系数
 	- 根据邻接矩阵 将$a_{ij}$的注意力系数保留或置为0,通过Softmax得到归一化的注意力权重矩阵attention
-	- N×N的attention矩阵 乘 节点
+	- N×N的attention矩阵 乘 N×Out的节点信息矩阵
 	- ![](attachments/Pasted%20image%2020230109120111.png)
 		- ![](attachments/Pasted%20image%2020230109120014.png)
 - GATLayer的**输出**
@@ -20,4 +20,7 @@
 	- 6个节点×5维
 	- ![](attachments/Pasted%20image%2020230109115700.png)
 - 利用 多头注意力网络进行节点分类的实例
+	- 多头注意力机制层输出 通过注意力权重进行更新后 6个节点×5维
+	- 单注意力机制层的outdim=类别,更新得6个节点×l类
+	- softmax归一化得到概率
 	- ![](attachments/Pasted%20image%2020230110170515.png)

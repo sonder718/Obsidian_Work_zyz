@@ -105,7 +105,7 @@
 		{"id":"baf5232e2e169640","x":2203,"y":2397,"width":400,"height":153,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108011304.png"},
 		{"id":"b83a5a51d3bd82a5","x":2603,"y":2397,"width":400,"height":153,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108011336.png"},
 		{"id":"d637f5f9f3fda8ae","x":2430,"y":2656,"width":626,"height":249,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230109125148.png"},
-		{"id":"27ce0d49dc4813ca","x":3222,"y":2180,"width":647,"height":457,"type":"text","text":"- [self-Attention机制](科研/毕业设计/self-Attention机制.md)\n- ![](科研/毕业设计/attachments/Pasted%20image%2020230110172436.png)的具体生成过程\n- 输入\n\t- query=图0的描述子(1,256,描述子数量)\n\t- key=value=图0或1的描述子"},
+		{"id":"27ce0d49dc4813ca","x":3222,"y":2180,"width":647,"height":437,"type":"text","text":"- [self-Attention机制](科研/毕业设计/self-Attention机制.md)\n- ![](科研/毕业设计/attachments/Pasted%20image%2020230110172436.png)的具体生成过程\n- 输入\n\t- query=图0的描述子(1,256,描述子数量)\n\t- key=value=图0或1的描述子"},
 		{"id":"6017130d4bec8e93","x":3883,"y":2297,"width":844,"height":320,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230109150710.png"}
 	],
 	"edges":[
