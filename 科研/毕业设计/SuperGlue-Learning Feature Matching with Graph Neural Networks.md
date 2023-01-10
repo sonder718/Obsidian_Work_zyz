@@ -1,3 +1,9 @@
+##### 探索过程
+- 将官方代码逐个断点运行一下
+- 尝试使用该训练代码
+	- https://github.com/HeatherJiaZG/SuperGlue-pytorch
+	- 没有评估代码,训练后的模型无法加载
+	- 魔改
 ##### 论文信息
 - 论文地址
 	- [[1911.11763] SuperGlue: Learning Feature Matching with Graph Neural Networks (arxiv.org)](https://arxiv.org/abs/1911.11763)
