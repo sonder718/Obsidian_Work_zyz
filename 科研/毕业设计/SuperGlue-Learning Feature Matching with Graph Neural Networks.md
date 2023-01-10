@@ -6,6 +6,7 @@
 	- 多日魔改未果
 - 尝试采用另一训练代码
 	- [gouthamvgk/SuperGlue_training: This repository contains the training code for SuperGlue. Uses COCO dataset by generating random homographies. (github.com)](https://github.com/gouthamvgk/SuperGlue_training)
+	- [[2023110初次成功训练探索]]
 ##### 论文信息
 - 论文地址
 	- [[1911.11763] SuperGlue: Learning Feature Matching with Graph Neural Networks (arxiv.org)](https://arxiv.org/abs/1911.11763)
