@@ -1,5 +1,13 @@
 - [[图神经网络的计算过程]]
 - [图神经网络-图注意力(GAT)详解及代码实现(一)_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1wP411T7dr/?spm_id_from=333.788&vd_source=a035df14d498cc5a51f3299bc26b3e65)
+- **问题**
+	- attention在一维数据（比如语言）和二位数据（比如图像）都能有很好的应用，那么对于==高维数据（比如图数据）==，能否有出色的表现呢
+- **图神经网络解决的基本问题**
+	- 给定图的结构和节点的特征
+	- 如何获取一个图的特征表示，来在下游任务（比如节点分类）中取得好的结果
+- GAT
+	- ![](attachments/Pasted%20image%2020230105163838.png)
+- 
 - **定义**GATLayer
 	- in_features是N维节点信息,==不含边信息==
 	- ![](attachments/Pasted%20image%2020230109120014.png)
