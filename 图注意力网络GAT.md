@@ -11,6 +11,8 @@
 	- ![](attachments/%E5%9B%BE%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%BD%91%E7%BB%9CGAT%202023-01-09%2011.55.48.excalidraw.svg)%%[🖋 Edit in Excalidraw](attachments/%E5%9B%BE%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%BD%91%E7%BB%9CGAT%202023-01-09%2011.55.48.excalidraw.md), and the [dark exported image](attachments/%E5%9B%BE%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%BD%91%E7%BB%9CGAT%202023-01-09%2011.55.48.excalidraw.dark.svg)%%
 - GATLayer的**向前推理**
 	- 根据可训练参数W生成图注意力相关系数
+	- 根据邻接矩阵 将$a_{ij}$的注意力系数保留或置为0,通过Softmax得到归一化的注意力权重矩阵attention
+	- N×N的attention矩阵 乘 节点
 	- ![](attachments/Pasted%20image%2020230109120111.png)
 		- ![](attachments/Pasted%20image%2020230109120014.png)
 - GATLayer的**输出**
