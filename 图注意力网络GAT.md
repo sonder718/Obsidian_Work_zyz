@@ -7,11 +7,14 @@
 	- N维节点信息
 		- 6个节点×10维
 	- 邻接矩阵信息
+		- 6×6
 	- ![](attachments/%E5%9B%BE%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%BD%91%E7%BB%9CGAT%202023-01-09%2011.55.48.excalidraw.svg)%%[🖋 Edit in Excalidraw](attachments/%E5%9B%BE%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%BD%91%E7%BB%9CGAT%202023-01-09%2011.55.48.excalidraw.md), and the [dark exported image](attachments/%E5%9B%BE%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%BD%91%E7%BB%9CGAT%202023-01-09%2011.55.48.excalidraw.dark.svg)%%
 - GATLayer的**向前推理**
-	- 
+	- 根据可训练参数W生成图注意力相关系数
 	- ![](attachments/Pasted%20image%2020230109120111.png)
+		- ![](attachments/Pasted%20image%2020230109120014.png)
 - GATLayer的**输出**
+	- 6个节点通过注意力权重进行更新后的结果
 	- 6个节点×5维
 	- ![](attachments/Pasted%20image%2020230109115700.png)
 - 利用 多头注意力网络进行节点分类的实例
