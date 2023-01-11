@@ -1,12 +1,5 @@
-##### 探索过程
-- 将官方代码逐个断点运行
-- 尝试使用该训练代码
-	- https://github.com/HeatherJiaZG/SuperGlue-pytorch
-	- 与官方评估代码不兼容
-	- 多日魔改未果，bug不断
-- 尝试采用另一训练代码
-	- [gouthamvgk/SuperGlue_training: This repository contains the training code for SuperGlue. Uses COCO dataset by generating random homographies. (github.com)](https://github.com/gouthamvgk/SuperGlue_training)
-	- [[2023110初次成功训练探索]]
+
+- [2023-01-11](../../日记/2023-01-11.md)
 ##### 论文信息
 - 论文地址
 	- [[1911.11763] SuperGlue: Learning Feature Matching with Graph Neural Networks (arxiv.org)](https://arxiv.org/abs/1911.11763)
