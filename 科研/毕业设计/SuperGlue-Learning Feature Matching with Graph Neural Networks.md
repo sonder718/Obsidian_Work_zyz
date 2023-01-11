@@ -2,8 +2,8 @@
 - 将官方代码逐个断点运行
 - 尝试使用该训练代码
 	- https://github.com/HeatherJiaZG/SuperGlue-pytorch
-	- 没有评估代码,训练后的模型无法加载/结果很差
-	- 多日魔改未果
+	- 与官方评估代码不兼容
+	- 多日魔改未果，bug不断
 - 尝试采用另一训练代码
 	- [gouthamvgk/SuperGlue_training: This repository contains the training code for SuperGlue. Uses COCO dataset by generating random homographies. (github.com)](https://github.com/gouthamvgk/SuperGlue_training)
 	- [[2023110初次成功训练探索]]
