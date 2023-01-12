@@ -71,7 +71,6 @@
 		{"id":"c6ec450fe1c34635","x":958,"y":2687,"width":384,"height":274,"type":"text","text":"- 图网络中向前推理，得到描述符变化量，更新描述符\n- 共要经过18次AttentionPropagation\n"},
 		{"id":"e6e19a81a6973e7c","x":4577,"y":4050,"width":400,"height":51,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013913.png"},
 		{"id":"fa83e24c4445f3db","x":4577,"y":4131,"width":399,"height":137,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013934.png"},
-		{"id":"a9cccee343bb0c2c","x":4577,"y":4331,"width":400,"height":152,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108014139.png"},
 		{"id":"4075848f06187aa1","x":4578,"y":3886,"width":399,"height":114,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013754.png"},
 		{"id":"db030db0149cc685","x":4230,"y":3616,"width":745,"height":210,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230109210857.png"},
 		{"id":"97b9860121fdce2f","x":4977,"y":3124,"width":400,"height":164,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230109155245.png"},
@@ -108,7 +107,8 @@
 		{"id":"6017130d4bec8e93","x":3844,"y":2297,"width":844,"height":320,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230109150710.png"},
 		{"id":"9cf319ead0316fde","x":3274,"y":3294,"width":400,"height":255,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230112181046.png"},
 		{"id":"bd7d2abac12e6038","x":2714,"y":3189,"width":400,"height":50,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230112181151.png"},
-		{"id":"f829cf6f736f08fb","x":3363,"y":3124,"width":366,"height":50,"type":"text","text":"多头注意力,此处为4头"}
+		{"id":"f829cf6f736f08fb","x":3363,"y":3124,"width":366,"height":50,"type":"text","text":"多头注意力,此处为4头"},
+		{"id":"a9cccee343bb0c2c","x":3919,"y":4268,"width":400,"height":152,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108014139.png"}
 	],
 	"edges":[
 		{"id":"b7cddd0b1ba68861","fromNode":"2410250fe52c579a","fromSide":"right","toNode":"7fb1855267b77d42","toSide":"left"},
