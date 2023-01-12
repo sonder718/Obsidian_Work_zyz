@@ -69,7 +69,6 @@
 		{"id":"a18513f94c91ce48","x":2734,"y":3995,"width":400,"height":71,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108014103.png"},
 		{"id":"9e0b9effac5cebdc","x":2743,"y":3662,"width":831,"height":50,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013845.png"},
 		{"id":"c6ec450fe1c34635","x":958,"y":2687,"width":384,"height":274,"type":"text","text":"- 图网络中向前推理，得到描述符变化量，更新描述符\n- 共要经过18次AttentionPropagation\n"},
-		{"id":"f829cf6f736f08fb","x":3310,"y":3214,"width":366,"height":50,"type":"text","text":"多头注意力,此处为4头"},
 		{"id":"e6e19a81a6973e7c","x":4577,"y":4050,"width":400,"height":51,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013913.png"},
 		{"id":"fa83e24c4445f3db","x":4577,"y":4131,"width":399,"height":137,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108013934.png"},
 		{"id":"a9cccee343bb0c2c","x":4577,"y":4331,"width":400,"height":152,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230108014139.png"},
@@ -106,7 +105,10 @@
 		{"id":"3bf1e36c3cada520","x":1520,"y":3366,"width":1032,"height":246,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230109150922.png"},
 		{"id":"d637f5f9f3fda8ae","x":2685,"y":2723,"width":625,"height":248,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230109125148.png"},
 		{"id":"27ce0d49dc4813ca","x":3178,"y":2205,"width":647,"height":437,"type":"text","text":"- [self-Attention机制](科研/毕业设计/self-Attention机制.md)\n- ![](科研/毕业设计/attachments/Pasted%20image%2020230110172436.png)的具体生成过程\n- 输入\n\t- query=图0的描述子(1,256,描述子数量)\n\t- key=value=图0或1的描述子"},
-		{"id":"6017130d4bec8e93","x":3844,"y":2297,"width":844,"height":320,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230109150710.png"}
+		{"id":"6017130d4bec8e93","x":3844,"y":2297,"width":844,"height":320,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230109150710.png"},
+		{"id":"9cf319ead0316fde","x":3274,"y":3294,"width":400,"height":255,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230112181046.png"},
+		{"id":"bd7d2abac12e6038","x":2714,"y":3189,"width":400,"height":50,"type":"file","file":"科研/毕业设计/attachments/Pasted image 20230112181151.png"},
+		{"id":"f829cf6f736f08fb","x":3363,"y":3124,"width":366,"height":50,"type":"text","text":"多头注意力,此处为4头"}
 	],
 	"edges":[
 		{"id":"b7cddd0b1ba68861","fromNode":"2410250fe52c579a","fromSide":"right","toNode":"7fb1855267b77d42","toSide":"left"},
@@ -205,6 +207,8 @@
 		{"id":"38dbdab9e34bba0b","fromNode":"60cf3219fa9190c3","fromSide":"bottom","toNode":"062f979980c04436","toSide":"top"},
 		{"id":"6d368680e3580269","fromNode":"de96b87005f6e5a6","fromSide":"left","toNode":"3aaa02b2e5a4c4f2","toSide":"right"},
 		{"id":"f2e41dcec9572082","fromNode":"3aaa02b2e5a4c4f2","fromSide":"right","toNode":"baf5232e2e169640","toSide":"left"},
-		{"id":"78ac297273c0ebb8","fromNode":"9e0b9effac5cebdc","fromSide":"left","toNode":"062f979980c04436","toSide":"right"}
+		{"id":"78ac297273c0ebb8","fromNode":"9e0b9effac5cebdc","fromSide":"left","toNode":"062f979980c04436","toSide":"right"},
+		{"id":"aefd671704fc4dd5","fromNode":"bd7d2abac12e6038","fromSide":"bottom","toNode":"c2e3a0af36c7cdbf","toSide":"top"},
+		{"id":"3d857cdda00492fa","fromNode":"d637f5f9f3fda8ae","fromSide":"bottom","toNode":"bd7d2abac12e6038","toSide":"top"}
 	]
 }
