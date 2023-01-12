@@ -6,6 +6,7 @@
 - 代码
 	- [magicleap/SuperGluePretrainedNetwork: SuperGlue: Learning Feature Matching with Graph Neural Networks (CVPR 2020, Oral) (github.com)](https://github.com/magicleap/SuperGluePretrainedNetwork)
 	- [SuperGlue代码解析](SuperGlue代码解析.canvas)
+		- [[Superglue中的Attention层的可视化]]
 	- [pytorch](pytorch.md)
 	- [(57条消息) superGlue学习_ScaredPan的博客-CSDN博客_superglue](https://blog.csdn.net/u010949023/article/details/112846084)
 		- 对代码的注释
