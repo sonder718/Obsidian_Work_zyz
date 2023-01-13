@@ -16,4 +16,6 @@
 	- ![](attachments/Pasted%20image%2020230113215607.png)
 	- 效果极差,或许和不同数据集,且训练轮数不足有关
 - outdoor模型对应数据集
+	- ![](attachments/Pasted%20image%2020230113215930.png)
+	- ![](attachments/Pasted%20image%2020230113215917.png)
 	- 
