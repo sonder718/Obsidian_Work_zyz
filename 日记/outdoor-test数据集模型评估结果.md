@@ -1,0 +1,4 @@
+- outdoor-test数据集模型评估结果
+	- `python3 match_homography.py --eval --superglue coco_homo --input_homography assets/outdoor_test_images_homo.txt --input_dir assets/outdoor_test_images`
+	- ![](attachments/Pasted%20image%2020230113221425.png)
+		- ![](attachments/Pasted%20image%2020230113221437.png)
