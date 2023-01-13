@@ -13,4 +13,7 @@
 - 结束
 	- ![](attachments/Pasted%20image%2020230113234644.png)
 	- ![](attachments/Pasted%20image%2020230113234657.png)
+- `python3 match_homography.py --eval --superglue /root/autodl-tmp/output/train/default/weights/best.pt --input_homography assets/coco_test_images_homo.txt --input_dir assets/coco_test_images`
+- 相较于3轮的结果,的确取得了进步
+	- 尝试对比
 - ![](attachments/Pasted%20image%2020230113235055.png)
