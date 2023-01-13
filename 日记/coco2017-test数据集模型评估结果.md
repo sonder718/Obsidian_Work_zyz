@@ -20,4 +20,7 @@
 ##### 20230113-10epoch-minmin
 - 15分钟 10epoch
 	- ![](attachments/Pasted%20image%2020230114001436.png)
-- 
+- `python3 match_homography.py --eval --superglue /root/autodl-tmp/output/train/default/weights/best.pt --input_homography assets/coco_test_images_homo.txt --input_dir assets/coco_test_images`
+	- ![](attachments/Pasted%20image%2020230114001942.png)
+	- ![](attachments/Pasted%20image%2020230114002110.png)
+	- ![](attachments/Pasted%20image%2020230114002122.png)
