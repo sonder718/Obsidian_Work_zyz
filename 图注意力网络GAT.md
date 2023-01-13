@@ -7,7 +7,6 @@
 	- 如何获取一个图的特征表示，来在下游任务（比如节点分类）中取得好的结果
 - GAT
 	- ![](attachments/Pasted%20image%2020230105163838.png)
-- 
 - **定义**GATLayer
 	- in_features是N维节点信息,==不含边信息==
 	- ![](attachments/Pasted%20image%2020230109120014.png)
