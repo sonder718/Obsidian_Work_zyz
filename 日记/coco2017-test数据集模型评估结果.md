@@ -17,3 +17,7 @@
 - 相较于3轮的结果,的确取得了进步
 	- 尝试对比
 - ![](attachments/Pasted%20image%2020230113235055.png)
+##### 20230113-10epoch-minmin
+- 15分钟 10epoch
+	- ![](attachments/Pasted%20image%2020230114001436.png)
+- 
