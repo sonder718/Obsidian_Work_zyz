@@ -1,2 +1,0 @@
-[[Python包导入的相对路径]]
-[VScode运行python出错](bug解决/环境配置/VScode运行python出错.md)

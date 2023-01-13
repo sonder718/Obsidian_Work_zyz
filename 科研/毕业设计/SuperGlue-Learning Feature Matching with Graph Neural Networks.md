@@ -30,7 +30,7 @@
 %%[🖋 Edit in Excalidraw](attachments/SuperGlue-Learning%20Feature%20Matching%20with%20Graph%20Neural%20Networks%202023-01-05%2018.34.07.excalidraw.md), and the [dark exported image](attachments/SuperGlue-Learning%20Feature%20Matching%20with%20Graph%20Neural%20Networks%202023-01-05%2018.34.07.excalidraw.dark.svg)%%
 ##### SuperGlue中的Self-Attention
 - [self-Attention机制](self-Attention机制.md)
-- [图注意力网络GAT](../../图注意力网络GAT.md)
+- [图注意力网络GAT](图注意力网络GAT.md)
 - 注意力权重$a_{ij}$
 	- ![](attachments/Pasted%20image%2020230109174156.png)
 - query即$q_{i}$

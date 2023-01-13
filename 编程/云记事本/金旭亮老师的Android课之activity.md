@@ -2,7 +2,7 @@
 [[jetpack]]
 
 # kotlin
-[kotlin](kotlin.md)
+[核心-kotlin](../核心-kotlin.md)
 # 编程访问Android控件
 ## Activity
 View:所有控件派生自它
@@ -134,7 +134,7 @@ A-->B
 ![](attachments/Pasted%20image%2020220427004630.png)
 ### 调用操作系统
 ![](attachments/Pasted%20image%2020220427005123.png)
-[[kotlin]]实例对象
+[[../核心-kotlin]]实例对象
 ### 默认启动activity
 ![](attachments/Pasted%20image%2020220427005849.png)
 

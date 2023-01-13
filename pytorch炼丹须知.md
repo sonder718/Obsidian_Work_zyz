@@ -1,5 +1,0 @@
-- 云GPU平台
-	- [AutoDL-品质GPU租用平台-租GPU就上AutoDL](https://www.autodl.com/home)
-	- [[AutoDL的使用]]
-- [超常用Linux命令](编程/工作相关/超常用Linux命令.md)
-- [[pytorch常见问题处理]]
