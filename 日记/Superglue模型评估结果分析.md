@@ -18,4 +18,5 @@
 - outdoor模型对应数据集
 	- ![](attachments/Pasted%20image%2020230113215930.png)
 	- ![](attachments/Pasted%20image%2020230113215917.png)
-	- 
+- coco数据集
+	- python3 match_homography.py --eval --superglue coco_homo --input_homography assets/outdoor_test_images_homo.txt --input_dir assets/outdoor_test_images
