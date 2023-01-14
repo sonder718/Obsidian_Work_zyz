@@ -27,6 +27,8 @@
 - [[Java 反射]]
 	- [[反射获取类的3种方式]]
 - [[equals 和 hashCode 的关系]] ⭐
+- [[Java int 和Integer的区别]]
+	- 美团一面
 - [[Java中的集合]]
 	- [[如何使用 Collections 容器]]
 	- [[Arrays.sort与Collections.sort]] 
