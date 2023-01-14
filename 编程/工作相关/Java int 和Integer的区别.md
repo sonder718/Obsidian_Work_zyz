@@ -3,4 +3,15 @@
 	- Integer 是引用类型，实际是一个对象，会占用更多的内存,Integer 存储的是引用对象的地址
 - **默认值不同**
 	- Integer的默认值是null，int的默认值是0
-- 
+- Integer变量和int变量比较时
+	- 只要两个变量的值是向等的，则结果为**true**
+- 两个通过**new生成**的Integer变量永远是**不相等**的
+- 对于两个**非new生成**的Integer对象
+	- ![](attachments/Pasted%20image%2020230114224948.png)
+	- 进行比较时，如果两个变量的值在区间-128到127之间，则比较结果为true
+		- java在编译Integer i = 100 ;时，会翻译成为**Integer i = Integer.valueOf(100)**
+		- 在**Integer.valueOf**中对于-128到127之间的数，会进行缓存
+			- Integer i = 127时，会将127进行缓存
+			- 下次再写Integer j = 127时，就会直接从缓存中取，就不会new了
+	- 如果两个变量的值不在此区间，则比较结果为false
+- 非new生成的Integer变量和new Integer()生成的变量比较时，结果为false
