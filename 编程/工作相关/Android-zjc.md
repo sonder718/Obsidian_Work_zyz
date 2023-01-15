@@ -1,0 +1,15 @@
+### 1.  [recyclerview和listview区别](https://blog.csdn.net/sjh66655/article/details/115094494)
+1、优化
+ListView优化需要自定义ViewHolder和判断convertView是否为null。 而RecyclerView是存在规定好的ViewHolder。
+
+2、布局不同
+对于ListView，只能在垂直的方向滚动。而对于RecyclerView，他里面的LayoutManager中制定了一套可以扩展的布局排列接口，所以我们可以重写LayoutManager来定制自己需要的布局。RecycleView可以根据LayoutManger有横向，瀑布和表格布局
+
+3、更新数据
+recycleView可以支持在添加，删除或者移动Item的时候，RecyclerView.ItemAnimator添加动画效果，而listview不支持。而且RecyclerView有四重缓存，而ListView只有二重缓存。ListView和RecyclerView最大的区别在于数据源改变时的缓存的处理逻辑，ListView是"一锅端"，将所有的mActiveViews都移入了二级缓存mScrapViews，而RecyclerView则是更加灵活地对每个View修改标志位，区分是否重新bindView。
+
+4、自定义适配器
+ListView的适配器继承ArrayAdapter;RecycleView的适配器继承RecyclerAdapter,并将范类指定为子项对象类.ViewHolder(内部类)。
+
+5、绑定事件不同
+ListView是在主方法中ListView对象的setOnItemClickListener方法；RecyclerView则是在子项具体的View中去注册事件。
