@@ -15,16 +15,20 @@ class Counter {
 ```
 
 ##### 修饰静态方法
-- 
+- 如果一个线程 A 调用一个实例对象的非静态 `synchronized` 方法，而线程 B 需要调用这个实例对象所属类的静态 `synchronized` 方法，是允许的，**不会发生互斥现象**
+	- 因为访问静态 `synchronized` 方法占用的锁是当前类的锁
+	- 而访问非静态 `synchronized` 方法占用的锁是当前实例对象锁
+```java
+synchronized void staic method() { //业务代码 }
+```
 ##### 修饰代码块
-- 这段代码会将当前对象加上互斥锁，从而保证代码块在多线程环境下只能被一个线程执行。
+- `synchronized(this|object)` 表示进入同步代码库前要获得**给定对象的锁**。
 ```java
 synchronized (this) {
   // 代码块
 }
 ```
-- synchronized（ .class）
-	- `synchronized(类.class)` 表示进入同步代码前要获得 **当前 class 的锁**
+- `synchronized(类.class)` 表示进入同步代码前要获得 **当前 class 的锁**
 
 #### 底层实现
 - [管程-信号量机制难以编写程序的解决措施](../../考研/408/操作系统/管程-信号量机制难以编写程序的解决措施.md)
