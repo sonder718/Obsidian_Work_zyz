@@ -1,2 +1,5 @@
 - [(57条消息) torch-geometric:torch_cluster库knn_graph函数详解_噢啦啦耶的博客-CSDN博客_knn graph](https://blog.csdn.net/qq_40329272/article/details/115834108)
+- 输入
+	- （256维特征向量，602个特征点）
+	- ![](attachments/Pasted%20image%2020230115195321.png)
 - 
