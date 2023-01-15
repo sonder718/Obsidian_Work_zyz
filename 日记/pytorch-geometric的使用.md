@@ -2,3 +2,7 @@
 	- 虽然图形只有两条边，但我们需要定义四个索引元组来==解释一条边的两个方向==
 	- ![](attachments/Pasted%20image%2020230115205145.png)
 	- ![](attachments/pytorch-geometric%E7%9A%84%E4%BD%BF%E7%94%A8%202023-01-15%2020.52.40.excalidraw.svg)%%[🖋 Edit in Excalidraw](attachments/pytorch-geometric%E7%9A%84%E4%BD%BF%E7%94%A8%202023-01-15%2020.52.40.excalidraw.md), and the [dark exported image](attachments/pytorch-geometric%E7%9A%84%E4%BD%BF%E7%94%A8%202023-01-15%2020.52.40.excalidraw.dark.svg)%%
+- **生成K近邻**
+	- ![](attachments/Pasted%20image%2020230115212222.png)
+	- ![](attachments/Pasted%20image%2020230115212212.png)
+	- 
