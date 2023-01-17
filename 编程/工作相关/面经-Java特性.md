@@ -1,4 +1,5 @@
 ##### 面经-Java
+[[JAVA-zjc]]***zjc收集的java问题
 - [[常见Java设计模式]]⭐
 	- [建造(Builder)模式](建造(Builder)模式.md)
 	- [装饰模式](装饰模式.md)
