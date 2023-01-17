@@ -29,7 +29,7 @@
 - [[equals 和 hashCode 的关系]] ⭐
 - [[Java int 和Integer的区别]]
 	- 美团一面
-- [[Java中的集合]]
+- [[Java集合框架]]
 	- [[如何使用 Collections 容器]]
 	- [[Arrays.sort与Collections.sort]] 
 	- [[HashMap 底层实现]] ⭐⭐⭐
