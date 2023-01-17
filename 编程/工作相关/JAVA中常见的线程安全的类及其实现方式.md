@@ -4,4 +4,41 @@
 ##### java中线程安全的实现方式
 - 1.  通过`synchronized` 关键字给方法加上内置锁来实现[线程安全](https://so.csdn.net/so/search?q=%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8&spm=1001.2101.3001.7020)   
     **`Timer`，`TimerTask`，`Vector`，`Stack`，`HashTable`，`StringBuffer`**
-	- [[synchronized 作用与底层实现]]
+	
+### **多线程如何解决线程冲突**
+
+1.  使用同步代码块，保证安全
+	
+    [[synchronized 作用与底层实现]]
+    ```java
+    修饰符 synchronized 返回值类型 方法名(参数列表){
+	可能出现线程安全问题的代码（访问了共享数据的代码）
+	}
+    
+	```
+    
+    注意：
+    
+    1.  同步代码块中的锁对象，可以使用任意的对象 2.必须保证多个线程使用的锁对象是同一个 3.锁对象作用：把同步代码块锁住，只让一个线程在同步代码块中执行 缺点：程序频繁的判断，获取，释放锁，代码的效率会降低
+        
+2.  使用同步方法
+    
+
+ `修饰符 synchronized 返回值类型 方法名(参数列表){`  
+ `可能出现线程安全问题的代码（访问了共享数据的代码）`  
+ `}`
+
+使用步骤： 1.把访问了共享数据的代码抽取出来，放到一个方法中 2.在方法上添加synchronized修饰符
+
+注意： 同步方法也会把方法内部的代码锁住只会让一个线程执行 同步方法的锁对象 new synchronized 也就是this
+
+3.  使用Lock锁
+    
+
+Lock 实现提供了比使用 synchronized 方法和语句可获得的更广泛的锁定操作。 Lock接口中的方法：
+
+ void Lock()获取锁  
+ void unLock()释放锁  
+ java.util.concurrent.locks.ReentrantLock implements Lock接口
+
+使用步骤： 1.在成员位置创建一个ReentrantLock对象 2.在可能会出现安全问题的代码前调用Lock接口中的方法获取锁 3.在可能会出现安全问题的代码后调用Lock接口中的方法释放锁
