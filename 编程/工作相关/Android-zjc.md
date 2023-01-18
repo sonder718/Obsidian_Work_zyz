@@ -1,4 +1,4 @@
-### 1.  [recyclerview和listview区别](https://blog.csdn.net/sjh66655/article/details/115094494)
+### 1.  [recyclerview和listview区别](https://blog.csdn.net/sjh66655/article/details/115094494)#zjc
 1、优化
 ListView优化需要自定义ViewHolder和判断convertView是否为null。 而RecyclerView是存在规定好的ViewHolder。
 
