@@ -1,0 +1,4 @@
+- 由Map接口中声明的entrySet()方法返回一个包含映射条目的集。
+- 每个组元素都是一个Map.Entry对象
+- 每个Map.Entry对象包括**getKey()**，**getValue()**
+- ![](attachments/Pasted%20image%2020230117181851.png)

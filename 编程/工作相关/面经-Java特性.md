@@ -9,14 +9,16 @@
 - [[Java int 和Integer的区别]]
 	- 美团一面
 - [谈谈Integer i = new Integer(xxx)和Integer i =xxx;这两种方式的区别](谈谈Integer%20i%20=%20new%20Integer(xxx)和Integer%20i%20=xxx;这两种方式的区别.md)
-- [[Java集合框架]]
+- [[Java集合框架的总体介绍]]
 	- [[如何使用 Collections 容器]]
 	- [[Arrays.sort与Collections.sort]] 
 	- [[HashMap 底层实现]] ⭐⭐⭐
 		- [HashMap为什么线程不安全](HashMap为什么线程不安全.md)
 		- [[HashMap 与 ConcurrentHashMap 区别与底层实现]]⭐
-	- [[HashSet 和 HashMap 的关系]]
-	- [[HashMap 与 TreeMap]]
+		- [[HashSet 和 HashMap 的关系]]
+		- [[HashMap 与 TreeMap]]
+	- [[TreeMap的特性与用法]]
+		- [[TreeMap实现有序的方法]]
 	- [[ArrayList 与 LinkedList 比较]]
 	- [处理散列函数冲突的方式](../../考研/408/数据结构/处理散列函数冲突的方式.md)
 - [[volatile用法和底层实现-防止指令重排,保证内存可见]] ⭐
