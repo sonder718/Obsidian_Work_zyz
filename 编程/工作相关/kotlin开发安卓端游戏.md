@@ -1,0 +1,4 @@
+- [yairm210/Unciv: Open-source Android/Desktop remake of Civ V (github.com)](https://github.com/yairm210/unciv)
+	- ![](attachments/Pasted%20image%2020230127182032.png)
+	- Unciv 由 [GDX 的 site2d](https://libgdx.com/wiki/graphics/2d/scene2d/scene2d) for the UI 提供支持
+	- 文档:[本地建筑 - Unciv (yairm210.github.io)](https://yairm210.github.io/Unciv/Developers/Building-Locally/)

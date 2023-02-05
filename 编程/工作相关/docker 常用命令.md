@@ -1,0 +1,23 @@
+- [Docker 安装 MySQL | 菜鸟教程 (runoob.com)](https://www.runoob.com/docker/docker-install-mysql.html)
+- **用docker安装MySQL**
+	- docker pull mysql
+- 查看安装的所有容器
+	- docker image
+- **创建一个新的容器 , 同时运行这个容器**
+	- docker run -itd --name mysql-test -p 3306:3306 -e MYSQL_ROOT_PASSWORD=123456 mysql
+		- -i -t 让 docker 运行的容器实现交互式
+		- -   **-p 3306:3306** ：映射容器服务的 3306 端口到宿主机的 3306 端口，外部主机可以直接通过 宿主机ip:3306 访问到 MySQL 的服务。
+		- -   **MYSQL_ROOT_PASSWORD=123456**：设置 MySQL 服务 root 用户的密码。
+		- exit 退出
+- 查看端口的绑定情况
+	- **docker port** 
+- **查看Docker运行中的容器**
+	- docker ps  
+- **启动停止运行的容器id**
+	- docker start 容器id
+- 进入容器
+	- 方式1
+		- docker exec -it 775c7c9ee1e1 /bin/bash
+	- 方式2
+		- docker attach --sig-proxy=false mynginx
+		- Ctrl+c退出

@@ -1,10 +1,9 @@
-[JAVA-zjc](JAVA-zjc.md)
+
 ##### 基础JAVA语法
 - [try-catch-finally finally一定会执行么？finally和return的执行顺序](try-catch-finally%20finally一定会执行么？finally和return的执行顺序.md)
 - [装箱和拆箱](装箱和拆箱.md)
 - [java8（JDK1.8）新特性](java8（JDK1.8）新特性.md)
-- [[Java 反射]]
-	- [[反射获取类的3种方式]]
+- [[Java 反射-反射获取类的3种方式]]
 - [[equals 和 hashCode 的关系]] ⭐
 - [[Java int 和Integer的区别]]
 	- 美团一面
@@ -40,7 +39,7 @@
 	- [装饰模式](装饰模式.md)
 	- [适配器(Adapter)模式](适配器(Adapter)模式.md)
 ##### 底层原理
-- [[是否看过 JDK API?]]
+- [[是否看过 JDK API]]
 - [[JVM概述]]
 	- [[JVM内存区域,划分方式（新生代、老年代）]]⭐
 	- [[JVM垃圾收集器]]⭐

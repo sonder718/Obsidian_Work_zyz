@@ -1,8 +1,10 @@
 #### HashMap概述
-- HashMap基于Map接口实现，元素以键值对的方式存储，并且允许使用null建和null值，因为key不允许重复，因此只能有一个键为null,另外HashMap不能保证放入元素的顺序，它是无序的，和放入的顺序并不能相同。
-- HashMap是线程不安全的。
-- ![](attachments/Pasted%20image%2020230101155852.png)
-- ![](attachments/Pasted%20image%2020230101155928.png)
+- HashMap基于Map接口实现
+	- 元素以键值对的方式存储
+	- 并且允许使用null建和null值，因为key不允许重复，因此只能有一个键为null
+	- HashMap不能保证放入元素的顺序，它是==无序==的，和放入的顺序并不能相同。
+- HashMap是==线程不安全==的。
+- ![400](attachments/Pasted%20image%2020230101155852.png)![400](attachments/Pasted%20image%2020230101155928.png)
 #### HashMap和Hashtable的区别
 - HashMap和Hashtable都实现了**Map接口**。主要的区别有
 - 对Null key 和Null value的支持

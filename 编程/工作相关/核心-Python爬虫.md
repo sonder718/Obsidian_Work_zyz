@@ -1,0 +1,8 @@
+- **解析响应方式**
+	- [[requests库-访问URI]]
+	- [[BeautifulSoup库-解析HTML]]
+- **模拟浏览器方式**
+	- [[selenium库-模拟登陆]]
+	- [[webdriver库]]
+- [[应对document-根据frame的src属性跳转]]
+- [[接口解析处理ajax动态网页]]

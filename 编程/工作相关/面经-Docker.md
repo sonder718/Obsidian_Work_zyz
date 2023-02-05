@@ -1,5 +1,5 @@
 ##### 面经-Docker
-- [[Docker常识]]
+- [[docker与虚拟机的区别]]
 - [[Dockerfile 常用指令]]
 - [[docker 常用命令]]
 - [[docker-compose]]

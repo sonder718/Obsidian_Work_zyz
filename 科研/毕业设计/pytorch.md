@@ -1,4 +1,6 @@
 - [PyTorch 深度学习：60 分钟的突击 (apachecn.org)](https://pytorch.apachecn.org/#/docs/1.7/02)
 - [通过Pytorch实现ResNet18 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/157134695)
+- [pytorch炼丹须知](pytorch炼丹须知.md)
+- [pytorch常见问题处理](pytorch常见问题处理.md)
 - nn.Conv1d
 	- [[一维卷积]]
