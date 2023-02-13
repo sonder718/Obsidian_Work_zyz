@@ -8,6 +8,8 @@
 - [[如何使用Spring Boot的安全技术，如OAuth2、Spring Security等]]
 - [[如何使用Spring Boot的Web开发技术，如Spring MVC、Spring WebFlux等]]
 # 理论层面
+[25道大厂必问的Spring面试题！ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/493343355)
+- [[Spring和Springboot的特性]]
 - [[Spring MVC概述]]
 	- [[Spring MVC启动流程]]
 	- [[Spring MVC 内置过滤器有哪些，怎么写过滤器]]
