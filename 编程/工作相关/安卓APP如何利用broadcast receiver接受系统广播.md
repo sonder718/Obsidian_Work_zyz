@@ -1,0 +1,5 @@
+- 首先[如何注册广播接收器](如何注册广播接收器.md)
+- 每个系统广播都具有特定的 **intent-filter**，其中主要包括具体的 action，系统广播发出后，将被相应的BroadcastReceiver 接收。
+	- **在重写的onreceive()中处理**
+	- ![](attachments/Pasted%20image%2020230228180220.png)
+- ![400](attachments/Pasted%20image%2020230228180146.png)

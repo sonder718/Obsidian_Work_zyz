@@ -5,6 +5,7 @@
 - 非端到端
 - 带有注意力机制的种子图神经网络结构
 - 引入了“种子机制”，将完全连接图变为稀疏连接图
+	- [[Sgmnet中的superpoint的不同之处]]
 	- [[SGMNet代码详解]]
 # 结构
 - ![](attachments/SGMNet-Learning%20to%20match%20features%20with%20seeded%20graph%20matching%20network%202023-01-05%2019.13.49.excalidraw.svg)
@@ -19,4 +20,4 @@
 	- 3) Attentional Unpooling，将种子特征传播回原始关键点。 实验表明，与典型的基于注意力的网络相比，我们的方法显着降低了计算和内存复杂性，同时实现了具有竞争力或更高的性能。
 # 特点
 - 结果，SuperGlue [36] 中的大多数图边正如其原始论文中所报道的那样，强度往往为零并且在我们的实验中也观察到了。 这种现象表明即使是稀疏图也基本上足够了
-- 
+

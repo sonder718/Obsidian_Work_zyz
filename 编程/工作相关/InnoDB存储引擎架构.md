@@ -1,0 +1,4 @@
+- InnoDB的架构包括**内存结构**（In-Memory Structures）和**磁盘上的结构**（On-Disk Structures）
+- 内存结构（In-Memory Structures）更多的目的是在提高性能，因此本文不会过多关注。如果感兴趣，可以访问MySQL的官方网站[http://www.mysql.com](https://link.zhihu.com/?target=http%3A//www.mysql.com)
+- “Undo Tablespaces”包含Undo Log（撤消日志），Undo Log是撤消日志记录的集合，其中包含如何撤消事务对聚集索引记录的最新更改的信息。Undo Log存在于撤消日志段中，这些日志段包含在回滚段中。
+- ![](attachments/Pasted%20image%2020230304174705.png)

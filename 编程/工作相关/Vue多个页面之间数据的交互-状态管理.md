@@ -1,0 +1,6 @@
+- Vue状态管理是指在Vue应用中对**多个组件的共享状态进行集中式的管理**（读/写）。
+- ==Vuex==是专为Vue.js应用程序开发的状态管理模式，**集中存储管理应用的所有组件的状态（数据）**，并以相同的规则保证状态以一种可预测的方式发生变化
+	- Vuex可以集中管理应用的所有组件的状态，本地存储区可以在不同页面之间共享数据。你需要在每个页面中引入Vuex，并使用localStorage或sessionStorage来存储和获取数据。
+- vuex可以理解为一种开发模式或框架。比如PHP有thinkphp，java有spring等。通过状态（数据源）集中管理驱动组件的变化（好比spring的IOC容器对bean进行集中管理）。应用级的状态集中放在store中； 改变状态的方式是提交mutations，这是个同步的事物； 异步逻辑应该封装在action中
+	- [spring中的面向切面IOC和控制反转AOP](spring中的面向切面IOC和控制反转AOP.md)
+- ![](attachments/Pasted%20image%2020230227013441.png)

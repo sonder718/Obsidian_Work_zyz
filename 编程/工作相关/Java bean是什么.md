@@ -1,0 +1,6 @@
+-   Java Bean是一种符合特定规范的Java类，它可以被其他组件重用、组合和操作。Java Bean的规范包括：
+    -   有一个无参的公共构造器。
+    -   有一些**私有的属性**，并提供相应的公共getter和setter方法来访问或修改这些属性。
+    -   实现**Serializable接口**，以支持对象的序列化和反序列化。
+-   Java Bean的作用是**封装数据和行为，提供统一的接口**，方便其他组件对其进行操作。Java Bean可以用于表示实体、传递数据、存储配置等场景。
+-   Java Bean有不同的类型，例如Session Bean、Entity Bean和MessageDriven Bean等，它们分别用于实现不同的功能。

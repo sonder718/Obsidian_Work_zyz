@@ -1,0 +1,9 @@
+- **简洁、优雅**
+	- 天然`支持Lambda表达式`
+	- 语法糖还有很多：函数默认值、内联函数、ranges、kv遍历Map、lazy属性、数据对象声明、运算符重载
+- **非空判断的安全性**
+	- ![](attachments/Pasted%20image%2020230221010118.png)
+- **兼容JAVA**
+	- Kotlin可以使用所有用Java写的组件
+	- 现有的用Java写的项目中可以局部使用Kotlin
+- **Google 优先使用Kotlin进行Android开发**

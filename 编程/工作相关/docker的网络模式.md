@@ -1,0 +1,5 @@
+- Host模式：容器直接使用宿主机的网络，与宿主机在同一网络中，但没有独立IP地址。使用--net=host指定。  
+- None模式：容器没有网络接口，进入该模式后，容器内部只有lo接口，且无法与外部进行通信。使用--net=none指定。  
+- Bridge模式：Docker**默认**的网络模式，使用--net=bridge指定。
+	- 当Docker进程启动时，会在主机上创建一个名为docker0的虚拟网桥，此主机上启动的Docker容器会连接到这个虚拟网桥上。
+-  Container模式：与指定容器共享网络命名空间，这个模式下不需要指定--publish或--expose选项，容器之间可以使用localhost直接通信，可以使用--net=container:NAME_or_ID指定。

@@ -8,15 +8,15 @@
 	- 初始size为16，扩容：$newsize = oldsize*2$，size一定为2的n次幂
 	- 单一线程下HashMap性能要好过Hashtable。
 	-  HashMap会将链表长度大于阈值是**转化为红黑树**（会先判断当前数组的长度是否小于 64，是则扩容，而不转化），将链表转化为红黑树，以减少搜索时间
-- Hashtable
+- **Hashtable**
 	- 线程安全
-		- [[synchronized 作用与底层实现]]
+		- [[synchronized 作用与使用方法]]
 	- 不能接受null值，会产生空指针异常。
 	- 实现了Map接口,基于Dictionary抽象类
 	- 底层数组+链表实现,一次锁住**整个hash表**
 	- 初始size为11，扩容：$newsize = olesize*2+1$
 	- HashMap和Hashtable默认的“负载极限”为0.75,到达负载极限后hash表会发生rehashing
-- ConcurrentHashMap
+- **ConcurrentHashMap**
 	- 线程安全
 	- 可以接受为null的键值(key)和值(value)
 	- 实现了Map接口

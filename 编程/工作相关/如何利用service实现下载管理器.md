@@ -1,0 +1,6 @@
+- 创建一个实现**Service**接口的DownloadService，重写onstartcommand,使用Android提供的DownloadManager类来下载文件
+	- ![400](attachments/Pasted%20image%2020230228180723.png)
+- 启动service,通过intent传入参数
+	- ![](attachments/Pasted%20image%2020230228180631.png)
+- 下载完成后，系统会在通知栏中显示一个通知。使用BroadcastReceiver来监听下载完成事件
+	- ![400](attachments/Pasted%20image%2020230228181000.png)

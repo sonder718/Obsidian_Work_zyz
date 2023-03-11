@@ -1,0 +1,6 @@
+- RocketMQ是一个分布式开放消息中间件，底层基于队列模型来实现消息收发功能。
+	- RocketMQ集群中包含四个模块：Namesrv, Broker, Producer, Consumer。
+	- Namesrv是命名服务，负责管理Broker的注册和路由信息；
+	- Broker是消息存储和转发的节点，支持主从复制和分区；
+	- Producer是消息生产者，可以集群部署，支持事务消息、顺序消息等；
+	- Consumer是消息消费者，可以按照发布/订阅或点对点的模式消费消息。

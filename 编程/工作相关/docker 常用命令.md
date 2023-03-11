@@ -3,6 +3,7 @@
 	- docker pull mysql
 - 查看安装的所有容器
 	- docker image
+		- ! 达梦数据库一面
 - **创建一个新的容器 , 同时运行这个容器**
 	- docker run -itd --name mysql-test -p 3306:3306 -e MYSQL_ROOT_PASSWORD=123456 mysql
 		- -i -t 让 docker 运行的容器实现交互式
@@ -13,11 +14,13 @@
 	- **docker port** 
 - **查看Docker运行中的容器**
 	- docker ps  
+		- ! 达梦数据库一面
 - **启动停止运行的容器id**
 	- docker start 容器id
 - 进入容器
 	- 方式1
 		- docker exec -it 775c7c9ee1e1 /bin/bash
+		- docker exec -it 2a00afc20a86 /bin/bash
 	- 方式2
 		- docker attach --sig-proxy=false mynginx
 		- Ctrl+c退出

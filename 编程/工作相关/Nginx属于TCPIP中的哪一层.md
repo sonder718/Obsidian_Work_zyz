@@ -1,0 +1,4 @@
+- Nginx是一种高性能的Web服务器和反向代理服务器，它可以处理HTTP、HTTPS、SMTP、POP3和IMAP协议。
+- 这些协议都属于OSI七层模型中的**应用层**，也就是TCP/IP模型中的第四层。
+- 因此，Nginx主要工作在TCP/IP模型中的第四层，也就是应用层。
+- 但是，Nginx也可以通过stream模块来支持TCP和UDP协议的负载均衡。这些协议都属于OSI七层模型中的传输层，也就是TCP/IP模型中的第三层。因此，Nginx也可以工作在TCP/IP模型中的第三层，也就是传输层。

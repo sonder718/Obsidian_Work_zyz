@@ -1,0 +1,33 @@
+# Activity的四个生命状态
+- **Running**	
+	- 当前显示在屏幕的Activity位于Activity任务栈的栈顶，用户可见并且可操作
+- **Paused**
+	- 当前状态可见，但是界面焦点以已经失去，此Activity无法与用户交互
+- **Stopped**
+	- 用户不可见也不可操作，可能被覆盖或者在后台，此时的Activity有可能被系统回收
+- **Killed**	
+	- 界面被销毁，等待被系统回收
+# Activity的七个生命周期方法
+- **onCreate()**：
+	- Starting ——–>Running
+	- 在此阶段，Activity正在创建。在此方法中，通常会执行一些初始化操作。  
+- **onStart()**：
+	- Starting ——–>Running
+	- Activity已经创建，**但尚未可见**。在此方法中，通常会执行一些**准备工作**，如打开数据库连接等。  
+- **onResume()**：
+	- Starting ——–>Running,Paused ——>Running
+	- Activity已经可见并正在前台运行。在此方法中，通常会注册一些监听器和启动一些动画。  
+- **onPause()**：
+	- Running ——>Paused
+	- Activity正在失去焦点并暂停。在此方法中，通常会释放一些资源，如停止动画和注销监听器。  
+- **onStop()**：
+	- Paused ——>Stoped
+	- Activity不再可见并停止。在此方法中，通常会释放一些占用资源，如释放系统资源和关闭数据库连接。  
+- **onRestart()**：
+	- Activity正在重新启动。在此方法中，通常会恢复一些已释放的资源，如重新打开数据库连接。  
+- **onDestroy()**：
+	- Stoped——>killed
+	- Activity即将被销毁。在此方法中，通常会释放一些占用资源，如释放内存和关闭线程。
+	- ! **Activity变为销毁状态的原因**
+		- 第一个是Activity 正在结束（由于用户彻底关闭 Activity 或由于系统为 Activity 调用finish()）
+		- 第二个是由于配置变更（例如**设备旋转**或多窗口模式），系统暂时销毁 Activity。

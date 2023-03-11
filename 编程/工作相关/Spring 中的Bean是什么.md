@@ -1,0 +1,3 @@
+-   Spring Bean是一种符合Java Bean规范的Java对象，它由Spring IoC容器创建、配置和管理。Spring IoC容器是一个负责控制反转和依赖注入的组件，它可以根据配置文件或注解来装配和初始化Bean对象。
+-   Spring Bean是Spring应用程序的基本构建块，它可以用于实现业务逻辑、数据访问、服务调用等功能。Spring Bean之间可以相互依赖和协作，形成一个完整的应用程序。
+-   Spring Bean有不同的作用域（Scope），例如单例（Singleton）、原型（Prototype）、请求（Request）和会话（Session）等，它们决定了Bean对象的生命周期和可见范围。

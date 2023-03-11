@@ -1,0 +1,8 @@
+- 使用 Executor 框架：使用 **Executor 框架创建线程池**，将 ==Runnable 对象==提交到线程池中运行。
+- ![500](attachments/Pasted%20image%2020230227004149.png)![400](attachments/Pasted%20image%2020230227004120.png)
+- **三种线程池**
+	- 因为`ExecutorService`只是接口，创建这些线程池的方法都被封装到`Executors`这个类中,Java标准库提供的几个常用实现类有：
+	-   FixedThreadPool：线程数固定的线程池；
+	-   CachedThreadPool：线程数根据任务动态调整的线程池；
+	-   SingleThreadExecutor：仅单线程执行的线程池。
+- 

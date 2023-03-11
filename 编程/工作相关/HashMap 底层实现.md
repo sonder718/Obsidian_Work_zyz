@@ -1,4 +1,3 @@
-#### HashMap概述
 - HashMap基于Map接口实现
 	- 元素以键值对的方式存储
 	- 并且允许使用null建和null值，因为key不允许重复，因此只能有一个键为null

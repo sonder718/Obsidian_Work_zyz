@@ -1,0 +1,1 @@
+Kotlin 代码也被**编译成 Java 字节码**，并在运行时由 Java 虚拟机即 JVM 执行。当一个名为 Kotlin 的文件Main.kt被编译后，它最终会变成一个类，然后生成该类的字节码。字节码文件的名称将是MainKt.class，并且该文件将由 JVM 执行。

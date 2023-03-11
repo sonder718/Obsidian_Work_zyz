@@ -1,0 +1,5 @@
+- 组件（Component）：Vue.js最强大的功能之一，允许用户定义自己的标签，并在其内部定义逻辑和样式。组件是Vue.js开发中的基本单位，使得Vue.js应用程序变得模块化和可重用。  
+- **Vuex**：Vue.js的状态管理库，它允许开发人员在Vue.js应用程序中管理全局状态。Vuex提供了一个集中式存储仓库，允许开发人员在整个应用程序中管理所有组件的状态。  
+- **Vue Router**：Vue.js的官方路由管理器，它允许开发人员构建单页应用程序（SPA）。Vue Router提供了一种管理Vue.js应用程序中视图和URL的方式。  
+- **Vue Loader**：Vue.js的官方加载器，它允许开发人员在单个文件中编写Vue组件，包括HTML、CSS和JavaScript等。Vue Loader将Vue.js组件转换为JavaScript模块，以便它们可以在浏览器中使用。  
+- **Vue CLI**：Vue.js的官方命令行工具，它允许开发人员快速创建和管理Vue.js应用程序。Vue CLI提供了一组命令，用于创建、构建和测试Vue.js应用程序，以及管理应用程序的依赖项和配置。

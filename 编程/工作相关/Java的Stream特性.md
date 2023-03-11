@@ -1,6 +1,6 @@
 # Stream用法示例
 - Stream就是一组元素的序列,支持对这些元素进行各种操作，而这些操作是通过**Lambda表达式指定**的
-	- 类似数据库查询语句
+	- 类似**数据库查询语句**
 - ![](attachments/Pasted%20image%2020230206225236.png)
 # Stream特性
 -   不是数据结构：它没有内部存储，它只是用操作管道从 source（数据结构、数组、generator function、IO channel）抓取数据。它也绝不修改自己所封装的底层数据结构的数据。例如 Stream 的 filter 操作会产生一个不包含被过滤元素的新 Stream，而不是从 source 删除那些元素。

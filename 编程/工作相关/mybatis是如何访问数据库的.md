@@ -1,0 +1,7 @@
+- 首先，开发人员需要定义 **MyBatis 配置文件**，该文件指定数据库连接信息，例如驱动程序类、数据库 URL、用户名和密码。 此文件通常名为“mybatis-config.xml”。
+- 接下来，开发人员需要定义**Mapper接口**，该接口声明将针对数据库执行的 SQL 查询。 此接口应包括与Mapper.XML 文件中定义的 SQL 语句相对应的方法。
+- 然后，开发人员需要定义**Mapper.XML** 文件，其中包含将由 MyBatis 执行的 SQL 语句。 此文件将 SQL 查询映射到Mapper接口方法。 XML 文件包含 SQL 语句，以及需要传递给查询的任何参数以及需要应用于返回数据的任何结果映射。
+- 当应用程序运行时，MyBatis 会读取配置文件并创建 **SqlSessionFactory** 的实例，该实例用于创建 SqlSession 实例。 
+	- 每个 SqlSession 表示一个数据库连接，并提供用于执行 SQL 查询和管理事务的方法。
+- 要执行 SQL 查询，开发人员在Mapper接口上调用方法，传入任何必需的参数。 MyBatis 使用Mapper.XML 文件生成 SQL 语句并针对数据库执行它。
+- 查询结果作为 Java 对象返回，这些对象使用Mapper.XML 文件中定义的结果映射从数据库结果集映射。

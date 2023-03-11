@@ -1,0 +1,12 @@
+# HashSet
+- **特性**
+	- 允许有 null 值
+	- 无序
+	- 是不允许有重复元素的集合
+		- ![](attachments/Pasted%20image%2020230220202052.png)
+- **底层实现**
+	- 基于HashMap实现
+	- 实现了Set接口
+- **使用须知**
+	- HashSet较HashMap来说比较慢
+	- 使用add()方法将元素放入set中

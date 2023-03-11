@@ -1,0 +1,18 @@
+- [HashMap](HashMap.md)
+- [HashSet](HashSet.md)
+
+- **顺序**
+	- HashMap是通过hashcode()对其内容进行快速查找的；HashMap中的元素是**没有顺序**的
+	- TreeMap中所有的元素都是有某一固定顺序的
+- **线程安全?**
+	- HashMap和TreeMap都**不是**线程安全
+- **继承**
+	- HashMap继承AbstractMap类；覆盖了hashcode() 和equals() 方法，以确保两个相等的映射返回相同的哈希值
+	-  TreeMap继承SortedMap类；他保持键的有序顺序
+- **底层实现**
+	- HashMap：基于**hash表**实现的；使用HashMap要求添加的键类明确定义了hashcode() 和equals()
+	- TreeMap：基于**红黑树**实现的；TreeMap就没有调优选项，因为红黑树总是处于平衡的状态
+- **应用场景**
+	- HashMap：适用于Map插入，删除，定位元素
+	- TreeMap：适用于按自然顺序或自定义顺序遍历键（key）
+- 

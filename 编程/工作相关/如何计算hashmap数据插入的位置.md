@@ -1,0 +1,11 @@
+- ![](attachments/Pasted%20image%2020230221011901.png)
+- **获取新hash值**
+	- **key.hashCode()与key.hashCode()右移16位后做异或运算**
+		- hashCode()是32位
+		- 实际就是原来的hashCode()值的高位与低位做^运算
+			- 对扰动后的hash值取余，写成**位运算提高效率**
+				- 低位关系紧密，所以造成的碰撞的几率会大很多
+	- ![](attachments/Pasted%20image%2020230221011035.png)
+- **求余数**
+	- ![](attachments/Pasted%20image%2020230221011919.png)
+	- h& (length-1)运算从数值上来讲其实等价于对length取模，也就是h%length
